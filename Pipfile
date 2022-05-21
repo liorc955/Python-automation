@@ -1,0 +1,20 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+black = "*"
+pytest-env = "*"
+requests = "*"
+allure-pytest = "*"
+pytest = "*"
+selenium = "*"
+webdriver-manager = "*"
+selenium-page-factory = "*"
+jsonpath = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.9"

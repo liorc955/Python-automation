@@ -1,0 +1,1298 @@
+05/04/2022 03:19:03 PM: INFO: ******************testCases/test_api.py::Test_API::test01_getRequest Setting Passed******************
+05/04/2022 03:19:03 PM: INFO: ******************testCases/test_api.py::Test_API::test01_getRequest Executing Passed******************
+05/04/2022 03:19:04 PM: INFO: ******************testCases/test_api.py::Test_API::test02_postRequest Setting Passed******************
+05/04/2022 03:19:04 PM: INFO: ******************testCases/test_api.py::Test_API::test02_postRequest Executing Passed******************
+05/04/2022 03:19:04 PM: INFO: ******************testCases/test_api.py::Test_API::test03_delete Setting Passed******************
+05/04/2022 03:19:04 PM: INFO: ******************testCases/test_api.py::Test_API::test03_delete Executing Passed******************
+05/04/2022 03:19:04 PM: INFO: ******************testCases/test_api.py::Test_API::test04_put Setting Passed******************
+05/04/2022 03:19:04 PM: INFO: ******************testCases/test_api.py::Test_API::test04_put Executing Passed******************
+05/04/2022 03:19:04 PM: INFO: ******************testCases/test_api.py::Test_API::test05_put[Jones-SW Tester] Setting Passed******************
+05/04/2022 03:19:04 PM: INFO: ******************testCases/test_api.py::Test_API::test05_put[Jones-SW Tester] Executing Passed******************
+05/04/2022 03:19:05 PM: INFO: ******************testCases/test_api.py::Test_API::test05_put[Michael-Scrum Master] Setting Passed******************
+05/04/2022 03:19:05 PM: INFO: ******************testCases/test_api.py::Test_API::test05_put[Michael-Scrum Master] Executing Passed******************
+05/04/2022 03:19:05 PM: INFO: ******************testCases/test_api.py::Test_API::test05_put[Emma-SW Developer] Setting Passed******************
+05/04/2022 03:19:05 PM: INFO: ******************testCases/test_api.py::Test_API::test05_put[Emma-SW Developer] Executing Passed******************
+05/04/2022 03:19:56 PM: INFO: ******************testCases/test_api.py::Test_API::test04_put Setting Passed******************
+05/04/2022 03:19:56 PM: INFO: ******************testCases/test_api.py::Test_API::test04_put Executing Passed******************
+05/04/2022 03:20:50 PM: INFO: ******************testCases/test_api.py::Test_API::test01_getRequest Setting Passed******************
+05/04/2022 03:20:50 PM: INFO: ******************testCases/test_api.py::Test_API::test01_getRequest Executing Passed******************
+05/04/2022 03:20:51 PM: INFO: ******************testCases/test_api.py::Test_API::test02_postRequest Setting Passed******************
+05/04/2022 03:20:51 PM: INFO: ******************testCases/test_api.py::Test_API::test02_postRequest Executing Passed******************
+05/04/2022 03:20:51 PM: INFO: ******************testCases/test_api.py::Test_API::test03_delete Setting Passed******************
+05/04/2022 03:20:51 PM: INFO: ******************testCases/test_api.py::Test_API::test03_delete Executing Passed******************
+05/04/2022 03:20:51 PM: INFO: ******************testCases/test_api.py::Test_API::test05_put[Jones-SW Tester] Setting Passed******************
+05/04/2022 03:20:51 PM: INFO: ******************testCases/test_api.py::Test_API::test05_put[Jones-SW Tester] Executing Passed******************
+05/04/2022 03:20:52 PM: INFO: ******************testCases/test_api.py::Test_API::test05_put[Michael-Scrum Master] Setting Passed******************
+05/04/2022 03:20:52 PM: INFO: ******************testCases/test_api.py::Test_API::test05_put[Michael-Scrum Master] Executing Passed******************
+05/04/2022 03:20:52 PM: INFO: ******************testCases/test_api.py::Test_API::test05_put[Emma-SW Developer] Setting Passed******************
+05/04/2022 03:20:52 PM: INFO: ******************testCases/test_api.py::Test_API::test05_put[Emma-SW Developer] Executing Passed******************
+05/04/2022 03:34:15 PM: INFO: ******************testCases/test_api.py::Test_API::test01_getRequest Setting Passed******************
+05/04/2022 03:34:15 PM: INFO: ******************testCases/test_api.py::Test_API::test01_getRequest Executing Passed******************
+05/04/2022 03:34:15 PM: INFO: ******************testCases/test_api.py::Test_API::test02_postRequest Setting Passed******************
+05/04/2022 03:34:15 PM: INFO: ******************testCases/test_api.py::Test_API::test02_postRequest Executing Passed******************
+05/04/2022 03:34:16 PM: INFO: ******************testCases/test_api.py::Test_API::test03_delete Setting Passed******************
+05/04/2022 03:34:16 PM: INFO: ******************testCases/test_api.py::Test_API::test03_delete Executing Passed******************
+05/04/2022 03:34:16 PM: INFO: ******************testCases/test_api.py::Test_API::test04_put Setting Passed******************
+05/04/2022 03:34:16 PM: INFO: ******************testCases/test_api.py::Test_API::test04_put Executing Passed******************
+05/04/2022 03:34:17 PM: INFO: ******************testCases/test_api.py::Test_API::test05_put[name TEST] Setting Passed******************
+05/04/2022 03:34:17 PM: INFO: ******************testCases/test_api.py::Test_API::test05_put[name TEST] Executing Passed******************
+05/04/2022 03:34:17 PM: INFO: ******************testCases/test_api.py::Test_API::test05_put[job TEST] Setting Passed******************
+05/04/2022 03:34:17 PM: INFO: ******************testCases/test_api.py::Test_API::test05_put[job TEST] Executing Passed******************
+05/04/2022 03:34:17 PM: INFO: ******************testCases/test_api.py::Test_API::test05_put[sdfs] Setting Passed******************
+05/04/2022 03:34:17 PM: INFO: ******************testCases/test_api.py::Test_API::test05_put[sdfs] Executing Passed******************
+05/04/2022 03:34:48 PM: INFO: ******************testCases/test_api.py::Test_API::test01_getRequest Setting Passed******************
+05/04/2022 03:34:48 PM: INFO: ******************testCases/test_api.py::Test_API::test01_getRequest Executing Passed******************
+05/04/2022 03:34:48 PM: INFO: ******************testCases/test_api.py::Test_API::test02_postRequest Setting Passed******************
+05/04/2022 03:34:48 PM: INFO: ******************testCases/test_api.py::Test_API::test02_postRequest Executing Passed******************
+05/04/2022 03:34:48 PM: INFO: ******************testCases/test_api.py::Test_API::test03_delete Setting Passed******************
+05/04/2022 03:34:48 PM: INFO: ******************testCases/test_api.py::Test_API::test03_delete Executing Passed******************
+05/04/2022 03:34:48 PM: INFO: ******************testCases/test_api.py::Test_API::test04_put Setting Passed******************
+05/04/2022 03:34:48 PM: INFO: ******************testCases/test_api.py::Test_API::test04_put Executing Passed******************
+05/04/2022 03:34:49 PM: INFO: ******************testCases/test_api.py::Test_API::test05_put[Jones-SW Tester] Setting Passed******************
+05/04/2022 03:34:49 PM: INFO: ******************testCases/test_api.py::Test_API::test05_put[Jones-SW Tester] Executing Passed******************
+05/04/2022 03:34:49 PM: INFO: ******************testCases/test_api.py::Test_API::test05_put[Michael-Scrum Master] Setting Passed******************
+05/04/2022 03:34:49 PM: INFO: ******************testCases/test_api.py::Test_API::test05_put[Michael-Scrum Master] Executing Passed******************
+05/04/2022 03:34:49 PM: INFO: ******************testCases/test_api.py::Test_API::test05_put[Emma-SW Developer] Setting Passed******************
+05/04/2022 03:34:49 PM: INFO: ******************testCases/test_api.py::Test_API::test05_put[Emma-SW Developer] Executing Passed******************
+05/04/2022 04:53:41 PM: INFO: ******************testCases/test_api.py::Test_API::test01_getRequest Setting Passed******************
+05/04/2022 04:53:41 PM: INFO: ******************testCases/test_api.py::Test_API::test01_getRequest Executing Passed******************
+05/04/2022 04:53:41 PM: INFO: ******************testCases/test_api.py::Test_API::test02_postRequest Setting Passed******************
+05/04/2022 04:53:41 PM: INFO: ******************testCases/test_api.py::Test_API::test02_postRequest Executing Passed******************
+05/04/2022 04:53:41 PM: INFO: ******************testCases/test_api.py::Test_API::test03_delete Setting Passed******************
+05/04/2022 04:53:41 PM: INFO: ******************testCases/test_api.py::Test_API::test03_delete Executing Passed******************
+05/04/2022 04:53:42 PM: INFO: ******************testCases/test_api.py::Test_API::test04_put Setting Passed******************
+05/04/2022 04:53:42 PM: INFO: ******************testCases/test_api.py::Test_API::test04_put Executing Passed******************
+05/04/2022 04:53:42 PM: INFO: ******************testCases/test_api.py::Test_API::test05_put[Jones-SW Tester] Setting Passed******************
+05/04/2022 04:53:42 PM: INFO: ******************testCases/test_api.py::Test_API::test05_put[Jones-SW Tester] Executing Passed******************
+05/04/2022 04:53:42 PM: INFO: ******************testCases/test_api.py::Test_API::test05_put[Michael-Scrum Master] Setting Passed******************
+05/04/2022 04:53:42 PM: INFO: ******************testCases/test_api.py::Test_API::test05_put[Michael-Scrum Master] Executing Passed******************
+05/04/2022 04:53:42 PM: INFO: ******************testCases/test_api.py::Test_API::test05_put[Emma-SW Developer] Setting Passed******************
+05/04/2022 04:53:42 PM: INFO: ******************testCases/test_api.py::Test_API::test05_put[Emma-SW Developer] Executing Passed******************
+05/05/2022 12:31:41 PM: INFO: ******************testCases/test_api.py::Test_API::test01_getRequest Setting Passed******************
+05/05/2022 12:31:41 PM: INFO: ******************testCases/test_api.py::Test_API::test01_getRequest Executing Passed******************
+05/05/2022 12:31:41 PM: INFO: ******************testCases/test_api.py::Test_API::test02_postRequest Setting Passed******************
+05/05/2022 12:31:41 PM: INFO: ******************testCases/test_api.py::Test_API::test02_postRequest Executing Passed******************
+05/05/2022 12:31:41 PM: INFO: ******************testCases/test_api.py::Test_API::test03_delete Setting Passed******************
+05/05/2022 12:31:41 PM: INFO: ******************testCases/test_api.py::Test_API::test03_delete Executing Passed******************
+05/05/2022 12:31:42 PM: INFO: ******************testCases/test_api.py::Test_API::test04_put Setting Passed******************
+05/05/2022 12:31:42 PM: INFO: ******************testCases/test_api.py::Test_API::test04_put Executing Passed******************
+05/05/2022 12:31:42 PM: INFO: ******************testCases/test_api.py::Test_API::test05_put[Jones-SW Tester] Setting Passed******************
+05/05/2022 12:31:42 PM: INFO: ******************testCases/test_api.py::Test_API::test05_put[Jones-SW Tester] Executing Passed******************
+05/05/2022 12:31:42 PM: INFO: ******************testCases/test_api.py::Test_API::test05_put[Michael-Scrum Master] Setting Passed******************
+05/05/2022 12:31:42 PM: INFO: ******************testCases/test_api.py::Test_API::test05_put[Michael-Scrum Master] Executing Passed******************
+05/05/2022 12:31:42 PM: INFO: ******************testCases/test_api.py::Test_API::test05_put[Emma-SW Developer] Setting Passed******************
+05/05/2022 12:31:42 PM: INFO: ******************testCases/test_api.py::Test_API::test05_put[Emma-SW Developer] Executing Passed******************
+05/05/2022 04:20:00 PM: INFO: ******************testCases/test_api.py::Test_API::test01_getRequest Setting Passed******************
+05/05/2022 04:20:00 PM: INFO: ******************testCases/test_api.py::Test_API::test01_getRequest Executing Passed******************
+05/05/2022 04:20:01 PM: INFO: ******************testCases/test_api.py::Test_API::test02_postRequest Setting Passed******************
+05/05/2022 04:20:01 PM: INFO: ******************testCases/test_api.py::Test_API::test02_postRequest Executing Passed******************
+05/05/2022 04:20:01 PM: INFO: ******************testCases/test_api.py::Test_API::test03_delete Setting Passed******************
+05/05/2022 04:20:01 PM: INFO: ******************testCases/test_api.py::Test_API::test03_delete Executing Passed******************
+05/05/2022 04:20:01 PM: INFO: ******************testCases/test_api.py::Test_API::test04_put Setting Passed******************
+05/05/2022 04:20:01 PM: INFO: ******************testCases/test_api.py::Test_API::test04_put Executing Passed******************
+05/05/2022 04:20:01 PM: INFO: ******************testCases/test_api.py::Test_API::test05_put[Jones-SW Tester] Setting Passed******************
+05/05/2022 04:20:01 PM: INFO: ******************testCases/test_api.py::Test_API::test05_put[Jones-SW Tester] Executing Passed******************
+05/05/2022 04:20:02 PM: INFO: ******************testCases/test_api.py::Test_API::test05_put[Michael-Scrum Master] Setting Passed******************
+05/05/2022 04:20:02 PM: INFO: ******************testCases/test_api.py::Test_API::test05_put[Michael-Scrum Master] Executing Passed******************
+05/05/2022 04:20:02 PM: INFO: ******************testCases/test_api.py::Test_API::test05_put[Emma-SW Developer] Setting Passed******************
+05/05/2022 04:20:02 PM: INFO: ******************testCases/test_api.py::Test_API::test05_put[Emma-SW Developer] Executing Passed******************
+05/05/2022 04:20:58 PM: INFO: ******************testCases/test_api.py::Test_API::test01_getRequest Setting Passed******************
+05/05/2022 04:20:58 PM: INFO: ******************testCases/test_api.py::Test_API::test01_getRequest Executing Passed******************
+05/05/2022 04:21:12 PM: INFO: ******************testCases/test_api.py::Test_API::test02_postRequest Setting Passed******************
+05/05/2022 04:21:12 PM: INFO: ******************testCases/test_api.py::Test_API::test02_postRequest Executing Passed******************
+05/05/2022 04:21:26 PM: INFO: ******************testCases/test_api.py::Test_API::test01_getRequest Setting Passed******************
+05/05/2022 04:21:26 PM: INFO: ******************testCases/test_api.py::Test_API::test01_getRequest Executing Passed******************
+05/05/2022 04:21:26 PM: INFO: ******************testCases/test_api.py::Test_API::test02_postRequest Setting Passed******************
+05/05/2022 04:21:26 PM: INFO: ******************testCases/test_api.py::Test_API::test02_postRequest Executing Passed******************
+05/05/2022 04:21:27 PM: INFO: ******************testCases/test_api.py::Test_API::test03_delete Setting Passed******************
+05/05/2022 04:21:27 PM: INFO: ******************testCases/test_api.py::Test_API::test03_delete Executing Passed******************
+05/05/2022 04:21:27 PM: INFO: ******************testCases/test_api.py::Test_API::test04_put Setting Passed******************
+05/05/2022 04:21:27 PM: INFO: ******************testCases/test_api.py::Test_API::test04_put Executing Passed******************
+05/05/2022 04:21:27 PM: INFO: ******************testCases/test_api.py::Test_API::test05_put[Jones-SW Tester] Setting Passed******************
+05/05/2022 04:21:27 PM: INFO: ******************testCases/test_api.py::Test_API::test05_put[Jones-SW Tester] Executing Passed******************
+05/05/2022 04:21:27 PM: INFO: ******************testCases/test_api.py::Test_API::test05_put[Michael-Scrum Master] Setting Passed******************
+05/05/2022 04:21:27 PM: INFO: ******************testCases/test_api.py::Test_API::test05_put[Michael-Scrum Master] Executing Passed******************
+05/05/2022 04:21:27 PM: INFO: ******************testCases/test_api.py::Test_API::test05_put[Emma-SW Developer] Setting Passed******************
+05/05/2022 04:21:27 PM: INFO: ******************testCases/test_api.py::Test_API::test05_put[Emma-SW Developer] Executing Passed******************
+05/05/2022 04:23:23 PM: INFO: ******************testCases/test_api.py::Test_API::test_06 Setting Passed******************
+05/05/2022 04:23:23 PM: INFO: ******************testCases/test_api.py::Test_API::test_06 Executing Passed******************
+05/05/2022 04:59:53 PM: INFO: ******************testCases/test_api.py::test02_postRequest Setting Failed******************
+05/05/2022 05:00:01 PM: INFO: ******************testCases/test_api.py::test01_getRequest Setting Failed******************
+05/05/2022 05:00:01 PM: INFO: ******************testCases/test_api.py::test02_postRequest Setting Failed******************
+05/05/2022 05:00:02 PM: INFO: ******************testCases/test_api.py::test03_delete Setting Failed******************
+05/05/2022 05:00:02 PM: INFO: ******************testCases/test_api.py::test04_put Setting Failed******************
+05/05/2022 05:00:02 PM: INFO: ******************testCases/test_api.py::test05_put[Jones-SW Tester] Setting Failed******************
+05/05/2022 05:00:02 PM: INFO: ******************testCases/test_api.py::test05_put[Michael-Scrum Master] Setting Failed******************
+05/05/2022 05:00:02 PM: INFO: ******************testCases/test_api.py::test05_put[Emma-SW Developer] Setting Failed******************
+05/05/2022 05:00:50 PM: INFO: ******************testCases/test_api.py::test01_getRequest Setting Passed******************
+05/05/2022 05:00:50 PM: INFO: ******************testCases/test_api.py::test01_getRequest Executing Passed******************
+05/05/2022 05:00:50 PM: INFO: ******************testCases/test_api.py::test02_postRequest Setting Passed******************
+05/05/2022 05:00:50 PM: INFO: ******************testCases/test_api.py::test02_postRequest Executing Passed******************
+05/05/2022 05:00:50 PM: INFO: ******************testCases/test_api.py::test03_delete Setting Passed******************
+05/05/2022 05:00:50 PM: INFO: ******************testCases/test_api.py::test03_delete Executing Passed******************
+05/05/2022 05:00:51 PM: INFO: ******************testCases/test_api.py::test04_put Setting Passed******************
+05/05/2022 05:00:51 PM: INFO: ******************testCases/test_api.py::test04_put Executing Passed******************
+05/05/2022 05:00:51 PM: INFO: ******************testCases/test_api.py::test05_put[Jones-SW Tester] Setting Passed******************
+05/05/2022 05:00:51 PM: INFO: ******************testCases/test_api.py::test05_put[Jones-SW Tester] Executing Passed******************
+05/05/2022 05:00:51 PM: INFO: ******************testCases/test_api.py::test05_put[Michael-Scrum Master] Setting Passed******************
+05/05/2022 05:00:51 PM: INFO: ******************testCases/test_api.py::test05_put[Michael-Scrum Master] Executing Passed******************
+05/05/2022 05:00:51 PM: INFO: ******************testCases/test_api.py::test05_put[Emma-SW Developer] Setting Passed******************
+05/05/2022 05:00:51 PM: INFO: ******************testCases/test_api.py::test05_put[Emma-SW Developer] Executing Passed******************
+05/05/2022 05:08:38 PM: INFO: 
+
+05/05/2022 05:08:38 PM: INFO: ====== WebDriver manager ======
+05/05/2022 05:08:38 PM: INFO: Current google-chrome version is 100.0.4896
+05/05/2022 05:08:38 PM: INFO: Get LATEST chromedriver version for 100.0.4896 google-chrome
+05/05/2022 05:08:39 PM: INFO: Trying to download new driver from https://chromedriver.storage.googleapis.com/100.0.4896.60/chromedriver_win32.zip
+05/05/2022 05:08:40 PM: INFO: Driver has been saved in cache [C:\Users\liorc\.wdm\drivers\chromedriver\win32\100.0.4896.60]
+05/05/2022 05:08:43 PM: INFO: ******************testCases/test_login.py::test01_homePageTitle Setting Passed******************
+05/05/2022 05:08:43 PM: INFO: ******************testCases/test_login.py::test01_homePageTitle Executing Passed******************
+05/05/2022 05:08:46 PM: INFO: 
+
+05/05/2022 05:08:46 PM: INFO: ====== WebDriver manager ======
+05/05/2022 05:08:46 PM: INFO: Current google-chrome version is 100.0.4896
+05/05/2022 05:08:46 PM: INFO: Get LATEST chromedriver version for 100.0.4896 google-chrome
+05/05/2022 05:08:46 PM: INFO: Driver [C:\Users\liorc\.wdm\drivers\chromedriver\win32\100.0.4896.60\chromedriver.exe] found in cache
+05/05/2022 05:08:51 PM: INFO: ******************testCases/test_login.py::test02_login Setting Passed******************
+05/05/2022 05:08:51 PM: INFO: ******************testCases/test_login.py::test02_login Executing Passed******************
+05/06/2022 01:09:51 PM: INFO: 
+
+05/06/2022 01:09:51 PM: INFO: ====== WebDriver manager ======
+05/06/2022 01:09:51 PM: INFO: Current google-chrome version is 101.0.4951
+05/06/2022 01:09:51 PM: INFO: Get LATEST chromedriver version for 101.0.4951 google-chrome
+05/06/2022 01:09:52 PM: INFO: There is no [win32] chromedriver for browser 101.0.4951 in cache
+05/06/2022 01:09:52 PM: INFO: Trying to download new driver from https://chromedriver.storage.googleapis.com/101.0.4951.41/chromedriver_win32.zip
+05/06/2022 01:09:54 PM: INFO: Driver has been saved in cache [C:\Users\liorc\.wdm\drivers\chromedriver\win32\101.0.4951.41]
+05/06/2022 01:10:01 PM: INFO: ******************testCases/test_login_ddt.py::Test_DDT_Login::test01_login_ddt[admin@yourstore.com-admin] Setting Passed******************
+05/06/2022 01:10:01 PM: INFO: ******************testCases/test_login_ddt.py::Test_DDT_Login::test01_login_ddt[admin@yourstore.com-admin] Executing Passed******************
+05/06/2022 01:10:03 PM: INFO: ******************testCases/test_login_ddt.py::Test_DDT_Login::test01_login_ddt[admin@yourstore.com-admin11] Setting Passed******************
+05/06/2022 01:10:04 PM: INFO: ******************testCases/test_login_ddt.py::Test_DDT_Login::test01_login_ddt[admin@yourstore.com-admin11] Executing Failed******************
+05/06/2022 01:10:05 PM: INFO: ******************testCases/test_login_ddt.py::Test_DDT_Login::test01_login_ddt[admin12@yourstore.com-admin] Setting Passed******************
+05/06/2022 01:10:06 PM: INFO: ******************testCases/test_login_ddt.py::Test_DDT_Login::test01_login_ddt[admin12@yourstore.com-admin] Executing Failed******************
+05/06/2022 05:55:52 PM: INFO: 
+
+05/06/2022 05:55:52 PM: INFO: ====== WebDriver manager ======
+05/06/2022 05:55:52 PM: INFO: Current google-chrome version is 101.0.4951
+05/06/2022 05:55:52 PM: INFO: Get LATEST chromedriver version for 101.0.4951 google-chrome
+05/06/2022 05:55:53 PM: INFO: Driver [C:\Users\liorc\.wdm\drivers\chromedriver\win32\101.0.4951.41\chromedriver.exe] found in cache
+05/06/2022 05:55:59 PM: INFO: ******************testCases/test_login_ddt.py::Test_DDT_Login::test01_login_ddt[admin@yourstore.com-admin] Setting Passed******************
+05/06/2022 05:55:59 PM: INFO: ******************testCases/test_login_ddt.py::Test_DDT_Login::test01_login_ddt[admin@yourstore.com-admin] Executing Passed******************
+05/06/2022 05:56:00 PM: INFO: ******************testCases/test_login_ddt.py::Test_DDT_Login::test01_login_ddt[admin@yourstore.com-admin11] Setting Passed******************
+05/06/2022 05:56:01 PM: INFO: ******************testCases/test_login_ddt.py::Test_DDT_Login::test01_login_ddt[admin@yourstore.com-admin11] Executing Failed******************
+05/06/2022 05:56:02 PM: INFO: ******************testCases/test_login_ddt.py::Test_DDT_Login::test01_login_ddt[admin12@yourstore.com-admin] Setting Passed******************
+05/06/2022 05:56:03 PM: INFO: ******************testCases/test_login_ddt.py::Test_DDT_Login::test01_login_ddt[admin12@yourstore.com-admin] Executing Failed******************
+05/06/2022 05:57:15 PM: INFO: 
+
+05/06/2022 05:57:15 PM: INFO: ====== WebDriver manager ======
+05/06/2022 05:57:16 PM: INFO: Current google-chrome version is 101.0.4951
+05/06/2022 05:57:16 PM: INFO: Get LATEST chromedriver version for 101.0.4951 google-chrome
+05/06/2022 05:57:16 PM: INFO: Driver [C:\Users\liorc\.wdm\drivers\chromedriver\win32\101.0.4951.41\chromedriver.exe] found in cache
+05/06/2022 05:57:22 PM: INFO: ******************testCases/test_login_ddt.py::test01_login_ddt[admin@yourstore.com-admin] Setting Passed******************
+05/06/2022 05:57:22 PM: INFO: ******************testCases/test_login_ddt.py::test01_login_ddt[admin@yourstore.com-admin] Executing Passed******************
+05/06/2022 05:57:24 PM: INFO: 
+
+05/06/2022 05:57:24 PM: INFO: ====== WebDriver manager ======
+05/06/2022 05:57:25 PM: INFO: Current google-chrome version is 101.0.4951
+05/06/2022 05:57:25 PM: INFO: Get LATEST chromedriver version for 101.0.4951 google-chrome
+05/06/2022 05:57:25 PM: INFO: Driver [C:\Users\liorc\.wdm\drivers\chromedriver\win32\101.0.4951.41\chromedriver.exe] found in cache
+05/06/2022 05:57:27 PM: INFO: ******************testCases/test_login_ddt.py::test01_login_ddt[admin@yourstore.com-admin11] Setting Passed******************
+05/06/2022 05:57:29 PM: INFO: ******************testCases/test_login_ddt.py::test01_login_ddt[admin@yourstore.com-admin11] Executing Failed******************
+05/06/2022 05:57:31 PM: INFO: 
+
+05/06/2022 05:57:31 PM: INFO: ====== WebDriver manager ======
+05/06/2022 05:57:31 PM: INFO: Current google-chrome version is 101.0.4951
+05/06/2022 05:57:31 PM: INFO: Get LATEST chromedriver version for 101.0.4951 google-chrome
+05/06/2022 05:57:31 PM: INFO: Driver [C:\Users\liorc\.wdm\drivers\chromedriver\win32\101.0.4951.41\chromedriver.exe] found in cache
+05/06/2022 05:57:35 PM: INFO: ******************testCases/test_login_ddt.py::test01_login_ddt[admin12@yourstore.com-admin] Setting Passed******************
+05/06/2022 05:57:36 PM: INFO: ******************testCases/test_login_ddt.py::test01_login_ddt[admin12@yourstore.com-admin] Executing Failed******************
+05/06/2022 05:59:29 PM: INFO: 
+
+05/06/2022 05:59:29 PM: INFO: ====== WebDriver manager ======
+05/06/2022 05:59:30 PM: INFO: Current google-chrome version is 101.0.4951
+05/06/2022 05:59:30 PM: INFO: Get LATEST chromedriver version for 101.0.4951 google-chrome
+05/06/2022 05:59:30 PM: INFO: Driver [C:\Users\liorc\.wdm\drivers\chromedriver\win32\101.0.4951.41\chromedriver.exe] found in cache
+05/06/2022 05:59:36 PM: INFO: ******************testCases/test_login_ddt.py::test01_login_ddt[admin@yourstore.com-admin] Setting Passed******************
+05/06/2022 05:59:36 PM: INFO: ******************testCases/test_login_ddt.py::test01_login_ddt[admin@yourstore.com-admin] Executing Passed******************
+05/06/2022 05:59:37 PM: INFO: ******************testCases/test_login_ddt.py::test01_login_ddt[admin@yourstore.com-admin11] Setting Passed******************
+05/06/2022 05:59:38 PM: INFO: ******************testCases/test_login_ddt.py::test01_login_ddt[admin@yourstore.com-admin11] Executing Failed******************
+05/06/2022 05:59:39 PM: INFO: ******************testCases/test_login_ddt.py::test01_login_ddt[admin12@yourstore.com-admin] Setting Passed******************
+05/06/2022 05:59:40 PM: INFO: ******************testCases/test_login_ddt.py::test01_login_ddt[admin12@yourstore.com-admin] Executing Failed******************
+05/06/2022 06:02:29 PM: INFO: 
+
+05/06/2022 06:02:29 PM: INFO: ====== WebDriver manager ======
+05/06/2022 06:02:29 PM: INFO: Current google-chrome version is 101.0.4951
+05/06/2022 06:02:29 PM: INFO: Get LATEST chromedriver version for 101.0.4951 google-chrome
+05/06/2022 06:02:29 PM: INFO: Driver [C:\Users\liorc\.wdm\drivers\chromedriver\win32\101.0.4951.41\chromedriver.exe] found in cache
+05/06/2022 06:02:35 PM: INFO: ******************testCases/test_login_ddt.py::test01_login_ddt[admin@yourstore.com-admin] Setting Passed******************
+05/06/2022 06:02:35 PM: INFO: ******************testCases/test_login_ddt.py::test01_login_ddt[admin@yourstore.com-admin] Executing Passed******************
+05/06/2022 06:02:36 PM: INFO: ******************testCases/test_login_ddt.py::test01_login_ddt[admin@yourstore.com-admin11] Setting Passed******************
+05/06/2022 06:02:37 PM: INFO: ******************testCases/test_login_ddt.py::test01_login_ddt[admin@yourstore.com-admin11] Executing Failed******************
+05/06/2022 06:02:38 PM: INFO: ******************testCases/test_login_ddt.py::test01_login_ddt[admin12@yourstore.com-admin] Setting Passed******************
+05/06/2022 06:02:39 PM: INFO: ******************testCases/test_login_ddt.py::test01_login_ddt[admin12@yourstore.com-admin] Executing Failed******************
+05/13/2022 06:50:50 PM: INFO: 
+
+05/13/2022 06:50:50 PM: INFO: ====== WebDriver manager ======
+05/13/2022 06:50:51 PM: INFO: Current google-chrome version is 101.0.4951
+05/13/2022 06:50:51 PM: INFO: Get LATEST chromedriver version for 101.0.4951 google-chrome
+05/13/2022 06:50:51 PM: INFO: Driver [C:\Users\liorc\.wdm\drivers\chromedriver\win32\101.0.4951.41\chromedriver.exe] found in cache
+05/13/2022 06:50:57 PM: INFO: ******************test_login.py::test01_homePageTitle Setting Passed******************
+05/13/2022 06:50:57 PM: INFO: ******************test_login.py::test01_homePageTitle Executing Passed******************
+05/13/2022 06:51:01 PM: INFO: ******************test_login.py::test02_login Setting Passed******************
+05/13/2022 06:51:01 PM: INFO: ******************test_login.py::test02_login Executing Passed******************
+05/13/2022 06:53:20 PM: INFO: 
+
+05/13/2022 06:53:20 PM: INFO: ====== WebDriver manager ======
+05/13/2022 06:53:22 PM: INFO: Current google-chrome version is 101.0.4951
+05/13/2022 06:53:22 PM: INFO: Get LATEST chromedriver version for 101.0.4951 google-chrome
+05/13/2022 06:53:22 PM: INFO: Driver [C:\Users\liorc\.wdm\drivers\chromedriver\win32\101.0.4951.41\chromedriver.exe] found in cache
+05/13/2022 06:53:29 PM: INFO: ******************test_login_ddt.py::test01_login_ddt[admin@yourstore.com-admin] Setting Passed******************
+05/13/2022 06:53:29 PM: INFO: ******************test_login_ddt.py::test01_login_ddt[admin@yourstore.com-admin] Executing Passed******************
+05/13/2022 06:53:30 PM: INFO: ******************test_login_ddt.py::test01_login_ddt[admin@yourstore.com-admin11] Setting Passed******************
+05/13/2022 06:53:32 PM: INFO: ******************test_login_ddt.py::test01_login_ddt[admin@yourstore.com-admin11] Executing Failed******************
+05/13/2022 06:53:33 PM: INFO: ******************test_login_ddt.py::test01_login_ddt[admin12@yourstore.com-admin] Setting Passed******************
+05/13/2022 06:53:34 PM: INFO: ******************test_login_ddt.py::test01_login_ddt[admin12@yourstore.com-admin] Executing Failed******************
+05/13/2022 06:54:48 PM: INFO: ******************test_search_customer.py::test01_search_customer_by_email Setting Passed******************
+05/13/2022 06:54:48 PM: INFO: ******************test_search_customer.py::test01_search_customer_by_email Executing Passed******************
+05/13/2022 06:54:54 PM: INFO: ******************test_search_customer.py::test02_search_customer_by_name Setting Passed******************
+05/13/2022 06:54:54 PM: INFO: ******************test_search_customer.py::test02_search_customer_by_name Executing Passed******************
+05/13/2022 06:55:36 PM: INFO: 
+
+05/13/2022 06:55:36 PM: INFO: ====== WebDriver manager ======
+05/13/2022 06:55:37 PM: INFO: Current google-chrome version is 101.0.4951
+05/13/2022 06:55:37 PM: INFO: Get LATEST chromedriver version for 101.0.4951 google-chrome
+05/13/2022 06:55:38 PM: INFO: Driver [C:\Users\liorc\.wdm\drivers\chromedriver\win32\101.0.4951.41\chromedriver.exe] found in cache
+05/13/2022 06:55:49 PM: INFO: ******************test_search_customer.py::test01_search_customer_by_email Setting Passed******************
+05/13/2022 06:55:49 PM: INFO: ******************test_search_customer.py::test01_search_customer_by_email Executing Passed******************
+05/13/2022 06:55:55 PM: INFO: ******************test_search_customer.py::test02_search_customer_by_name Setting Passed******************
+05/13/2022 06:55:55 PM: INFO: ******************test_search_customer.py::test02_search_customer_by_name Executing Passed******************
+05/13/2022 06:57:00 PM: INFO: 
+
+05/13/2022 06:57:00 PM: INFO: ====== WebDriver manager ======
+05/13/2022 06:57:01 PM: INFO: Current google-chrome version is 101.0.4951
+05/13/2022 06:57:01 PM: INFO: Get LATEST chromedriver version for 101.0.4951 google-chrome
+05/13/2022 06:57:02 PM: INFO: Driver [C:\Users\liorc\.wdm\drivers\chromedriver\win32\101.0.4951.41\chromedriver.exe] found in cache
+05/13/2022 06:57:21 PM: INFO: ******************test_add_customer.py::test01_add_new_customer Setting Passed******************
+05/13/2022 06:57:21 PM: INFO: ******************test_add_customer.py::test01_add_new_customer Executing Passed******************
+05/13/2022 06:59:38 PM: INFO: 
+
+05/13/2022 06:59:38 PM: INFO: ====== WebDriver manager ======
+05/13/2022 06:59:39 PM: INFO: Current google-chrome version is 101.0.4951
+05/13/2022 06:59:39 PM: INFO: Get LATEST chromedriver version for 101.0.4951 google-chrome
+05/13/2022 06:59:39 PM: INFO: Driver [C:\Users\liorc\.wdm\drivers\chromedriver\win32\101.0.4951.41\chromedriver.exe] found in cache
+05/13/2022 06:59:49 PM: INFO: ******************test_search_customer.py::test01_search_customer_by_email Setting Passed******************
+05/13/2022 06:59:49 PM: INFO: ******************test_search_customer.py::test01_search_customer_by_email Executing Passed******************
+05/13/2022 06:59:55 PM: INFO: ******************test_search_customer.py::test02_search_customer_by_name Setting Passed******************
+05/13/2022 06:59:55 PM: INFO: ******************test_search_customer.py::test02_search_customer_by_name Executing Passed******************
+05/13/2022 07:00:47 PM: INFO: 
+
+05/13/2022 07:00:47 PM: INFO: ====== WebDriver manager ======
+05/13/2022 07:00:48 PM: INFO: Current google-chrome version is 101.0.4951
+05/13/2022 07:00:48 PM: INFO: Get LATEST chromedriver version for 101.0.4951 google-chrome
+05/13/2022 07:00:49 PM: INFO: Driver [C:\Users\liorc\.wdm\drivers\chromedriver\win32\101.0.4951.41\chromedriver.exe] found in cache
+05/13/2022 07:00:55 PM: INFO: ******************test_login_ddt.py::test01_login_ddt[admin@yourstore.com-admin] Setting Passed******************
+05/13/2022 07:00:55 PM: INFO: ******************test_login_ddt.py::test01_login_ddt[admin@yourstore.com-admin] Executing Passed******************
+05/13/2022 07:00:57 PM: INFO: ******************test_login_ddt.py::test01_login_ddt[admin@yourstore.com-admin11] Setting Passed******************
+05/13/2022 07:00:58 PM: INFO: ******************test_login_ddt.py::test01_login_ddt[admin@yourstore.com-admin11] Executing Failed******************
+05/13/2022 07:00:59 PM: INFO: ******************test_login_ddt.py::test01_login_ddt[admin12@yourstore.com-admin] Setting Passed******************
+05/13/2022 07:01:00 PM: INFO: ******************test_login_ddt.py::test01_login_ddt[admin12@yourstore.com-admin] Executing Failed******************
+05/13/2022 07:01:53 PM: INFO: 
+
+05/13/2022 07:01:53 PM: INFO: ====== WebDriver manager ======
+05/13/2022 07:01:54 PM: INFO: Current google-chrome version is 101.0.4951
+05/13/2022 07:01:54 PM: INFO: Get LATEST chromedriver version for 101.0.4951 google-chrome
+05/13/2022 07:01:54 PM: INFO: Driver [C:\Users\liorc\.wdm\drivers\chromedriver\win32\101.0.4951.41\chromedriver.exe] found in cache
+05/13/2022 07:01:57 PM: INFO: ******************test_login.py::test01_homePageTitle Setting Passed******************
+05/13/2022 07:01:57 PM: INFO: ******************test_login.py::test01_homePageTitle Executing Passed******************
+05/13/2022 07:02:03 PM: INFO: ******************test_login.py::test02_login Setting Passed******************
+05/13/2022 07:02:03 PM: INFO: ******************test_login.py::test02_login Executing Passed******************
+05/13/2022 07:05:27 PM: INFO: ******************test_api.py::test01_getRequest Setting Passed******************
+05/13/2022 07:05:27 PM: INFO: ******************test_api.py::test01_getRequest Executing Passed******************
+05/13/2022 07:05:28 PM: INFO: ******************test_api.py::test02_postRequest Setting Passed******************
+05/13/2022 07:05:28 PM: INFO: ******************test_api.py::test03_delete Setting Passed******************
+05/13/2022 07:05:28 PM: INFO: ******************test_api.py::test03_delete Executing Passed******************
+05/13/2022 07:05:28 PM: INFO: ******************test_api.py::test04_put Setting Passed******************
+05/13/2022 07:05:28 PM: INFO: ******************test_api.py::test05_put[Jones-SW Tester] Setting Passed******************
+05/13/2022 07:05:28 PM: INFO: ******************test_api.py::test05_put[Michael-Scrum Master] Setting Passed******************
+05/13/2022 07:05:28 PM: INFO: ******************test_api.py::test05_put[Emma-SW Developer] Setting Passed******************
+05/13/2022 07:06:08 PM: INFO: ******************testCases/test_api.py::test01_getRequest Setting Passed******************
+05/13/2022 07:06:08 PM: INFO: ******************testCases/test_api.py::test01_getRequest Executing Passed******************
+05/13/2022 07:06:08 PM: INFO: ******************testCases/test_api.py::test02_postRequest Setting Passed******************
+05/13/2022 07:06:08 PM: INFO: ******************testCases/test_api.py::test02_postRequest Executing Passed******************
+05/13/2022 07:06:08 PM: INFO: ******************testCases/test_api.py::test03_delete Setting Passed******************
+05/13/2022 07:06:08 PM: INFO: ******************testCases/test_api.py::test03_delete Executing Passed******************
+05/13/2022 07:06:09 PM: INFO: ******************testCases/test_api.py::test04_put Setting Passed******************
+05/13/2022 07:06:09 PM: INFO: ******************testCases/test_api.py::test04_put Executing Passed******************
+05/13/2022 07:06:09 PM: INFO: ******************testCases/test_api.py::test05_put[Jones-SW Tester] Setting Passed******************
+05/13/2022 07:06:09 PM: INFO: ******************testCases/test_api.py::test05_put[Jones-SW Tester] Executing Passed******************
+05/13/2022 07:06:09 PM: INFO: ******************testCases/test_api.py::test05_put[Michael-Scrum Master] Setting Passed******************
+05/13/2022 07:06:09 PM: INFO: ******************testCases/test_api.py::test05_put[Michael-Scrum Master] Executing Passed******************
+05/13/2022 07:06:10 PM: INFO: ******************testCases/test_api.py::test05_put[Emma-SW Developer] Setting Passed******************
+05/13/2022 07:06:10 PM: INFO: ******************testCases/test_api.py::test05_put[Emma-SW Developer] Executing Passed******************
+05/13/2022 07:08:21 PM: INFO: 
+
+05/13/2022 07:08:21 PM: INFO: ====== WebDriver manager ======
+05/13/2022 07:08:22 PM: INFO: Current google-chrome version is 101.0.4951
+05/13/2022 07:08:22 PM: INFO: Get LATEST chromedriver version for 101.0.4951 google-chrome
+05/13/2022 07:08:23 PM: INFO: Driver [C:\Users\liorc\.wdm\drivers\chromedriver\win32\101.0.4951.41\chromedriver.exe] found in cache
+05/13/2022 07:08:29 PM: INFO: ******************testCases/test_login_ddt.py::test01_login_ddt[admin@yourstore.com-admin] Setting Passed******************
+05/13/2022 07:08:29 PM: INFO: ******************testCases/test_login_ddt.py::test01_login_ddt[admin@yourstore.com-admin] Executing Passed******************
+05/13/2022 07:08:30 PM: INFO: ******************testCases/test_login_ddt.py::test01_login_ddt[admin@yourstore.com-admin11] Setting Passed******************
+05/13/2022 07:08:31 PM: INFO: ******************testCases/test_login_ddt.py::test01_login_ddt[admin@yourstore.com-admin11] Executing Failed******************
+05/13/2022 07:08:32 PM: INFO: ******************testCases/test_login_ddt.py::test01_login_ddt[admin12@yourstore.com-admin] Setting Passed******************
+05/13/2022 07:08:34 PM: INFO: ******************testCases/test_login_ddt.py::test01_login_ddt[admin12@yourstore.com-admin] Executing Failed******************
+05/20/2022 10:38:14 AM: INFO: 
+
+05/20/2022 10:38:14 AM: INFO: ====== WebDriver manager ======
+05/20/2022 10:38:15 AM: INFO: Current google-chrome version is 101.0.4951
+05/20/2022 10:38:15 AM: INFO: Get LATEST chromedriver version for 101.0.4951 google-chrome
+05/20/2022 10:38:15 AM: INFO: Trying to download new driver from https://chromedriver.storage.googleapis.com/101.0.4951.41/chromedriver_win32.zip
+05/20/2022 10:38:17 AM: INFO: Driver has been saved in cache [C:\Users\liorc\.wdm\drivers\chromedriver\win32\101.0.4951.41]
+05/20/2022 10:39:16 AM: INFO: 
+
+05/20/2022 10:39:16 AM: INFO: ====== WebDriver manager ======
+05/20/2022 10:39:17 AM: INFO: Current google-chrome version is 101.0.4951
+05/20/2022 10:39:17 AM: INFO: Get LATEST chromedriver version for 101.0.4951 google-chrome
+05/20/2022 10:39:17 AM: INFO: Driver [C:\Users\liorc\.wdm\drivers\chromedriver\win32\101.0.4951.41\chromedriver.exe] found in cache
+05/20/2022 10:39:34 AM: INFO: ******************testCases/test_login_ddt.py::test01_login_ddt[admin@yourstore.com-admin] Setting Passed******************
+05/20/2022 10:39:47 AM: INFO: ******************testCases/test_login_ddt.py::test01_login_ddt[admin@yourstore.com-admin11] Setting Passed******************
+05/20/2022 10:40:01 AM: INFO: ******************testCases/test_login_ddt.py::test01_login_ddt[admin12@yourstore.com-admin] Setting Passed******************
+05/20/2022 10:40:33 AM: INFO: 
+
+05/20/2022 10:40:33 AM: INFO: ====== WebDriver manager ======
+05/20/2022 10:40:35 AM: INFO: Current google-chrome version is 101.0.4951
+05/20/2022 10:40:35 AM: INFO: Get LATEST chromedriver version for 101.0.4951 google-chrome
+05/20/2022 10:40:35 AM: INFO: Driver [C:\Users\liorc\.wdm\drivers\chromedriver\win32\101.0.4951.41\chromedriver.exe] found in cache
+05/20/2022 10:40:45 AM: INFO: ******************testCases/test_login_ddt.py::test01_login_ddt[admin@yourstore.com-admin] Setting Passed******************
+05/20/2022 10:40:45 AM: INFO: ******************testCases/test_login_ddt.py::test01_login_ddt[admin@yourstore.com-admin] Executing Passed******************
+05/20/2022 10:40:47 AM: INFO: ******************testCases/test_login_ddt.py::test01_login_ddt[admin@yourstore.com-admin11] Setting Passed******************
+05/20/2022 10:40:48 AM: INFO: ******************testCases/test_login_ddt.py::test01_login_ddt[admin@yourstore.com-admin11] Executing Failed******************
+05/20/2022 10:40:49 AM: INFO: ******************testCases/test_login_ddt.py::test01_login_ddt[admin12@yourstore.com-admin] Setting Passed******************
+05/20/2022 10:40:50 AM: INFO: ******************testCases/test_login_ddt.py::test01_login_ddt[admin12@yourstore.com-admin] Executing Failed******************
+05/20/2022 11:13:25 AM: INFO: 
+
+05/20/2022 11:13:25 AM: INFO: ====== WebDriver manager ======
+05/20/2022 11:13:25 AM: INFO: Current google-chrome version is 101.0.4951
+05/20/2022 11:13:25 AM: INFO: Get LATEST chromedriver version for 101.0.4951 google-chrome
+05/20/2022 11:13:26 AM: INFO: Driver [C:\Users\liorc\.wdm\drivers\chromedriver\win32\101.0.4951.41\chromedriver.exe] found in cache
+05/20/2022 11:13:32 AM: INFO: ******************testCases/test_login_ddt.py::test01_login_ddt[admin@yourstore.com-admin] Setting Passed******************
+05/20/2022 11:13:32 AM: INFO: ******************testCases/test_login_ddt.py::test01_login_ddt[admin@yourstore.com-admin] Executing Passed******************
+05/20/2022 11:13:33 AM: INFO: ******************testCases/test_login_ddt.py::test01_login_ddt[admin@yourstore.com-admin11] Setting Passed******************
+05/20/2022 11:13:34 AM: INFO: ******************testCases/test_login_ddt.py::test01_login_ddt[admin@yourstore.com-admin11] Executing Failed******************
+05/20/2022 11:13:35 AM: INFO: ******************testCases/test_login_ddt.py::test01_login_ddt[admin12@yourstore.com-admin] Setting Passed******************
+05/20/2022 11:13:37 AM: INFO: ******************testCases/test_login_ddt.py::test01_login_ddt[admin12@yourstore.com-admin] Executing Failed******************
+05/20/2022 11:15:06 AM: INFO: 
+
+05/20/2022 11:15:06 AM: INFO: ====== WebDriver manager ======
+05/20/2022 11:15:07 AM: INFO: Current google-chrome version is 101.0.4951
+05/20/2022 11:15:07 AM: INFO: Get LATEST chromedriver version for 101.0.4951 google-chrome
+05/20/2022 11:15:07 AM: INFO: Driver [C:\Users\liorc\.wdm\drivers\chromedriver\win32\101.0.4951.41\chromedriver.exe] found in cache
+05/20/2022 11:15:12 AM: INFO: ******************testCases/test_login_ddt.py::test01_login_ddt[admin@yourstore.com-admin] Setting Passed******************
+05/20/2022 11:15:12 AM: INFO: ******************testCases/test_login_ddt.py::test01_login_ddt[admin@yourstore.com-admin] Executing Passed******************
+05/20/2022 11:15:13 AM: INFO: ******************testCases/test_login_ddt.py::test01_login_ddt[admin@yourstore.com-admin11] Setting Passed******************
+05/20/2022 11:15:14 AM: INFO: ******************testCases/test_login_ddt.py::test01_login_ddt[admin@yourstore.com-admin11] Executing Failed******************
+05/20/2022 11:15:15 AM: INFO: ******************testCases/test_login_ddt.py::test01_login_ddt[admin12@yourstore.com-admin] Setting Passed******************
+05/20/2022 11:15:16 AM: INFO: ******************testCases/test_login_ddt.py::test01_login_ddt[admin12@yourstore.com-admin] Executing Failed******************
+05/20/2022 11:22:56 AM: INFO: 
+
+05/20/2022 11:22:56 AM: INFO: ====== WebDriver manager ======
+05/20/2022 11:22:57 AM: INFO: Current google-chrome version is 101.0.4951
+05/20/2022 11:22:57 AM: INFO: Get LATEST chromedriver version for 101.0.4951 google-chrome
+05/20/2022 11:22:57 AM: INFO: Driver [C:\Users\liorc\.wdm\drivers\chromedriver\win32\101.0.4951.41\chromedriver.exe] found in cache
+05/20/2022 11:23:00 AM: INFO: ******************testCases/test_login_ddt.py::test01_login_ddt[admin@yourstore.com-admin] Setting Passed******************
+05/20/2022 11:23:01 AM: INFO: ******************testCases/test_login_ddt.py::test01_login_ddt[admin@yourstore.com-admin] Executing Failed******************
+05/20/2022 11:23:01 AM: INFO: ******************testCases/test_login_ddt.py::test01_login_ddt[admin@yourstore.com-admin11] Setting Passed******************
+05/20/2022 11:23:02 AM: INFO: ******************testCases/test_login_ddt.py::test01_login_ddt[admin@yourstore.com-admin11] Executing Failed******************
+05/20/2022 11:23:02 AM: INFO: ******************testCases/test_login_ddt.py::test01_login_ddt[admin12@yourstore.com-admin] Setting Passed******************
+05/20/2022 11:23:04 AM: INFO: ******************testCases/test_login_ddt.py::test01_login_ddt[admin12@yourstore.com-admin] Executing Failed******************
+05/20/2022 11:23:25 AM: INFO: 
+
+05/20/2022 11:23:25 AM: INFO: ====== WebDriver manager ======
+05/20/2022 11:23:25 AM: INFO: Current google-chrome version is 101.0.4951
+05/20/2022 11:23:25 AM: INFO: Get LATEST chromedriver version for 101.0.4951 google-chrome
+05/20/2022 11:23:25 AM: INFO: Driver [C:\Users\liorc\.wdm\drivers\chromedriver\win32\101.0.4951.41\chromedriver.exe] found in cache
+05/20/2022 11:23:27 AM: INFO: ******************testCases/test_login_ddt.py::test01_login_ddt[admin@yourstore.com-admin] Setting Passed******************
+05/20/2022 11:23:29 AM: INFO: ******************testCases/test_login_ddt.py::test01_login_ddt[admin@yourstore.com-admin] Executing Failed******************
+05/20/2022 11:23:29 AM: INFO: ******************testCases/test_login_ddt.py::test01_login_ddt[admin@yourstore.com-admin11] Setting Passed******************
+05/20/2022 11:23:30 AM: INFO: ******************testCases/test_login_ddt.py::test01_login_ddt[admin@yourstore.com-admin11] Executing Failed******************
+05/20/2022 11:23:30 AM: INFO: ******************testCases/test_login_ddt.py::test01_login_ddt[admin12@yourstore.com-admin] Setting Passed******************
+05/20/2022 11:23:32 AM: INFO: ******************testCases/test_login_ddt.py::test01_login_ddt[admin12@yourstore.com-admin] Executing Failed******************
+05/20/2022 11:24:44 AM: INFO: 
+
+05/20/2022 11:24:44 AM: INFO: ====== WebDriver manager ======
+05/20/2022 11:24:45 AM: INFO: Current google-chrome version is 101.0.4951
+05/20/2022 11:24:45 AM: INFO: Get LATEST chromedriver version for 101.0.4951 google-chrome
+05/20/2022 11:24:45 AM: INFO: Driver [C:\Users\liorc\.wdm\drivers\chromedriver\win32\101.0.4951.41\chromedriver.exe] found in cache
+05/20/2022 11:24:47 AM: INFO: ******************testCases/test_login_ddt.py::test01_login_ddt[admin@yourstore.com-admin] Setting Passed******************
+05/20/2022 11:24:48 AM: INFO: ******************testCases/test_login_ddt.py::test01_login_ddt[admin@yourstore.com-admin] Executing Failed******************
+05/20/2022 11:24:49 AM: INFO: ******************testCases/test_login_ddt.py::test01_login_ddt[admin@yourstore.com-admin11] Setting Passed******************
+05/20/2022 11:24:50 AM: INFO: ******************testCases/test_login_ddt.py::test01_login_ddt[admin@yourstore.com-admin11] Executing Failed******************
+05/20/2022 11:24:50 AM: INFO: ******************testCases/test_login_ddt.py::test01_login_ddt[admin12@yourstore.com-admin] Setting Passed******************
+05/20/2022 11:24:51 AM: INFO: ******************testCases/test_login_ddt.py::test01_login_ddt[admin12@yourstore.com-admin] Executing Failed******************
+05/20/2022 11:27:31 AM: INFO: 
+
+05/20/2022 11:27:31 AM: INFO: ====== WebDriver manager ======
+05/20/2022 11:27:32 AM: INFO: Current google-chrome version is 101.0.4951
+05/20/2022 11:27:32 AM: INFO: Get LATEST chromedriver version for 101.0.4951 google-chrome
+05/20/2022 11:27:32 AM: INFO: Driver [C:\Users\liorc\.wdm\drivers\chromedriver\win32\101.0.4951.41\chromedriver.exe] found in cache
+05/20/2022 11:27:33 AM: INFO: ******************testCases/test_login_ddt.py::test01_login_ddt[admin@yourstore.com-admin] Setting Passed******************
+05/20/2022 11:27:34 AM: INFO: ******************testCases/test_login_ddt.py::test01_login_ddt[admin@yourstore.com-admin11] Setting Passed******************
+05/20/2022 11:27:35 AM: INFO: ******************testCases/test_login_ddt.py::test01_login_ddt[admin12@yourstore.com-admin] Setting Passed******************
+05/20/2022 11:28:15 AM: INFO: 
+
+05/20/2022 11:28:15 AM: INFO: ====== WebDriver manager ======
+05/20/2022 11:28:15 AM: INFO: Current google-chrome version is 101.0.4951
+05/20/2022 11:28:15 AM: INFO: Get LATEST chromedriver version for 101.0.4951 google-chrome
+05/20/2022 11:28:16 AM: INFO: Driver [C:\Users\liorc\.wdm\drivers\chromedriver\win32\101.0.4951.41\chromedriver.exe] found in cache
+05/20/2022 11:28:17 AM: INFO: ******************testCases/test_login_ddt.py::test01_login_ddt[admin@yourstore.com-admin] Setting Passed******************
+05/20/2022 11:28:18 AM: INFO: ******************testCases/test_login_ddt.py::test01_login_ddt[admin@yourstore.com-admin11] Setting Passed******************
+05/20/2022 11:28:19 AM: INFO: ******************testCases/test_login_ddt.py::test01_login_ddt[admin12@yourstore.com-admin] Setting Passed******************
+05/20/2022 11:29:25 AM: INFO: 
+
+05/20/2022 11:29:25 AM: INFO: ====== WebDriver manager ======
+05/20/2022 11:29:26 AM: INFO: Current google-chrome version is 101.0.4951
+05/20/2022 11:29:26 AM: INFO: Get LATEST chromedriver version for 101.0.4951 google-chrome
+05/20/2022 11:29:26 AM: INFO: Driver [C:\Users\liorc\.wdm\drivers\chromedriver\win32\101.0.4951.41\chromedriver.exe] found in cache
+05/20/2022 11:29:29 AM: INFO: ******************testCases/test_login_ddt.py::test01_login_ddt[admin@yourstore.com-admin] Setting Passed******************
+05/20/2022 11:29:30 AM: INFO: ******************testCases/test_login_ddt.py::test01_login_ddt[admin@yourstore.com-admin] Executing Failed******************
+05/20/2022 11:29:30 AM: INFO: ******************testCases/test_login_ddt.py::test01_login_ddt[admin@yourstore.com-admin11] Setting Passed******************
+05/20/2022 11:29:31 AM: INFO: ******************testCases/test_login_ddt.py::test01_login_ddt[admin@yourstore.com-admin11] Executing Failed******************
+05/20/2022 11:29:32 AM: INFO: ******************testCases/test_login_ddt.py::test01_login_ddt[admin12@yourstore.com-admin] Setting Passed******************
+05/20/2022 11:29:33 AM: INFO: ******************testCases/test_login_ddt.py::test01_login_ddt[admin12@yourstore.com-admin] Executing Failed******************
+05/20/2022 11:29:46 AM: INFO: 
+
+05/20/2022 11:29:46 AM: INFO: ====== WebDriver manager ======
+05/20/2022 11:29:46 AM: INFO: Current google-chrome version is 101.0.4951
+05/20/2022 11:29:46 AM: INFO: Get LATEST chromedriver version for 101.0.4951 google-chrome
+05/20/2022 11:29:46 AM: INFO: Driver [C:\Users\liorc\.wdm\drivers\chromedriver\win32\101.0.4951.41\chromedriver.exe] found in cache
+05/20/2022 11:29:49 AM: INFO: ******************testCases/test_login_ddt.py::test01_login_ddt[admin@yourstore.com-admin] Setting Passed******************
+05/20/2022 11:29:50 AM: INFO: ******************testCases/test_login_ddt.py::test01_login_ddt[admin@yourstore.com-admin] Executing Failed******************
+05/20/2022 11:29:51 AM: INFO: ******************testCases/test_login_ddt.py::test01_login_ddt[admin@yourstore.com-admin11] Setting Passed******************
+05/20/2022 11:29:52 AM: INFO: ******************testCases/test_login_ddt.py::test01_login_ddt[admin@yourstore.com-admin11] Executing Failed******************
+05/20/2022 11:29:52 AM: INFO: ******************testCases/test_login_ddt.py::test01_login_ddt[admin12@yourstore.com-admin] Setting Passed******************
+05/20/2022 11:29:54 AM: INFO: ******************testCases/test_login_ddt.py::test01_login_ddt[admin12@yourstore.com-admin] Executing Failed******************
+05/20/2022 11:30:11 AM: INFO: 
+
+05/20/2022 11:30:11 AM: INFO: ====== WebDriver manager ======
+05/20/2022 11:30:12 AM: INFO: Current google-chrome version is 101.0.4951
+05/20/2022 11:30:12 AM: INFO: Get LATEST chromedriver version for 101.0.4951 google-chrome
+05/20/2022 11:30:12 AM: INFO: Driver [C:\Users\liorc\.wdm\drivers\chromedriver\win32\101.0.4951.41\chromedriver.exe] found in cache
+05/20/2022 11:30:15 AM: INFO: ******************testCases/test_login_ddt.py::test01_login_ddt[admin@yourstore.com-admin] Setting Passed******************
+05/20/2022 11:30:16 AM: INFO: ******************testCases/test_login_ddt.py::test01_login_ddt[admin@yourstore.com-admin] Executing Failed******************
+05/20/2022 11:30:17 AM: INFO: ******************testCases/test_login_ddt.py::test01_login_ddt[admin@yourstore.com-admin11] Setting Passed******************
+05/20/2022 11:30:18 AM: INFO: ******************testCases/test_login_ddt.py::test01_login_ddt[admin@yourstore.com-admin11] Executing Failed******************
+05/20/2022 11:30:18 AM: INFO: ******************testCases/test_login_ddt.py::test01_login_ddt[admin12@yourstore.com-admin] Setting Passed******************
+05/20/2022 11:30:19 AM: INFO: ******************testCases/test_login_ddt.py::test01_login_ddt[admin12@yourstore.com-admin] Executing Failed******************
+05/20/2022 11:30:46 AM: INFO: 
+
+05/20/2022 11:30:46 AM: INFO: ====== WebDriver manager ======
+05/20/2022 11:30:46 AM: INFO: Current google-chrome version is 101.0.4951
+05/20/2022 11:30:46 AM: INFO: Get LATEST chromedriver version for 101.0.4951 google-chrome
+05/20/2022 11:30:46 AM: INFO: Driver [C:\Users\liorc\.wdm\drivers\chromedriver\win32\101.0.4951.41\chromedriver.exe] found in cache
+05/20/2022 11:30:55 AM: INFO: ******************testCases/test_login_ddt.py::test01_login_ddt[admin@yourstore.com-admin] Setting Passed******************
+05/20/2022 11:30:59 AM: INFO: 
+
+05/20/2022 11:30:59 AM: INFO: ====== WebDriver manager ======
+05/20/2022 11:31:00 AM: INFO: Current google-chrome version is 101.0.4951
+05/20/2022 11:31:00 AM: INFO: Get LATEST chromedriver version for 101.0.4951 google-chrome
+05/20/2022 11:31:00 AM: INFO: Driver [C:\Users\liorc\.wdm\drivers\chromedriver\win32\101.0.4951.41\chromedriver.exe] found in cache
+05/20/2022 11:31:07 AM: INFO: ******************testCases/test_login_ddt.py::test01_login_ddt[admin@yourstore.com-admin] Setting Passed******************
+05/20/2022 11:31:07 AM: INFO: ******************testCases/test_login_ddt.py::test01_login_ddt[admin@yourstore.com-admin] Executing Passed******************
+05/20/2022 11:31:08 AM: INFO: ******************testCases/test_login_ddt.py::test01_login_ddt[admin@yourstore.com-admin11] Setting Passed******************
+05/20/2022 11:31:09 AM: INFO: ******************testCases/test_login_ddt.py::test01_login_ddt[admin@yourstore.com-admin11] Executing Failed******************
+05/20/2022 11:31:11 AM: INFO: ******************testCases/test_login_ddt.py::test01_login_ddt[admin12@yourstore.com-admin] Setting Passed******************
+05/20/2022 11:31:12 AM: INFO: ******************testCases/test_login_ddt.py::test01_login_ddt[admin12@yourstore.com-admin] Executing Failed******************
+05/20/2022 11:32:45 AM: INFO: 
+
+05/20/2022 11:32:45 AM: INFO: ====== WebDriver manager ======
+05/20/2022 11:32:45 AM: INFO: Current google-chrome version is 101.0.4951
+05/20/2022 11:32:45 AM: INFO: Get LATEST chromedriver version for 101.0.4951 google-chrome
+05/20/2022 11:32:45 AM: INFO: Driver [C:\Users\liorc\.wdm\drivers\chromedriver\win32\101.0.4951.41\chromedriver.exe] found in cache
+05/20/2022 11:32:50 AM: INFO: ******************testCases/test_login_ddt.py::test01_login_ddt[admin@yourstore.com-admin] Setting Passed******************
+05/20/2022 11:32:50 AM: INFO: ******************testCases/test_login_ddt.py::test01_login_ddt[admin@yourstore.com-admin] Executing Passed******************
+05/20/2022 11:32:51 AM: INFO: ******************testCases/test_login_ddt.py::test01_login_ddt[admin@yourstore.com-admin11] Setting Passed******************
+05/20/2022 11:32:52 AM: INFO: ******************testCases/test_login_ddt.py::test01_login_ddt[admin@yourstore.com-admin11] Executing Failed******************
+05/20/2022 11:32:53 AM: INFO: ******************testCases/test_login_ddt.py::test01_login_ddt[admin12@yourstore.com-admin] Setting Passed******************
+05/20/2022 11:32:54 AM: INFO: ******************testCases/test_login_ddt.py::test01_login_ddt[admin12@yourstore.com-admin] Executing Failed******************
+05/20/2022 11:57:05 AM: INFO: 
+
+05/20/2022 11:57:05 AM: INFO: ====== WebDriver manager ======
+05/20/2022 11:57:05 AM: INFO: Current google-chrome version is 101.0.4951
+05/20/2022 11:57:05 AM: INFO: Get LATEST chromedriver version for 101.0.4951 google-chrome
+05/20/2022 11:57:06 AM: INFO: Driver [C:\Users\liorc\.wdm\drivers\chromedriver\win32\101.0.4951.41\chromedriver.exe] found in cache
+05/20/2022 11:57:08 AM: INFO: ******************testCases/test_login.py::test01_homePageTitle Setting Passed******************
+05/20/2022 11:57:08 AM: INFO: ******************testCases/test_login.py::test01_homePageTitle Executing Passed******************
+05/20/2022 11:57:12 AM: INFO: ******************testCases/test_login.py::test02_login Setting Passed******************
+05/20/2022 11:57:12 AM: INFO: ******************testCases/test_login.py::test02_login Executing Passed******************
+05/20/2022 12:01:01 PM: INFO: 
+
+05/20/2022 12:01:01 PM: INFO: ====== WebDriver manager ======
+05/20/2022 12:01:01 PM: INFO: Current google-chrome version is 101.0.4951
+05/20/2022 12:01:01 PM: INFO: Get LATEST chromedriver version for 101.0.4951 google-chrome
+05/20/2022 12:01:01 PM: INFO: Driver [C:\Users\liorc\.wdm\drivers\chromedriver\win32\101.0.4951.41\chromedriver.exe] found in cache
+05/20/2022 12:01:04 PM: INFO: ******************testCases/test_login.py::test01_homePageTitle Setting Passed******************
+05/20/2022 12:01:04 PM: INFO: ******************testCases/test_login.py::test01_homePageTitle Executing Passed******************
+05/20/2022 12:01:08 PM: INFO: ******************testCases/test_login.py::test02_login Setting Passed******************
+05/20/2022 12:01:08 PM: INFO: ******************testCases/test_login.py::test02_login Executing Passed******************
+05/20/2022 12:31:55 PM: INFO: 
+
+05/20/2022 12:31:55 PM: INFO: ====== WebDriver manager ======
+05/20/2022 12:31:56 PM: INFO: Current google-chrome version is 101.0.4951
+05/20/2022 12:31:56 PM: INFO: Get LATEST chromedriver version for 101.0.4951 google-chrome
+05/20/2022 12:31:56 PM: INFO: Driver [C:\Users\liorc\.wdm\drivers\chromedriver\win32\101.0.4951.41\chromedriver.exe] found in cache
+05/20/2022 12:31:59 PM: INFO: ******************testCases/test_search_customer.py::test01_search_customer_by_email Setting Passed******************
+05/20/2022 12:32:00 PM: INFO: ******************testCases/test_search_customer.py::test01_search_customer_by_email Executing Failed******************
+05/20/2022 12:32:01 PM: INFO: ******************testCases/test_search_customer.py::test02_search_customer_by_name Setting Passed******************
+05/20/2022 12:32:02 PM: INFO: ******************testCases/test_search_customer.py::test02_search_customer_by_name Executing Failed******************
+05/20/2022 12:32:24 PM: INFO: 
+
+05/20/2022 12:32:24 PM: INFO: ====== WebDriver manager ======
+05/20/2022 12:32:25 PM: INFO: Current google-chrome version is 101.0.4951
+05/20/2022 12:32:25 PM: INFO: Get LATEST chromedriver version for 101.0.4951 google-chrome
+05/20/2022 12:32:25 PM: INFO: Driver [C:\Users\liorc\.wdm\drivers\chromedriver\win32\101.0.4951.41\chromedriver.exe] found in cache
+05/20/2022 12:32:37 PM: INFO: ******************testCases/test_search_customer.py::test01_search_customer_by_email Setting Passed******************
+05/20/2022 12:32:37 PM: INFO: ******************testCases/test_search_customer.py::test01_search_customer_by_email Executing Passed******************
+05/20/2022 12:32:37 PM: INFO: ******************testCases/test_search_customer.py::test02_search_customer_by_name Setting Passed******************
+05/20/2022 12:32:38 PM: INFO: ******************testCases/test_search_customer.py::test02_search_customer_by_name Executing Failed******************
+05/20/2022 12:44:55 PM: INFO: 
+
+05/20/2022 12:44:55 PM: INFO: ====== WebDriver manager ======
+05/20/2022 12:44:55 PM: INFO: Current google-chrome version is 101.0.4951
+05/20/2022 12:44:55 PM: INFO: Get LATEST chromedriver version for 101.0.4951 google-chrome
+05/20/2022 12:44:56 PM: INFO: Driver [C:\Users\liorc\.wdm\drivers\chromedriver\win32\101.0.4951.41\chromedriver.exe] found in cache
+05/20/2022 12:45:06 PM: INFO: ******************testCases/test_search_customer.py::test01_search_customer_by_email Setting Passed******************
+05/20/2022 12:45:06 PM: INFO: ******************testCases/test_search_customer.py::test01_search_customer_by_email Executing Passed******************
+05/20/2022 12:45:12 PM: INFO: ******************testCases/test_search_customer.py::test02_search_customer_by_name Setting Passed******************
+05/20/2022 12:45:12 PM: INFO: ******************testCases/test_search_customer.py::test02_search_customer_by_name Executing Passed******************
+05/20/2022 12:51:34 PM: INFO: 
+
+05/20/2022 12:51:34 PM: INFO: ====== WebDriver manager ======
+05/20/2022 12:51:35 PM: INFO: Current google-chrome version is 101.0.4951
+05/20/2022 12:51:35 PM: INFO: Get LATEST chromedriver version for 101.0.4951 google-chrome
+05/20/2022 12:51:35 PM: INFO: Driver [C:\Users\liorc\.wdm\drivers\chromedriver\win32\101.0.4951.41\chromedriver.exe] found in cache
+05/20/2022 12:51:45 PM: INFO: ******************testCases/test_search_customer.py::test01_search_customer_by_email Setting Passed******************
+05/20/2022 12:51:45 PM: INFO: ******************testCases/test_search_customer.py::test01_search_customer_by_email Executing Passed******************
+05/20/2022 12:51:51 PM: INFO: ******************testCases/test_search_customer.py::test02_search_customer_by_name Setting Passed******************
+05/20/2022 12:51:51 PM: INFO: ******************testCases/test_search_customer.py::test02_search_customer_by_name Executing Passed******************
+05/20/2022 12:57:22 PM: INFO: 
+
+05/20/2022 12:57:22 PM: INFO: ====== WebDriver manager ======
+05/20/2022 12:57:22 PM: INFO: Current google-chrome version is 101.0.4951
+05/20/2022 12:57:22 PM: INFO: Get LATEST chromedriver version for 101.0.4951 google-chrome
+05/20/2022 12:57:23 PM: INFO: Driver [C:\Users\liorc\.wdm\drivers\chromedriver\win32\101.0.4951.41\chromedriver.exe] found in cache
+05/20/2022 12:57:29 PM: INFO: ******************testCases/test_search_customer.py::test01_search_customer_by_email Setting Passed******************
+05/20/2022 12:57:30 PM: INFO: ******************testCases/test_search_customer.py::test01_search_customer_by_email Executing Failed******************
+05/20/2022 12:57:32 PM: INFO: ******************testCases/test_search_customer.py::test02_search_customer_by_name Setting Passed******************
+05/20/2022 12:57:34 PM: INFO: ******************testCases/test_search_customer.py::test02_search_customer_by_name Executing Failed******************
+05/20/2022 12:58:07 PM: INFO: 
+
+05/20/2022 12:58:07 PM: INFO: ====== WebDriver manager ======
+05/20/2022 12:58:07 PM: INFO: Current google-chrome version is 101.0.4951
+05/20/2022 12:58:07 PM: INFO: Get LATEST chromedriver version for 101.0.4951 google-chrome
+05/20/2022 12:58:07 PM: INFO: Driver [C:\Users\liorc\.wdm\drivers\chromedriver\win32\101.0.4951.41\chromedriver.exe] found in cache
+05/20/2022 12:58:15 PM: INFO: ******************testCases/test_search_customer.py::test01_search_customer_by_email Setting Passed******************
+05/20/2022 12:58:15 PM: INFO: ******************testCases/test_search_customer.py::test01_search_customer_by_email Executing Passed******************
+05/20/2022 12:58:21 PM: INFO: ******************testCases/test_search_customer.py::test02_search_customer_by_name Setting Passed******************
+05/20/2022 12:58:21 PM: INFO: ******************testCases/test_search_customer.py::test02_search_customer_by_name Executing Passed******************
+05/20/2022 01:02:18 PM: INFO: 
+
+05/20/2022 01:02:18 PM: INFO: ====== WebDriver manager ======
+05/20/2022 01:02:18 PM: INFO: Current google-chrome version is 101.0.4951
+05/20/2022 01:02:18 PM: INFO: Get LATEST chromedriver version for 101.0.4951 google-chrome
+05/20/2022 01:02:18 PM: INFO: Driver [C:\Users\liorc\.wdm\drivers\chromedriver\win32\101.0.4951.41\chromedriver.exe] found in cache
+05/20/2022 01:02:28 PM: INFO: ******************testCases/test_search_customer.py::test01_search_customer_by_email Setting Passed******************
+05/20/2022 01:02:28 PM: INFO: ******************testCases/test_search_customer.py::test01_search_customer_by_email Executing Passed******************
+05/20/2022 01:02:34 PM: INFO: ******************testCases/test_search_customer.py::test02_search_customer_by_name Setting Passed******************
+05/20/2022 01:02:34 PM: INFO: ******************testCases/test_search_customer.py::test02_search_customer_by_name Executing Passed******************
+05/20/2022 01:24:51 PM: INFO: 
+
+05/20/2022 01:24:51 PM: INFO: ====== WebDriver manager ======
+05/20/2022 01:24:51 PM: INFO: Current google-chrome version is 101.0.4951
+05/20/2022 01:24:51 PM: INFO: Get LATEST chromedriver version for 101.0.4951 google-chrome
+05/20/2022 01:24:51 PM: INFO: Driver [C:\Users\liorc\.wdm\drivers\chromedriver\win32\101.0.4951.41\chromedriver.exe] found in cache
+05/20/2022 01:25:03 PM: INFO: ******************testCases/test_add_customer.py::test01_add_new_customer Setting Passed******************
+05/20/2022 01:25:04 PM: INFO: ******************testCases/test_add_customer.py::test01_add_new_customer Executing Failed******************
+05/20/2022 01:26:01 PM: INFO: 
+
+05/20/2022 01:26:01 PM: INFO: ====== WebDriver manager ======
+05/20/2022 01:26:02 PM: INFO: Current google-chrome version is 101.0.4951
+05/20/2022 01:26:02 PM: INFO: Get LATEST chromedriver version for 101.0.4951 google-chrome
+05/20/2022 01:26:02 PM: INFO: Driver [C:\Users\liorc\.wdm\drivers\chromedriver\win32\101.0.4951.41\chromedriver.exe] found in cache
+05/20/2022 01:26:09 PM: INFO: ******************testCases/test_add_customer.py::test01_add_new_customer Setting Passed******************
+05/20/2022 01:26:10 PM: INFO: ******************testCases/test_add_customer.py::test01_add_new_customer Executing Failed******************
+05/20/2022 01:31:05 PM: INFO: 
+
+05/20/2022 01:31:05 PM: INFO: ====== WebDriver manager ======
+05/20/2022 01:31:06 PM: INFO: Current google-chrome version is 101.0.4951
+05/20/2022 01:31:06 PM: INFO: Get LATEST chromedriver version for 101.0.4951 google-chrome
+05/20/2022 01:31:06 PM: INFO: Driver [C:\Users\liorc\.wdm\drivers\chromedriver\win32\101.0.4951.41\chromedriver.exe] found in cache
+05/20/2022 01:31:14 PM: INFO: ******************testCases/test_search_customer.py::test01_search_customer_by_email Setting Passed******************
+05/20/2022 01:31:16 PM: INFO: ******************testCases/test_search_customer.py::test01_search_customer_by_email Executing Failed******************
+05/20/2022 01:31:20 PM: INFO: ******************testCases/test_search_customer.py::test02_search_customer_by_name Setting Passed******************
+05/20/2022 01:31:20 PM: INFO: ******************testCases/test_search_customer.py::test02_search_customer_by_name Executing Passed******************
+05/20/2022 01:33:57 PM: INFO: 
+
+05/20/2022 01:33:57 PM: INFO: ====== WebDriver manager ======
+05/20/2022 01:33:57 PM: INFO: Current google-chrome version is 101.0.4951
+05/20/2022 01:33:57 PM: INFO: Get LATEST chromedriver version for 101.0.4951 google-chrome
+05/20/2022 01:33:58 PM: INFO: Driver [C:\Users\liorc\.wdm\drivers\chromedriver\win32\101.0.4951.41\chromedriver.exe] found in cache
+05/20/2022 01:34:06 PM: INFO: ******************testCases/test_search_customer.py::test01_search_customer_by_email Setting Passed******************
+05/20/2022 01:34:07 PM: INFO: ******************testCases/test_search_customer.py::test01_search_customer_by_email Executing Failed******************
+05/20/2022 01:34:11 PM: INFO: ******************testCases/test_search_customer.py::test02_search_customer_by_name Setting Passed******************
+05/20/2022 01:34:11 PM: INFO: ******************testCases/test_search_customer.py::test02_search_customer_by_name Executing Passed******************
+05/20/2022 01:35:00 PM: INFO: 
+
+05/20/2022 01:35:00 PM: INFO: ====== WebDriver manager ======
+05/20/2022 01:35:00 PM: INFO: Current google-chrome version is 101.0.4951
+05/20/2022 01:35:00 PM: INFO: Get LATEST chromedriver version for 101.0.4951 google-chrome
+05/20/2022 01:35:00 PM: INFO: Driver [C:\Users\liorc\.wdm\drivers\chromedriver\win32\101.0.4951.41\chromedriver.exe] found in cache
+05/20/2022 01:35:10 PM: INFO: ******************testCases/test_search_customer.py::test01_search_customer_by_email Setting Passed******************
+05/20/2022 01:35:10 PM: INFO: ******************testCases/test_search_customer.py::test01_search_customer_by_email Executing Passed******************
+05/20/2022 01:35:16 PM: INFO: ******************testCases/test_search_customer.py::test02_search_customer_by_name Setting Passed******************
+05/20/2022 01:35:16 PM: INFO: ******************testCases/test_search_customer.py::test02_search_customer_by_name Executing Passed******************
+05/20/2022 01:35:52 PM: INFO: 
+
+05/20/2022 01:35:52 PM: INFO: ====== WebDriver manager ======
+05/20/2022 01:35:53 PM: INFO: Current google-chrome version is 101.0.4951
+05/20/2022 01:35:53 PM: INFO: Get LATEST chromedriver version for 101.0.4951 google-chrome
+05/20/2022 01:35:53 PM: INFO: Driver [C:\Users\liorc\.wdm\drivers\chromedriver\win32\101.0.4951.41\chromedriver.exe] found in cache
+05/20/2022 01:36:00 PM: INFO: ******************testCases/test_add_customer.py::test01_add_new_customer Setting Passed******************
+05/20/2022 01:36:01 PM: INFO: ******************testCases/test_add_customer.py::test01_add_new_customer Executing Failed******************
+05/20/2022 01:39:57 PM: INFO: 
+
+05/20/2022 01:39:57 PM: INFO: ====== WebDriver manager ======
+05/20/2022 01:39:58 PM: INFO: Current google-chrome version is 101.0.4951
+05/20/2022 01:39:58 PM: INFO: Get LATEST chromedriver version for 101.0.4951 google-chrome
+05/20/2022 01:39:58 PM: INFO: Driver [C:\Users\liorc\.wdm\drivers\chromedriver\win32\101.0.4951.41\chromedriver.exe] found in cache
+05/20/2022 01:40:07 PM: INFO: ******************testCases/test_add_customer.py::test01_add_new_customer Setting Passed******************
+05/20/2022 01:40:08 PM: INFO: ******************testCases/test_add_customer.py::test01_add_new_customer Executing Failed******************
+05/20/2022 01:41:57 PM: INFO: 
+
+05/20/2022 01:41:57 PM: INFO: ====== WebDriver manager ======
+05/20/2022 01:41:57 PM: INFO: Current google-chrome version is 101.0.4951
+05/20/2022 01:41:57 PM: INFO: Get LATEST chromedriver version for 101.0.4951 google-chrome
+05/20/2022 01:41:58 PM: INFO: Driver [C:\Users\liorc\.wdm\drivers\chromedriver\win32\101.0.4951.41\chromedriver.exe] found in cache
+05/20/2022 01:42:06 PM: INFO: ******************testCases/test_add_customer.py::test01_add_new_customer Setting Passed******************
+05/20/2022 01:42:07 PM: INFO: ******************testCases/test_add_customer.py::test01_add_new_customer Executing Failed******************
+05/20/2022 01:42:33 PM: INFO: 
+
+05/20/2022 01:42:33 PM: INFO: ====== WebDriver manager ======
+05/20/2022 01:42:34 PM: INFO: Current google-chrome version is 101.0.4951
+05/20/2022 01:42:34 PM: INFO: Get LATEST chromedriver version for 101.0.4951 google-chrome
+05/20/2022 01:42:34 PM: INFO: Driver [C:\Users\liorc\.wdm\drivers\chromedriver\win32\101.0.4951.41\chromedriver.exe] found in cache
+05/20/2022 01:42:47 PM: INFO: ******************testCases/test_add_customer.py::test01_add_new_customer Setting Passed******************
+05/20/2022 01:42:47 PM: INFO: ******************testCases/test_add_customer.py::test01_add_new_customer Executing Passed******************
+05/20/2022 01:53:31 PM: INFO: 
+
+05/20/2022 01:53:31 PM: INFO: ====== WebDriver manager ======
+05/20/2022 01:53:31 PM: INFO: Current google-chrome version is 101.0.4951
+05/20/2022 01:53:31 PM: INFO: Get LATEST chromedriver version for 101.0.4951 google-chrome
+05/20/2022 01:53:32 PM: INFO: Driver [C:\Users\liorc\.wdm\drivers\chromedriver\win32\101.0.4951.41\chromedriver.exe] found in cache
+05/20/2022 01:53:40 PM: INFO: ******************testCases/test_search_customer.py::test01_search_customer_by_email Setting Passed******************
+05/20/2022 01:53:41 PM: INFO: ******************testCases/test_search_customer.py::test01_search_customer_by_email Executing Failed******************
+05/20/2022 01:53:48 PM: INFO: ******************testCases/test_search_customer.py::test02_search_customer_by_name Setting Passed******************
+05/20/2022 01:53:49 PM: INFO: ******************testCases/test_search_customer.py::test02_search_customer_by_name Executing Failed******************
+05/20/2022 01:55:03 PM: INFO: 
+
+05/20/2022 01:55:03 PM: INFO: ====== WebDriver manager ======
+05/20/2022 01:55:04 PM: INFO: Current google-chrome version is 101.0.4951
+05/20/2022 01:55:04 PM: INFO: Get LATEST chromedriver version for 101.0.4951 google-chrome
+05/20/2022 01:55:04 PM: INFO: Driver [C:\Users\liorc\.wdm\drivers\chromedriver\win32\101.0.4951.41\chromedriver.exe] found in cache
+05/20/2022 01:55:14 PM: INFO: ******************testCases/test_search_customer.py::test01_search_customer_by_email Setting Passed******************
+05/20/2022 01:55:14 PM: INFO: ******************testCases/test_search_customer.py::test01_search_customer_by_email Executing Passed******************
+05/20/2022 01:55:20 PM: INFO: ******************testCases/test_search_customer.py::test02_search_customer_by_name Setting Passed******************
+05/20/2022 01:55:21 PM: INFO: ******************testCases/test_search_customer.py::test02_search_customer_by_name Executing Failed******************
+05/20/2022 01:56:28 PM: INFO: 
+
+05/20/2022 01:56:28 PM: INFO: ====== WebDriver manager ======
+05/20/2022 01:56:29 PM: INFO: Current google-chrome version is 101.0.4951
+05/20/2022 01:56:29 PM: INFO: Get LATEST chromedriver version for 101.0.4951 google-chrome
+05/20/2022 01:56:29 PM: INFO: Driver [C:\Users\liorc\.wdm\drivers\chromedriver\win32\101.0.4951.41\chromedriver.exe] found in cache
+05/20/2022 01:56:39 PM: INFO: ******************testCases/test_search_customer.py::test01_search_customer_by_email Setting Passed******************
+05/20/2022 01:56:39 PM: INFO: ******************testCases/test_search_customer.py::test01_search_customer_by_email Executing Passed******************
+05/20/2022 01:56:45 PM: INFO: ******************testCases/test_search_customer.py::test02_search_customer_by_name Setting Passed******************
+05/20/2022 01:56:46 PM: INFO: ******************testCases/test_search_customer.py::test02_search_customer_by_name Executing Failed******************
+05/20/2022 01:57:43 PM: INFO: 
+
+05/20/2022 01:57:43 PM: INFO: ====== WebDriver manager ======
+05/20/2022 01:57:44 PM: INFO: Current google-chrome version is 101.0.4951
+05/20/2022 01:57:44 PM: INFO: Get LATEST chromedriver version for 101.0.4951 google-chrome
+05/20/2022 01:57:44 PM: INFO: Driver [C:\Users\liorc\.wdm\drivers\chromedriver\win32\101.0.4951.41\chromedriver.exe] found in cache
+05/20/2022 01:57:52 PM: INFO: ******************testCases/test_search_customer.py::test01_search_customer_by_email Setting Passed******************
+05/20/2022 01:57:52 PM: INFO: ******************testCases/test_search_customer.py::test01_search_customer_by_email Executing Passed******************
+05/20/2022 01:57:58 PM: INFO: ******************testCases/test_search_customer.py::test02_search_customer_by_name Setting Passed******************
+05/20/2022 01:57:58 PM: INFO: ******************testCases/test_search_customer.py::test02_search_customer_by_name Executing Passed******************
+05/20/2022 01:58:23 PM: INFO: 
+
+05/20/2022 01:58:23 PM: INFO: ====== WebDriver manager ======
+05/20/2022 01:58:23 PM: INFO: Current google-chrome version is 101.0.4951
+05/20/2022 01:58:23 PM: INFO: Get LATEST chromedriver version for 101.0.4951 google-chrome
+05/20/2022 01:58:23 PM: INFO: Driver [C:\Users\liorc\.wdm\drivers\chromedriver\win32\101.0.4951.41\chromedriver.exe] found in cache
+05/20/2022 01:58:33 PM: INFO: ******************testCases/test_search_customer.py::test01_search_customer_by_email Setting Passed******************
+05/20/2022 01:58:35 PM: INFO: ******************testCases/test_search_customer.py::test01_search_customer_by_email Executing Failed******************
+05/20/2022 01:58:41 PM: INFO: ******************testCases/test_search_customer.py::test02_search_customer_by_name Setting Passed******************
+05/20/2022 01:58:41 PM: INFO: ******************testCases/test_search_customer.py::test02_search_customer_by_name Executing Passed******************
+05/20/2022 02:00:08 PM: INFO: 
+
+05/20/2022 02:00:08 PM: INFO: ====== WebDriver manager ======
+05/20/2022 02:00:08 PM: INFO: Current google-chrome version is 101.0.4951
+05/20/2022 02:00:08 PM: INFO: Get LATEST chromedriver version for 101.0.4951 google-chrome
+05/20/2022 02:00:09 PM: INFO: Driver [C:\Users\liorc\.wdm\drivers\chromedriver\win32\101.0.4951.41\chromedriver.exe] found in cache
+05/20/2022 02:00:19 PM: INFO: ******************testCases/test_search_customer.py::test01_search_customer_by_email Setting Passed******************
+05/20/2022 02:00:19 PM: INFO: ******************testCases/test_search_customer.py::test01_search_customer_by_email Executing Passed******************
+05/20/2022 02:00:25 PM: INFO: ******************testCases/test_search_customer.py::test02_search_customer_by_name Setting Passed******************
+05/20/2022 02:00:25 PM: INFO: ******************testCases/test_search_customer.py::test02_search_customer_by_name Executing Passed******************
+05/20/2022 02:09:43 PM: INFO: 
+
+05/20/2022 02:09:43 PM: INFO: ====== WebDriver manager ======
+05/20/2022 02:09:43 PM: INFO: Current google-chrome version is 101.0.4951
+05/20/2022 02:09:43 PM: INFO: Get LATEST chromedriver version for 101.0.4951 google-chrome
+05/20/2022 02:09:43 PM: INFO: Driver [C:\Users\liorc\.wdm\drivers\chromedriver\win32\101.0.4951.41\chromedriver.exe] found in cache
+05/20/2022 02:09:46 PM: INFO: ******************testCases/test_nopcommerce.py::test01_homePageTitle Setting Passed******************
+05/20/2022 02:09:46 PM: INFO: ******************testCases/test_nopcommerce.py::test01_homePageTitle Executing Passed******************
+05/20/2022 02:09:50 PM: INFO: ******************testCases/test_nopcommerce.py::test02_login Setting Passed******************
+05/20/2022 02:09:50 PM: INFO: ******************testCases/test_nopcommerce.py::test02_login Executing Passed******************
+05/20/2022 02:09:50 PM: INFO: ******************testCases/test_nopcommerce.py::test03_login_ddt[admin@yourstore.com-admin] Setting Passed******************
+05/20/2022 02:09:52 PM: INFO: ******************testCases/test_nopcommerce.py::test03_login_ddt[admin@yourstore.com-admin] Executing Failed******************
+05/20/2022 02:09:52 PM: INFO: ******************testCases/test_nopcommerce.py::test03_login_ddt[admin@yourstore.com-admin11] Setting Passed******************
+05/20/2022 02:09:53 PM: INFO: ******************testCases/test_nopcommerce.py::test03_login_ddt[admin@yourstore.com-admin11] Executing Failed******************
+05/20/2022 02:09:53 PM: INFO: ******************testCases/test_nopcommerce.py::test03_login_ddt[admin12@yourstore.com-admin] Setting Passed******************
+05/20/2022 02:09:55 PM: INFO: ******************testCases/test_nopcommerce.py::test03_login_ddt[admin12@yourstore.com-admin] Executing Failed******************
+05/20/2022 02:10:01 PM: INFO: ******************testCases/test_nopcommerce.py::test04_search_customer_by_email Setting Passed******************
+05/20/2022 02:10:02 PM: INFO: ******************testCases/test_nopcommerce.py::test04_search_customer_by_email Executing Failed******************
+05/20/2022 02:10:08 PM: INFO: ******************testCases/test_nopcommerce.py::test05_search_customer_by_name Setting Passed******************
+05/20/2022 02:10:08 PM: INFO: ******************testCases/test_nopcommerce.py::test05_search_customer_by_name Executing Passed******************
+05/20/2022 02:10:17 PM: INFO: ******************testCases/test_nopcommerce.py::test06_add_new_customer Setting Passed******************
+05/20/2022 02:10:17 PM: INFO: ******************testCases/test_nopcommerce.py::test06_add_new_customer Executing Passed******************
+05/20/2022 02:12:11 PM: INFO: 
+
+05/20/2022 02:12:11 PM: INFO: ====== WebDriver manager ======
+05/20/2022 02:12:11 PM: INFO: Current google-chrome version is 101.0.4951
+05/20/2022 02:12:11 PM: INFO: Get LATEST chromedriver version for 101.0.4951 google-chrome
+05/20/2022 02:12:11 PM: INFO: Driver [C:\Users\liorc\.wdm\drivers\chromedriver\win32\101.0.4951.41\chromedriver.exe] found in cache
+05/20/2022 02:12:14 PM: INFO: ******************testCases/test_login_ddt.py::test01_login_ddt[admin@yourstore.com-admin] Setting Passed******************
+05/20/2022 02:12:15 PM: INFO: ******************testCases/test_login_ddt.py::test01_login_ddt[admin@yourstore.com-admin] Executing Failed******************
+05/20/2022 02:12:15 PM: INFO: ******************testCases/test_login_ddt.py::test01_login_ddt[admin@yourstore.com-admin11] Setting Passed******************
+05/20/2022 02:12:17 PM: INFO: ******************testCases/test_login_ddt.py::test01_login_ddt[admin@yourstore.com-admin11] Executing Failed******************
+05/20/2022 02:12:17 PM: INFO: ******************testCases/test_login_ddt.py::test01_login_ddt[admin12@yourstore.com-admin] Setting Passed******************
+05/20/2022 02:12:18 PM: INFO: ******************testCases/test_login_ddt.py::test01_login_ddt[admin12@yourstore.com-admin] Executing Failed******************
+05/20/2022 02:14:04 PM: INFO: 
+
+05/20/2022 02:14:04 PM: INFO: ====== WebDriver manager ======
+05/20/2022 02:14:05 PM: INFO: Current google-chrome version is 101.0.4951
+05/20/2022 02:14:05 PM: INFO: Get LATEST chromedriver version for 101.0.4951 google-chrome
+05/20/2022 02:14:05 PM: INFO: Driver [C:\Users\liorc\.wdm\drivers\chromedriver\win32\101.0.4951.41\chromedriver.exe] found in cache
+05/20/2022 02:14:08 PM: INFO: ******************testCases/test_login_ddt.py::test01_login_ddt[admin@yourstore.com-admin] Setting Passed******************
+05/20/2022 02:14:09 PM: INFO: ******************testCases/test_login_ddt.py::test01_login_ddt[admin@yourstore.com-admin] Executing Failed******************
+05/20/2022 02:14:09 PM: INFO: ******************testCases/test_login_ddt.py::test01_login_ddt[admin@yourstore.com-admin11] Setting Passed******************
+05/20/2022 02:14:10 PM: INFO: ******************testCases/test_login_ddt.py::test01_login_ddt[admin@yourstore.com-admin11] Executing Failed******************
+05/20/2022 02:14:11 PM: INFO: ******************testCases/test_login_ddt.py::test01_login_ddt[admin12@yourstore.com-admin] Setting Passed******************
+05/20/2022 02:14:12 PM: INFO: ******************testCases/test_login_ddt.py::test01_login_ddt[admin12@yourstore.com-admin] Executing Failed******************
+05/20/2022 02:16:22 PM: INFO: 
+
+05/20/2022 02:16:22 PM: INFO: ====== WebDriver manager ======
+05/20/2022 02:16:23 PM: INFO: Current google-chrome version is 101.0.4951
+05/20/2022 02:16:23 PM: INFO: Get LATEST chromedriver version for 101.0.4951 google-chrome
+05/20/2022 02:16:23 PM: INFO: Driver [C:\Users\liorc\.wdm\drivers\chromedriver\win32\101.0.4951.41\chromedriver.exe] found in cache
+05/20/2022 02:16:29 PM: INFO: ******************testCases/test_login_ddt.py::test01_login_ddt[admin@yourstore.com-admin] Setting Passed******************
+05/20/2022 02:16:29 PM: INFO: ******************testCases/test_login_ddt.py::test01_login_ddt[admin@yourstore.com-admin] Executing Passed******************
+05/20/2022 02:16:31 PM: INFO: ******************testCases/test_login_ddt.py::test01_login_ddt[admin@yourstore.com-admin11] Setting Passed******************
+05/20/2022 02:16:32 PM: INFO: ******************testCases/test_login_ddt.py::test01_login_ddt[admin@yourstore.com-admin11] Executing Failed******************
+05/20/2022 02:16:33 PM: INFO: ******************testCases/test_login_ddt.py::test01_login_ddt[admin12@yourstore.com-admin] Setting Passed******************
+05/20/2022 02:16:34 PM: INFO: ******************testCases/test_login_ddt.py::test01_login_ddt[admin12@yourstore.com-admin] Executing Failed******************
+05/20/2022 02:30:37 PM: INFO: 
+
+05/20/2022 02:30:37 PM: INFO: ====== WebDriver manager ======
+05/20/2022 02:30:38 PM: INFO: Current google-chrome version is 101.0.4951
+05/20/2022 02:30:38 PM: INFO: Get LATEST chromedriver version for 101.0.4951 google-chrome
+05/20/2022 02:30:38 PM: INFO: Driver [C:\Users\liorc\.wdm\drivers\chromedriver\win32\101.0.4951.41\chromedriver.exe] found in cache
+05/20/2022 02:30:41 PM: INFO: ******************testCases/test_nopcommerce.py::test01_homePageTitle Setting Passed******************
+05/20/2022 02:30:41 PM: INFO: ******************testCases/test_nopcommerce.py::test01_homePageTitle Executing Passed******************
+05/20/2022 02:30:45 PM: INFO: ******************testCases/test_nopcommerce.py::test02_login_ddt[admin@yourstore.com-admin] Setting Passed******************
+05/20/2022 02:30:45 PM: INFO: ******************testCases/test_nopcommerce.py::test02_login_ddt[admin@yourstore.com-admin] Executing Passed******************
+05/20/2022 02:30:46 PM: INFO: ******************testCases/test_nopcommerce.py::test02_login_ddt[admin@yourstore.com-admin11] Setting Passed******************
+05/20/2022 02:30:48 PM: INFO: ******************testCases/test_nopcommerce.py::test02_login_ddt[admin@yourstore.com-admin11] Executing Failed******************
+05/20/2022 02:30:49 PM: INFO: ******************testCases/test_nopcommerce.py::test02_login_ddt[admin12@yourstore.com-admin] Setting Passed******************
+05/20/2022 02:30:50 PM: INFO: ******************testCases/test_nopcommerce.py::test02_login_ddt[admin12@yourstore.com-admin] Executing Failed******************
+05/20/2022 02:30:57 PM: INFO: ******************testCases/test_nopcommerce.py::test03_search_customer_by_email Setting Passed******************
+05/20/2022 02:30:57 PM: INFO: ******************testCases/test_nopcommerce.py::test03_search_customer_by_email Executing Passed******************
+05/20/2022 02:31:03 PM: INFO: ******************testCases/test_nopcommerce.py::test04_search_customer_by_name Setting Passed******************
+05/20/2022 02:31:03 PM: INFO: ******************testCases/test_nopcommerce.py::test04_search_customer_by_name Executing Passed******************
+05/20/2022 02:31:12 PM: INFO: ******************testCases/test_nopcommerce.py::test05_add_new_customer Setting Passed******************
+05/20/2022 02:31:12 PM: INFO: ******************testCases/test_nopcommerce.py::test05_add_new_customer Executing Passed******************
+05/20/2022 02:39:10 PM: INFO: 
+
+05/20/2022 02:39:10 PM: INFO: ====== WebDriver manager ======
+05/20/2022 02:39:11 PM: INFO: Current google-chrome version is 101.0.4951
+05/20/2022 02:39:11 PM: INFO: Get LATEST chromedriver version for 101.0.4951 google-chrome
+05/20/2022 02:39:11 PM: INFO: Driver [C:\Users\liorc\.wdm\drivers\chromedriver\win32\101.0.4951.41\chromedriver.exe] found in cache
+05/20/2022 02:39:14 PM: INFO: ******************testCases/test_nopcommerce.py::test01_homePageTitle Setting Passed******************
+05/20/2022 02:39:14 PM: INFO: ******************testCases/test_nopcommerce.py::test01_homePageTitle Executing Passed******************
+05/20/2022 02:39:18 PM: INFO: ******************testCases/test_nopcommerce.py::test02_login_ddt[admin@yourstore.com-admin] Setting Passed******************
+05/20/2022 02:39:18 PM: INFO: ******************testCases/test_nopcommerce.py::test02_login_ddt[admin@yourstore.com-admin] Executing Passed******************
+05/20/2022 02:39:19 PM: INFO: ******************testCases/test_nopcommerce.py::test02_login_ddt[admin@yourstore.com-admin11] Setting Passed******************
+05/20/2022 02:39:20 PM: INFO: ******************testCases/test_nopcommerce.py::test02_login_ddt[admin@yourstore.com-admin11] Executing Failed******************
+05/20/2022 02:39:21 PM: INFO: ******************testCases/test_nopcommerce.py::test02_login_ddt[admin12@yourstore.com-admin] Setting Passed******************
+05/20/2022 02:39:23 PM: INFO: ******************testCases/test_nopcommerce.py::test02_login_ddt[admin12@yourstore.com-admin] Executing Failed******************
+05/20/2022 02:39:29 PM: INFO: ******************testCases/test_nopcommerce.py::test03_search_customer_by_email Setting Passed******************
+05/20/2022 02:39:29 PM: INFO: ******************testCases/test_nopcommerce.py::test03_search_customer_by_email Executing Passed******************
+05/20/2022 02:39:35 PM: INFO: ******************testCases/test_nopcommerce.py::test04_search_customer_by_name Setting Passed******************
+05/20/2022 02:39:35 PM: INFO: ******************testCases/test_nopcommerce.py::test04_search_customer_by_name Executing Passed******************
+05/20/2022 02:39:43 PM: INFO: ******************testCases/test_nopcommerce.py::test05_add_new_customer Setting Passed******************
+05/20/2022 02:39:43 PM: INFO: ******************testCases/test_nopcommerce.py::test05_add_new_customer Executing Passed******************
+05/20/2022 02:46:53 PM: INFO: 
+
+05/20/2022 02:46:53 PM: INFO: ====== WebDriver manager ======
+05/20/2022 02:46:53 PM: INFO: Current google-chrome version is 101.0.4951
+05/20/2022 02:46:53 PM: INFO: Get LATEST chromedriver version for 101.0.4951 google-chrome
+05/20/2022 02:46:54 PM: INFO: Driver [C:\Users\liorc\.wdm\drivers\chromedriver\win32\101.0.4951.41\chromedriver.exe] found in cache
+05/20/2022 02:46:57 PM: INFO: ******************testCases/test_nopcommerce.py::test01_homePageTitle Setting Passed******************
+05/20/2022 02:46:57 PM: INFO: ******************testCases/test_nopcommerce.py::test01_homePageTitle Executing Passed******************
+05/20/2022 02:47:00 PM: INFO: ******************testCases/test_nopcommerce.py::test02_login_ddt[admin@yourstore.com-admin] Setting Passed******************
+05/20/2022 02:47:00 PM: INFO: ******************testCases/test_nopcommerce.py::test02_login_ddt[admin@yourstore.com-admin] Executing Passed******************
+05/20/2022 02:47:02 PM: INFO: ******************testCases/test_nopcommerce.py::test02_login_ddt[admin@yourstore.com-admin11] Setting Passed******************
+05/20/2022 02:47:03 PM: INFO: ******************testCases/test_nopcommerce.py::test02_login_ddt[admin@yourstore.com-admin11] Executing Failed******************
+05/20/2022 02:47:04 PM: INFO: ******************testCases/test_nopcommerce.py::test02_login_ddt[admin12@yourstore.com-admin] Setting Passed******************
+05/20/2022 02:47:05 PM: INFO: ******************testCases/test_nopcommerce.py::test02_login_ddt[admin12@yourstore.com-admin] Executing Failed******************
+05/20/2022 02:47:11 PM: INFO: ******************testCases/test_nopcommerce.py::test03_search_customer_by_email Setting Passed******************
+05/20/2022 02:47:11 PM: INFO: ******************testCases/test_nopcommerce.py::test03_search_customer_by_email Executing Passed******************
+05/20/2022 02:47:26 PM: INFO: ******************testCases/test_nopcommerce.py::test04_search_customer_by_name Setting Passed******************
+05/20/2022 02:47:31 PM: INFO: 
+
+05/20/2022 02:47:31 PM: INFO: ====== WebDriver manager ======
+05/20/2022 02:47:31 PM: INFO: Current google-chrome version is 101.0.4951
+05/20/2022 02:47:31 PM: INFO: Get LATEST chromedriver version for 101.0.4951 google-chrome
+05/20/2022 02:47:33 PM: INFO: Driver [C:\Users\liorc\.wdm\drivers\chromedriver\win32\101.0.4951.41\chromedriver.exe] found in cache
+05/20/2022 02:47:51 PM: INFO: ******************testCases/test_nopcommerce.py::test01_homePageTitle Setting Passed******************
+05/20/2022 02:47:51 PM: INFO: ******************testCases/test_nopcommerce.py::test01_homePageTitle Executing Passed******************
+05/20/2022 02:48:19 PM: INFO: ******************testCases/test_nopcommerce.py::test02_login_ddt[admin@yourstore.com-admin] Setting Passed******************
+05/20/2022 02:48:19 PM: INFO: ******************testCases/test_nopcommerce.py::test02_login_ddt[admin@yourstore.com-admin] Executing Passed******************
+05/20/2022 02:48:20 PM: INFO: ******************testCases/test_nopcommerce.py::test02_login_ddt[admin@yourstore.com-admin11] Setting Passed******************
+05/20/2022 02:48:21 PM: INFO: ******************testCases/test_nopcommerce.py::test02_login_ddt[admin@yourstore.com-admin11] Executing Failed******************
+05/20/2022 02:48:23 PM: INFO: ******************testCases/test_nopcommerce.py::test02_login_ddt[admin12@yourstore.com-admin] Setting Passed******************
+05/20/2022 02:48:24 PM: INFO: ******************testCases/test_nopcommerce.py::test02_login_ddt[admin12@yourstore.com-admin] Executing Failed******************
+05/20/2022 02:48:32 PM: INFO: ******************testCases/test_nopcommerce.py::test03_search_customer_by_email Setting Passed******************
+05/20/2022 02:48:32 PM: INFO: ******************testCases/test_nopcommerce.py::test03_search_customer_by_email Executing Passed******************
+05/20/2022 02:48:38 PM: INFO: ******************testCases/test_nopcommerce.py::test04_search_customer_by_name Setting Passed******************
+05/20/2022 02:48:38 PM: INFO: ******************testCases/test_nopcommerce.py::test04_search_customer_by_name Executing Passed******************
+05/20/2022 02:48:50 PM: INFO: ******************testCases/test_nopcommerce.py::test05_add_new_customer Setting Passed******************
+05/20/2022 02:48:50 PM: INFO: ******************testCases/test_nopcommerce.py::test05_add_new_customer Executing Passed******************
+05/20/2022 03:23:53 PM: INFO: ******************testCases/test_api.py::test01_getRequest Setting Passed******************
+05/20/2022 03:23:53 PM: INFO: ******************testCases/test_api.py::test01_getRequest Executing Passed******************
+05/20/2022 03:23:54 PM: INFO: ******************testCases/test_api.py::test02_postRequest Setting Passed******************
+05/20/2022 03:23:54 PM: INFO: ******************testCases/test_api.py::test02_postRequest Executing Passed******************
+05/20/2022 03:23:54 PM: INFO: ******************testCases/test_api.py::test03_delete Setting Passed******************
+05/20/2022 03:23:54 PM: INFO: ******************testCases/test_api.py::test03_delete Executing Passed******************
+05/20/2022 03:23:54 PM: INFO: ******************testCases/test_api.py::test04_put Setting Passed******************
+05/20/2022 03:23:54 PM: INFO: ******************testCases/test_api.py::test05_put[Jones-SW Tester] Setting Passed******************
+05/20/2022 03:23:54 PM: INFO: ******************testCases/test_api.py::test05_put[Michael-Scrum Master] Setting Passed******************
+05/20/2022 03:23:54 PM: INFO: ******************testCases/test_api.py::test05_put[Emma-SW Developer] Setting Passed******************
+05/20/2022 03:26:09 PM: INFO: ******************testCases/test_api.py::test01_getRequest Setting Passed******************
+05/20/2022 03:26:09 PM: INFO: ******************testCases/test_api.py::test01_getRequest Executing Passed******************
+05/20/2022 03:26:09 PM: INFO: ******************testCases/test_api.py::test02_postRequest Setting Passed******************
+05/20/2022 03:26:09 PM: INFO: ******************testCases/test_api.py::test02_postRequest Executing Passed******************
+05/20/2022 03:26:10 PM: INFO: ******************testCases/test_api.py::test03_delete Setting Passed******************
+05/20/2022 03:26:10 PM: INFO: ******************testCases/test_api.py::test03_delete Executing Passed******************
+05/20/2022 03:26:10 PM: INFO: ******************testCases/test_api.py::test04_put Setting Passed******************
+05/20/2022 03:26:10 PM: INFO: ******************testCases/test_api.py::test04_put Executing Failed******************
+05/20/2022 03:26:10 PM: INFO: ******************testCases/test_api.py::test05_put[Jones-SW Tester] Setting Passed******************
+05/20/2022 03:26:10 PM: INFO: ******************testCases/test_api.py::test05_put[Jones-SW Tester] Executing Failed******************
+05/20/2022 03:26:10 PM: INFO: ******************testCases/test_api.py::test05_put[Michael-Scrum Master] Setting Passed******************
+05/20/2022 03:26:10 PM: INFO: ******************testCases/test_api.py::test05_put[Michael-Scrum Master] Executing Failed******************
+05/20/2022 03:26:10 PM: INFO: ******************testCases/test_api.py::test05_put[Emma-SW Developer] Setting Passed******************
+05/20/2022 03:26:10 PM: INFO: ******************testCases/test_api.py::test05_put[Emma-SW Developer] Executing Failed******************
+05/20/2022 03:27:09 PM: INFO: ******************testCases/test_api.py::test01_getRequest Setting Passed******************
+05/20/2022 03:27:09 PM: INFO: ******************testCases/test_api.py::test01_getRequest Executing Passed******************
+05/20/2022 03:27:10 PM: INFO: ******************testCases/test_api.py::test02_postRequest Setting Passed******************
+05/20/2022 03:27:10 PM: INFO: ******************testCases/test_api.py::test02_postRequest Executing Passed******************
+05/20/2022 03:27:10 PM: INFO: ******************testCases/test_api.py::test03_delete Setting Passed******************
+05/20/2022 03:27:10 PM: INFO: ******************testCases/test_api.py::test03_delete Executing Passed******************
+05/20/2022 03:27:10 PM: INFO: ******************testCases/test_api.py::test04_put Setting Passed******************
+05/20/2022 03:27:10 PM: INFO: ******************testCases/test_api.py::test04_put Executing Failed******************
+05/20/2022 03:27:10 PM: INFO: ******************testCases/test_api.py::test05_put[Jones-SW Tester] Setting Passed******************
+05/20/2022 03:27:10 PM: INFO: ******************testCases/test_api.py::test05_put[Jones-SW Tester] Executing Failed******************
+05/20/2022 03:27:10 PM: INFO: ******************testCases/test_api.py::test05_put[Michael-Scrum Master] Setting Passed******************
+05/20/2022 03:27:10 PM: INFO: ******************testCases/test_api.py::test05_put[Michael-Scrum Master] Executing Failed******************
+05/20/2022 03:27:10 PM: INFO: ******************testCases/test_api.py::test05_put[Emma-SW Developer] Setting Passed******************
+05/20/2022 03:27:10 PM: INFO: ******************testCases/test_api.py::test05_put[Emma-SW Developer] Executing Failed******************
+05/20/2022 03:29:23 PM: INFO: ******************testCases/test_api.py::test01_getRequest Setting Passed******************
+05/20/2022 03:29:23 PM: INFO: ******************testCases/test_api.py::test01_getRequest Executing Passed******************
+05/20/2022 03:29:23 PM: INFO: ******************testCases/test_api.py::test02_postRequest Setting Passed******************
+05/20/2022 03:29:23 PM: INFO: ******************testCases/test_api.py::test02_postRequest Executing Passed******************
+05/20/2022 03:29:23 PM: INFO: ******************testCases/test_api.py::test03_delete Setting Passed******************
+05/20/2022 03:29:23 PM: INFO: ******************testCases/test_api.py::test03_delete Executing Passed******************
+05/20/2022 03:29:24 PM: INFO: ******************testCases/test_api.py::test04_put Setting Passed******************
+05/20/2022 03:29:24 PM: INFO: ******************testCases/test_api.py::test04_put Executing Failed******************
+05/20/2022 03:29:24 PM: INFO: ******************testCases/test_api.py::test05_put[Jones-SW Tester] Setting Passed******************
+05/20/2022 03:29:24 PM: INFO: ******************testCases/test_api.py::test05_put[Jones-SW Tester] Executing Passed******************
+05/20/2022 03:29:24 PM: INFO: ******************testCases/test_api.py::test05_put[Michael-Scrum Master] Setting Passed******************
+05/20/2022 03:29:24 PM: INFO: ******************testCases/test_api.py::test05_put[Michael-Scrum Master] Executing Passed******************
+05/20/2022 03:29:24 PM: INFO: ******************testCases/test_api.py::test05_put[Emma-SW Developer] Setting Passed******************
+05/20/2022 03:29:24 PM: INFO: ******************testCases/test_api.py::test05_put[Emma-SW Developer] Executing Passed******************
+05/20/2022 03:30:10 PM: INFO: ******************testCases/test_api.py::test01_getRequest Setting Passed******************
+05/20/2022 03:30:10 PM: INFO: ******************testCases/test_api.py::test01_getRequest Executing Passed******************
+05/20/2022 03:30:11 PM: INFO: ******************testCases/test_api.py::test02_postRequest Setting Passed******************
+05/20/2022 03:30:11 PM: INFO: ******************testCases/test_api.py::test02_postRequest Executing Passed******************
+05/20/2022 03:30:11 PM: INFO: ******************testCases/test_api.py::test03_delete Setting Passed******************
+05/20/2022 03:30:11 PM: INFO: ******************testCases/test_api.py::test03_delete Executing Passed******************
+05/20/2022 03:30:11 PM: INFO: ******************testCases/test_api.py::test04_put Setting Passed******************
+05/20/2022 03:30:11 PM: INFO: ******************testCases/test_api.py::test04_put Executing Passed******************
+05/20/2022 03:30:11 PM: INFO: ******************testCases/test_api.py::test05_put[Jones-SW Tester] Setting Passed******************
+05/20/2022 03:30:11 PM: INFO: ******************testCases/test_api.py::test05_put[Jones-SW Tester] Executing Passed******************
+05/20/2022 03:30:12 PM: INFO: ******************testCases/test_api.py::test05_put[Michael-Scrum Master] Setting Passed******************
+05/20/2022 03:30:12 PM: INFO: ******************testCases/test_api.py::test05_put[Michael-Scrum Master] Executing Passed******************
+05/20/2022 03:30:12 PM: INFO: ******************testCases/test_api.py::test05_put[Emma-SW Developer] Setting Passed******************
+05/20/2022 03:30:12 PM: INFO: ******************testCases/test_api.py::test05_put[Emma-SW Developer] Executing Passed******************
+05/20/2022 03:50:39 PM: INFO: ******************testCases/test_api.py::test01_getRequest Setting Passed******************
+05/20/2022 03:50:39 PM: INFO: ******************testCases/test_api.py::test01_getRequest Executing Passed******************
+05/20/2022 03:50:39 PM: INFO: ******************testCases/test_api.py::test02_postRequest Setting Passed******************
+05/20/2022 03:50:39 PM: INFO: ******************testCases/test_api.py::test02_postRequest Executing Passed******************
+05/20/2022 03:50:40 PM: INFO: ******************testCases/test_api.py::test03_delete Setting Passed******************
+05/20/2022 03:50:40 PM: INFO: ******************testCases/test_api.py::test03_delete Executing Passed******************
+05/20/2022 03:50:40 PM: INFO: ******************testCases/test_api.py::test04_put Setting Passed******************
+05/20/2022 03:50:40 PM: INFO: ******************testCases/test_api.py::test04_put Executing Passed******************
+05/20/2022 03:50:40 PM: INFO: ******************testCases/test_api.py::test05_put[Jones-SW Tester] Setting Passed******************
+05/20/2022 03:50:40 PM: INFO: ******************testCases/test_api.py::test05_put[Jones-SW Tester] Executing Passed******************
+05/20/2022 03:50:40 PM: INFO: ******************testCases/test_api.py::test05_put[Michael-Scrum Master] Setting Passed******************
+05/20/2022 03:50:40 PM: INFO: ******************testCases/test_api.py::test05_put[Michael-Scrum Master] Executing Passed******************
+05/20/2022 03:50:41 PM: INFO: ******************testCases/test_api.py::test05_put[Emma-SW Developer] Setting Passed******************
+05/20/2022 03:50:41 PM: INFO: ******************testCases/test_api.py::test05_put[Emma-SW Developer] Executing Passed******************
+05/20/2022 03:50:50 PM: INFO: 
+
+05/20/2022 03:50:50 PM: INFO: ====== WebDriver manager ======
+05/20/2022 03:50:50 PM: INFO: Current google-chrome version is 101.0.4951
+05/20/2022 03:50:50 PM: INFO: Get LATEST chromedriver version for 101.0.4951 google-chrome
+05/20/2022 03:50:51 PM: INFO: Driver [C:\Users\liorc\.wdm\drivers\chromedriver\win32\101.0.4951.41\chromedriver.exe] found in cache
+05/20/2022 03:50:53 PM: INFO: ******************testCases/test_nopcommerce.py::test01_homePageTitle Setting Passed******************
+05/20/2022 03:50:53 PM: INFO: ******************testCases/test_nopcommerce.py::test01_homePageTitle Executing Passed******************
+05/20/2022 03:50:57 PM: INFO: ******************testCases/test_nopcommerce.py::test02_login_ddt[admin@yourstore.com-admin] Setting Passed******************
+05/20/2022 03:50:57 PM: INFO: ******************testCases/test_nopcommerce.py::test02_login_ddt[admin@yourstore.com-admin] Executing Passed******************
+05/20/2022 03:50:59 PM: INFO: ******************testCases/test_nopcommerce.py::test02_login_ddt[admin@yourstore.com-admin11] Setting Passed******************
+05/20/2022 03:51:00 PM: INFO: ******************testCases/test_nopcommerce.py::test02_login_ddt[admin@yourstore.com-admin11] Executing Failed******************
+05/20/2022 03:51:01 PM: INFO: ******************testCases/test_nopcommerce.py::test02_login_ddt[admin12@yourstore.com-admin] Setting Passed******************
+05/20/2022 03:51:02 PM: INFO: ******************testCases/test_nopcommerce.py::test02_login_ddt[admin12@yourstore.com-admin] Executing Failed******************
+05/20/2022 03:51:10 PM: INFO: ******************testCases/test_nopcommerce.py::test03_search_customer_by_email Setting Passed******************
+05/20/2022 03:51:10 PM: INFO: ******************testCases/test_nopcommerce.py::test03_search_customer_by_email Executing Passed******************
+05/20/2022 03:51:17 PM: INFO: ******************testCases/test_nopcommerce.py::test04_search_customer_by_name Setting Passed******************
+05/20/2022 03:51:17 PM: INFO: ******************testCases/test_nopcommerce.py::test04_search_customer_by_name Executing Passed******************
+05/20/2022 03:51:26 PM: INFO: ******************testCases/test_nopcommerce.py::test05_add_new_customer Setting Passed******************
+05/20/2022 03:51:26 PM: INFO: ******************testCases/test_nopcommerce.py::test05_add_new_customer Executing Passed******************
+05/20/2022 03:52:35 PM: INFO: 
+
+05/20/2022 03:52:35 PM: INFO: ====== WebDriver manager ======
+05/20/2022 03:52:36 PM: INFO: Current google-chrome version is 101.0.4951
+05/20/2022 03:52:36 PM: INFO: Get LATEST chromedriver version for 101.0.4951 google-chrome
+05/20/2022 03:52:36 PM: INFO: Driver [C:\Users\liorc\.wdm\drivers\chromedriver\win32\101.0.4951.41\chromedriver.exe] found in cache
+05/20/2022 03:52:38 PM: INFO: ******************testCases/test_nopcommerce.py::test01_homePageTitle Setting Passed******************
+05/20/2022 03:52:38 PM: INFO: ******************testCases/test_nopcommerce.py::test01_homePageTitle Executing Passed******************
+05/20/2022 03:52:41 PM: INFO: ******************testCases/test_nopcommerce.py::test02_login_ddt[admin@yourstore.com-admin] Setting Passed******************
+05/20/2022 03:52:41 PM: INFO: ******************testCases/test_nopcommerce.py::test02_login_ddt[admin@yourstore.com-admin] Executing Passed******************
+05/20/2022 03:52:42 PM: INFO: ******************testCases/test_nopcommerce.py::test02_login_ddt[admin@yourstore.com-admin11] Setting Passed******************
+05/20/2022 03:52:43 PM: INFO: ******************testCases/test_nopcommerce.py::test02_login_ddt[admin@yourstore.com-admin11] Executing Failed******************
+05/20/2022 03:52:44 PM: INFO: ******************testCases/test_nopcommerce.py::test02_login_ddt[admin12@yourstore.com-admin] Setting Passed******************
+05/20/2022 03:52:45 PM: INFO: ******************testCases/test_nopcommerce.py::test02_login_ddt[admin12@yourstore.com-admin] Executing Failed******************
+05/20/2022 03:52:52 PM: INFO: ******************testCases/test_nopcommerce.py::test03_search_customer_by_email Setting Passed******************
+05/20/2022 03:52:52 PM: INFO: ******************testCases/test_nopcommerce.py::test03_search_customer_by_email Executing Passed******************
+05/20/2022 03:52:58 PM: INFO: ******************testCases/test_nopcommerce.py::test04_search_customer_by_name Setting Passed******************
+05/20/2022 03:52:58 PM: INFO: ******************testCases/test_nopcommerce.py::test04_search_customer_by_name Executing Passed******************
+05/20/2022 03:53:06 PM: INFO: ******************testCases/test_nopcommerce.py::test05_add_new_customer Setting Passed******************
+05/20/2022 03:53:06 PM: INFO: ******************testCases/test_nopcommerce.py::test05_add_new_customer Executing Passed******************
+05/20/2022 03:56:57 PM: INFO: ******************testCases/test_api.py::test01_getRequest Setting Passed******************
+05/20/2022 03:56:57 PM: INFO: ******************testCases/test_api.py::test01_getRequest Executing Passed******************
+05/20/2022 03:56:58 PM: INFO: ******************testCases/test_api.py::test02_postRequest Setting Passed******************
+05/20/2022 03:56:58 PM: INFO: ******************testCases/test_api.py::test02_postRequest Executing Passed******************
+05/20/2022 03:57:13 PM: INFO: ******************testCases/test_api.py::test03_delete Setting Passed******************
+05/20/2022 03:57:13 PM: INFO: ******************testCases/test_api.py::test03_delete Executing Passed******************
+05/20/2022 03:57:14 PM: INFO: ******************testCases/test_api.py::test04_put Setting Passed******************
+05/20/2022 03:57:14 PM: INFO: ******************testCases/test_api.py::test04_put Executing Passed******************
+05/20/2022 03:57:14 PM: INFO: ******************testCases/test_api.py::test05_put[Jones-SW Tester] Setting Passed******************
+05/20/2022 03:57:14 PM: INFO: ******************testCases/test_api.py::test05_put[Jones-SW Tester] Executing Passed******************
+05/20/2022 03:57:15 PM: INFO: ******************testCases/test_api.py::test05_put[Michael-Scrum Master] Setting Passed******************
+05/20/2022 03:57:15 PM: INFO: ******************testCases/test_api.py::test05_put[Michael-Scrum Master] Executing Passed******************
+05/20/2022 03:57:15 PM: INFO: ******************testCases/test_api.py::test05_put[Emma-SW Developer] Setting Passed******************
+05/20/2022 03:57:15 PM: INFO: ******************testCases/test_api.py::test05_put[Emma-SW Developer] Executing Passed******************
+05/20/2022 03:57:50 PM: INFO: 
+
+05/20/2022 03:57:50 PM: INFO: ====== WebDriver manager ======
+05/20/2022 03:57:50 PM: INFO: Current google-chrome version is 101.0.4951
+05/20/2022 03:57:50 PM: INFO: Get LATEST chromedriver version for 101.0.4951 google-chrome
+05/20/2022 03:57:52 PM: INFO: Driver [C:\Users\liorc\.wdm\drivers\chromedriver\win32\101.0.4951.41\chromedriver.exe] found in cache
+05/20/2022 03:57:56 PM: INFO: ******************testCases/test_nopcommerce.py::test01_homePageTitle Setting Passed******************
+05/20/2022 03:57:56 PM: INFO: ******************testCases/test_nopcommerce.py::test01_homePageTitle Executing Passed******************
+05/20/2022 03:58:02 PM: INFO: ******************testCases/test_nopcommerce.py::test02_login_ddt[admin@yourstore.com-admin] Setting Passed******************
+05/20/2022 03:58:02 PM: INFO: ******************testCases/test_nopcommerce.py::test02_login_ddt[admin@yourstore.com-admin] Executing Passed******************
+05/20/2022 03:58:03 PM: INFO: ******************testCases/test_nopcommerce.py::test02_login_ddt[admin@yourstore.com-admin11] Setting Passed******************
+05/20/2022 03:58:04 PM: INFO: ******************testCases/test_nopcommerce.py::test02_login_ddt[admin@yourstore.com-admin11] Executing Failed******************
+05/20/2022 03:58:07 PM: INFO: ******************testCases/test_nopcommerce.py::test02_login_ddt[admin12@yourstore.com-admin] Setting Passed******************
+05/20/2022 03:58:08 PM: INFO: ******************testCases/test_nopcommerce.py::test02_login_ddt[admin12@yourstore.com-admin] Executing Failed******************
+05/20/2022 03:58:20 PM: INFO: ******************testCases/test_nopcommerce.py::test03_search_customer_by_email Setting Passed******************
+05/20/2022 03:58:20 PM: INFO: ******************testCases/test_nopcommerce.py::test03_search_customer_by_email Executing Passed******************
+05/20/2022 03:58:27 PM: INFO: ******************testCases/test_nopcommerce.py::test04_search_customer_by_name Setting Passed******************
+05/20/2022 03:58:27 PM: INFO: ******************testCases/test_nopcommerce.py::test04_search_customer_by_name Executing Passed******************
+05/20/2022 03:58:38 PM: INFO: ******************testCases/test_nopcommerce.py::test05_add_new_customer Setting Passed******************
+05/20/2022 03:58:38 PM: INFO: ******************testCases/test_nopcommerce.py::test05_add_new_customer Executing Passed******************
+05/20/2022 03:59:10 PM: INFO: ******************testCases/test_api.py::test01_getRequest Setting Passed******************
+05/20/2022 03:59:10 PM: INFO: ******************testCases/test_api.py::test01_getRequest Executing Passed******************
+05/20/2022 03:59:11 PM: INFO: ******************testCases/test_api.py::test02_postRequest Setting Passed******************
+05/20/2022 03:59:11 PM: INFO: ******************testCases/test_api.py::test02_postRequest Executing Passed******************
+05/20/2022 03:59:11 PM: INFO: ******************testCases/test_api.py::test03_delete Setting Passed******************
+05/20/2022 03:59:11 PM: INFO: ******************testCases/test_api.py::test03_delete Executing Passed******************
+05/20/2022 03:59:12 PM: INFO: ******************testCases/test_api.py::test04_put Setting Passed******************
+05/20/2022 03:59:12 PM: INFO: ******************testCases/test_api.py::test04_put Executing Passed******************
+05/20/2022 03:59:12 PM: INFO: ******************testCases/test_api.py::test05_put[Jones-SW Tester] Setting Passed******************
+05/20/2022 03:59:12 PM: INFO: ******************testCases/test_api.py::test05_put[Jones-SW Tester] Executing Passed******************
+05/20/2022 03:59:13 PM: INFO: ******************testCases/test_api.py::test05_put[Michael-Scrum Master] Setting Passed******************
+05/20/2022 03:59:13 PM: INFO: ******************testCases/test_api.py::test05_put[Michael-Scrum Master] Executing Passed******************
+05/20/2022 03:59:14 PM: INFO: ******************testCases/test_api.py::test05_put[Emma-SW Developer] Setting Passed******************
+05/20/2022 03:59:14 PM: INFO: ******************testCases/test_api.py::test05_put[Emma-SW Developer] Executing Passed******************
+05/20/2022 04:00:08 PM: INFO: 
+
+05/20/2022 04:00:08 PM: INFO: ====== WebDriver manager ======
+05/20/2022 04:00:09 PM: INFO: Current google-chrome version is 101.0.4951
+05/20/2022 04:00:09 PM: INFO: Get LATEST chromedriver version for 101.0.4951 google-chrome
+05/20/2022 04:00:10 PM: INFO: Driver [C:\Users\liorc\.wdm\drivers\chromedriver\win32\101.0.4951.41\chromedriver.exe] found in cache
+05/20/2022 04:00:15 PM: INFO: ******************testCases/test_nopcommerce.py::test01_homePageTitle Setting Passed******************
+05/20/2022 04:00:15 PM: INFO: ******************testCases/test_nopcommerce.py::test01_homePageTitle Executing Passed******************
+05/20/2022 04:00:25 PM: INFO: ******************testCases/test_nopcommerce.py::test02_login_ddt[admin@yourstore.com-admin] Setting Passed******************
+05/20/2022 04:00:25 PM: INFO: ******************testCases/test_nopcommerce.py::test02_login_ddt[admin@yourstore.com-admin] Executing Passed******************
+05/20/2022 04:00:28 PM: INFO: ******************testCases/test_nopcommerce.py::test02_login_ddt[admin@yourstore.com-admin11] Setting Passed******************
+05/20/2022 04:00:29 PM: INFO: ******************testCases/test_nopcommerce.py::test02_login_ddt[admin@yourstore.com-admin11] Executing Failed******************
+05/20/2022 04:00:31 PM: INFO: ******************testCases/test_nopcommerce.py::test02_login_ddt[admin12@yourstore.com-admin] Setting Passed******************
+05/20/2022 04:00:32 PM: INFO: ******************testCases/test_nopcommerce.py::test02_login_ddt[admin12@yourstore.com-admin] Executing Failed******************
+05/20/2022 04:00:43 PM: INFO: ******************testCases/test_nopcommerce.py::test03_search_customer_by_email Setting Passed******************
+05/20/2022 04:00:43 PM: INFO: ******************testCases/test_nopcommerce.py::test03_search_customer_by_email Executing Passed******************
+05/20/2022 04:00:51 PM: INFO: ******************testCases/test_nopcommerce.py::test04_search_customer_by_name Setting Passed******************
+05/20/2022 04:00:51 PM: INFO: ******************testCases/test_nopcommerce.py::test04_search_customer_by_name Executing Passed******************
+05/20/2022 04:01:05 PM: INFO: ******************testCases/test_nopcommerce.py::test05_add_new_customer Setting Passed******************
+05/20/2022 04:01:05 PM: INFO: ******************testCases/test_nopcommerce.py::test05_add_new_customer Executing Passed******************
+05/20/2022 04:01:58 PM: INFO: 
+
+05/20/2022 04:01:58 PM: INFO: ====== WebDriver manager ======
+05/20/2022 04:01:58 PM: INFO: Current google-chrome version is 101.0.4951
+05/20/2022 04:01:58 PM: INFO: Get LATEST chromedriver version for 101.0.4951 google-chrome
+05/20/2022 04:01:58 PM: INFO: Driver [C:\Users\liorc\.wdm\drivers\chromedriver\win32\101.0.4951.41\chromedriver.exe] found in cache
+05/20/2022 04:02:02 PM: INFO: ******************testCases/test_nopcommerce.py::test01_homePageTitle Setting Passed******************
+05/20/2022 04:02:02 PM: INFO: ******************testCases/test_nopcommerce.py::test01_homePageTitle Executing Passed******************
+05/20/2022 04:02:09 PM: INFO: ******************testCases/test_nopcommerce.py::test02_login_ddt[admin@yourstore.com-admin] Setting Passed******************
+05/20/2022 04:02:09 PM: INFO: ******************testCases/test_nopcommerce.py::test02_login_ddt[admin@yourstore.com-admin] Executing Passed******************
+05/20/2022 04:02:11 PM: INFO: ******************testCases/test_nopcommerce.py::test02_login_ddt[admin@yourstore.com-admin11] Setting Passed******************
+05/20/2022 04:02:12 PM: INFO: ******************testCases/test_nopcommerce.py::test02_login_ddt[admin@yourstore.com-admin11] Executing Failed******************
+05/20/2022 04:02:43 PM: INFO: ******************testCases/test_nopcommerce.py::test02_login_ddt[admin12@yourstore.com-admin] Setting Passed******************
+05/20/2022 04:02:44 PM: INFO: ******************testCases/test_nopcommerce.py::test02_login_ddt[admin12@yourstore.com-admin] Executing Failed******************
+05/20/2022 04:02:54 PM: INFO: ******************testCases/test_nopcommerce.py::test03_search_customer_by_email Setting Passed******************
+05/20/2022 04:02:54 PM: INFO: ******************testCases/test_nopcommerce.py::test03_search_customer_by_email Executing Passed******************
+05/20/2022 04:03:03 PM: INFO: ******************testCases/test_nopcommerce.py::test04_search_customer_by_name Setting Passed******************
+05/20/2022 04:03:03 PM: INFO: ******************testCases/test_nopcommerce.py::test04_search_customer_by_name Executing Passed******************
+05/20/2022 04:03:13 PM: INFO: ******************testCases/test_nopcommerce.py::test05_add_new_customer Setting Passed******************
+05/20/2022 04:03:13 PM: INFO: ******************testCases/test_nopcommerce.py::test05_add_new_customer Executing Passed******************
+05/20/2022 04:03:30 PM: INFO: ******************testCases/test_api.py::test01_getRequest Setting Passed******************
+05/20/2022 04:03:30 PM: INFO: ******************testCases/test_api.py::test01_getRequest Executing Passed******************
+05/20/2022 04:03:31 PM: INFO: ******************testCases/test_api.py::test02_postRequest Setting Passed******************
+05/20/2022 04:03:31 PM: INFO: ******************testCases/test_api.py::test02_postRequest Executing Passed******************
+05/20/2022 04:03:32 PM: INFO: ******************testCases/test_api.py::test03_delete Setting Passed******************
+05/20/2022 04:03:32 PM: INFO: ******************testCases/test_api.py::test03_delete Executing Passed******************
+05/20/2022 04:03:32 PM: INFO: ******************testCases/test_api.py::test04_put Setting Passed******************
+05/20/2022 04:03:32 PM: INFO: ******************testCases/test_api.py::test04_put Executing Passed******************
+05/20/2022 04:03:33 PM: INFO: ******************testCases/test_api.py::test05_put[Jones-SW Tester] Setting Passed******************
+05/20/2022 04:03:33 PM: INFO: ******************testCases/test_api.py::test05_put[Jones-SW Tester] Executing Passed******************
+05/20/2022 04:03:34 PM: INFO: ******************testCases/test_api.py::test05_put[Michael-Scrum Master] Setting Passed******************
+05/20/2022 04:03:34 PM: INFO: ******************testCases/test_api.py::test05_put[Michael-Scrum Master] Executing Passed******************
+05/20/2022 04:03:35 PM: INFO: ******************testCases/test_api.py::test05_put[Emma-SW Developer] Setting Passed******************
+05/20/2022 04:03:35 PM: INFO: ******************testCases/test_api.py::test05_put[Emma-SW Developer] Executing Passed******************
+05/20/2022 04:08:42 PM: INFO: 
+
+05/20/2022 04:08:42 PM: INFO: ====== WebDriver manager ======
+05/20/2022 04:08:43 PM: INFO: Current google-chrome version is 101.0.4951
+05/20/2022 04:08:43 PM: INFO: Get LATEST chromedriver version for 101.0.4951 google-chrome
+05/20/2022 04:09:07 PM: INFO: 
+
+05/20/2022 04:09:07 PM: INFO: ====== WebDriver manager ======
+05/20/2022 04:09:07 PM: INFO: Current google-chrome version is 101.0.4951
+05/20/2022 04:09:07 PM: INFO: Get LATEST chromedriver version for 101.0.4951 google-chrome
+05/20/2022 04:09:08 PM: INFO: Driver [C:\Users\liorc\.wdm\drivers\chromedriver\win32\101.0.4951.41\chromedriver.exe] found in cache
+05/20/2022 04:09:11 PM: INFO: ******************testCases/test_nopcommerce.py::test01_homePageTitle Setting Passed******************
+05/20/2022 04:09:11 PM: INFO: ******************testCases/test_nopcommerce.py::test01_homePageTitle Executing Passed******************
+05/20/2022 04:09:17 PM: INFO: ******************testCases/test_nopcommerce.py::test02_login_ddt[admin@yourstore.com-admin] Setting Passed******************
+05/20/2022 04:09:17 PM: INFO: ******************testCases/test_nopcommerce.py::test02_login_ddt[admin@yourstore.com-admin] Executing Passed******************
+05/20/2022 04:09:18 PM: INFO: ******************testCases/test_nopcommerce.py::test02_login_ddt[admin@yourstore.com-admin11] Setting Passed******************
+05/20/2022 04:09:20 PM: INFO: ******************testCases/test_nopcommerce.py::test02_login_ddt[admin@yourstore.com-admin11] Executing Failed******************
+05/20/2022 04:09:21 PM: INFO: ******************testCases/test_nopcommerce.py::test02_login_ddt[admin12@yourstore.com-admin] Setting Passed******************
+05/20/2022 04:09:23 PM: INFO: ******************testCases/test_nopcommerce.py::test02_login_ddt[admin12@yourstore.com-admin] Executing Failed******************
+05/20/2022 04:09:30 PM: INFO: ******************testCases/test_nopcommerce.py::test03_search_customer_by_email Setting Passed******************
+05/20/2022 04:09:30 PM: INFO: ******************testCases/test_nopcommerce.py::test03_search_customer_by_email Executing Passed******************
+05/20/2022 04:09:37 PM: INFO: ******************testCases/test_nopcommerce.py::test04_search_customer_by_name Setting Passed******************
+05/20/2022 04:09:37 PM: INFO: ******************testCases/test_nopcommerce.py::test04_search_customer_by_name Executing Passed******************
+05/20/2022 04:09:46 PM: INFO: ******************testCases/test_nopcommerce.py::test05_add_new_customer Setting Passed******************
+05/20/2022 04:09:46 PM: INFO: ******************testCases/test_nopcommerce.py::test05_add_new_customer Executing Passed******************
+05/20/2022 04:36:14 PM: INFO: 
+
+05/20/2022 04:36:14 PM: INFO: ====== WebDriver manager ======
+05/20/2022 04:36:15 PM: INFO: Current google-chrome version is 101.0.4951
+05/20/2022 04:36:15 PM: INFO: Get LATEST chromedriver version for 101.0.4951 google-chrome
+05/20/2022 04:36:16 PM: INFO: Driver [C:\Users\liorc\.wdm\drivers\chromedriver\win32\101.0.4951.41\chromedriver.exe] found in cache
+05/20/2022 04:36:19 PM: INFO: ******************testCases/test_nopcommerce.py::test01_homePageTitle Setting Passed******************
+05/20/2022 04:36:19 PM: INFO: ******************testCases/test_nopcommerce.py::test01_homePageTitle Executing Passed******************
+05/20/2022 04:36:22 PM: INFO: ******************testCases/test_nopcommerce.py::test02_login_ddt[admin@yourstore.com-admin] Setting Passed******************
+05/20/2022 04:36:22 PM: INFO: ******************testCases/test_nopcommerce.py::test02_login_ddt[admin@yourstore.com-admin] Executing Passed******************
+05/20/2022 04:36:23 PM: INFO: ******************testCases/test_nopcommerce.py::test02_login_ddt[admin@yourstore.com-admin11] Setting Passed******************
+05/20/2022 04:36:25 PM: INFO: ******************testCases/test_nopcommerce.py::test02_login_ddt[admin@yourstore.com-admin11] Executing Failed******************
+05/20/2022 04:36:26 PM: INFO: ******************testCases/test_nopcommerce.py::test02_login_ddt[admin12@yourstore.com-admin] Setting Passed******************
+05/20/2022 04:36:29 PM: INFO: ******************testCases/test_nopcommerce.py::test02_login_ddt[admin12@yourstore.com-admin] Executing Failed******************
+05/20/2022 04:36:35 PM: INFO: ******************testCases/test_nopcommerce.py::test03_search_customer_by_email Setting Passed******************
+05/20/2022 04:36:35 PM: INFO: ******************testCases/test_nopcommerce.py::test03_search_customer_by_email Executing Passed******************
+05/20/2022 04:36:41 PM: INFO: ******************testCases/test_nopcommerce.py::test04_search_customer_by_name Setting Passed******************
+05/20/2022 04:36:41 PM: INFO: ******************testCases/test_nopcommerce.py::test04_search_customer_by_name Executing Passed******************
+05/20/2022 04:36:48 PM: INFO: ******************testCases/test_nopcommerce.py::test05_add_new_customer Setting Passed******************
+05/20/2022 04:36:48 PM: INFO: ******************testCases/test_nopcommerce.py::test05_add_new_customer Executing Passed******************
+05/20/2022 04:38:36 PM: INFO: ******************testCases/test_api.py::test01_getRequest Setting Passed******************
+05/20/2022 04:38:36 PM: INFO: ******************testCases/test_api.py::test01_getRequest Executing Passed******************
+05/20/2022 04:38:36 PM: INFO: ******************testCases/test_api.py::test02_postRequest Setting Passed******************
+05/20/2022 04:38:36 PM: INFO: ******************testCases/test_api.py::test02_postRequest Executing Passed******************
+05/20/2022 04:38:36 PM: INFO: ******************testCases/test_api.py::test03_delete Setting Passed******************
+05/20/2022 04:38:36 PM: INFO: ******************testCases/test_api.py::test03_delete Executing Passed******************
+05/20/2022 04:38:37 PM: INFO: ******************testCases/test_api.py::test04_put Setting Passed******************
+05/20/2022 04:38:37 PM: INFO: ******************testCases/test_api.py::test04_put Executing Passed******************
+05/20/2022 04:38:37 PM: INFO: ******************testCases/test_api.py::test05_put[Jones-SW Tester] Setting Passed******************
+05/20/2022 04:38:37 PM: INFO: ******************testCases/test_api.py::test05_put[Jones-SW Tester] Executing Passed******************
+05/20/2022 04:38:37 PM: INFO: ******************testCases/test_api.py::test05_put[Michael-Scrum Master] Setting Passed******************
+05/20/2022 04:38:37 PM: INFO: ******************testCases/test_api.py::test05_put[Michael-Scrum Master] Executing Passed******************
+05/20/2022 04:38:37 PM: INFO: ******************testCases/test_api.py::test05_put[Emma-SW Developer] Setting Passed******************
+05/20/2022 04:38:37 PM: INFO: ******************testCases/test_api.py::test05_put[Emma-SW Developer] Executing Passed******************
+05/20/2022 04:55:19 PM: INFO: 
+
+05/20/2022 04:55:19 PM: INFO: ====== WebDriver manager ======
+05/20/2022 04:55:20 PM: INFO: Current google-chrome version is 101.0.4951
+05/20/2022 04:55:20 PM: INFO: Get LATEST chromedriver version for 101.0.4951 google-chrome
+05/20/2022 04:55:20 PM: INFO: Driver [C:\Users\liorc\.wdm\drivers\chromedriver\win32\101.0.4951.41\chromedriver.exe] found in cache
+05/20/2022 04:55:23 PM: INFO: ******************testCases/test_nopcommerce.py::test01_homePageTitle Setting Passed******************
+05/20/2022 04:55:23 PM: INFO: ******************testCases/test_nopcommerce.py::test01_homePageTitle Executing Passed******************
+05/20/2022 04:55:26 PM: INFO: ******************testCases/test_nopcommerce.py::test02_login_ddt[admin@yourstore.com-admin] Setting Passed******************
+05/20/2022 04:55:26 PM: INFO: ******************testCases/test_nopcommerce.py::test02_login_ddt[admin@yourstore.com-admin] Executing Passed******************
+05/20/2022 04:55:27 PM: INFO: ******************testCases/test_nopcommerce.py::test02_login_ddt[admin@yourstore.com-admin11] Setting Passed******************
+05/20/2022 04:55:29 PM: INFO: ******************testCases/test_nopcommerce.py::test02_login_ddt[admin@yourstore.com-admin11] Executing Failed******************
+05/20/2022 04:55:30 PM: INFO: ******************testCases/test_nopcommerce.py::test02_login_ddt[admin12@yourstore.com-admin] Setting Passed******************
+05/20/2022 04:55:33 PM: INFO: ******************testCases/test_nopcommerce.py::test02_login_ddt[admin12@yourstore.com-admin] Executing Failed******************
+05/20/2022 04:55:39 PM: INFO: ******************testCases/test_nopcommerce.py::test03_search_customer_by_email Setting Passed******************
+05/20/2022 04:55:39 PM: INFO: ******************testCases/test_nopcommerce.py::test03_search_customer_by_email Executing Passed******************
+05/20/2022 04:55:44 PM: INFO: ******************testCases/test_nopcommerce.py::test04_search_customer_by_name Setting Passed******************
+05/20/2022 04:55:44 PM: INFO: ******************testCases/test_nopcommerce.py::test04_search_customer_by_name Executing Passed******************
+05/20/2022 04:55:52 PM: INFO: ******************testCases/test_nopcommerce.py::test05_add_new_customer Setting Passed******************
+05/20/2022 04:55:52 PM: INFO: ******************testCases/test_nopcommerce.py::test05_add_new_customer Executing Passed******************
+05/20/2022 04:56:18 PM: INFO: ******************testCases/test_api.py::test01_getRequest Setting Passed******************
+05/20/2022 04:56:18 PM: INFO: ******************testCases/test_api.py::test01_getRequest Executing Passed******************
+05/20/2022 04:56:18 PM: INFO: ******************testCases/test_api.py::test02_postRequest Setting Passed******************
+05/20/2022 04:56:18 PM: INFO: ******************testCases/test_api.py::test02_postRequest Executing Passed******************
+05/20/2022 04:56:18 PM: INFO: ******************testCases/test_api.py::test03_delete Setting Passed******************
+05/20/2022 04:56:18 PM: INFO: ******************testCases/test_api.py::test03_delete Executing Passed******************
+05/20/2022 04:56:18 PM: INFO: ******************testCases/test_api.py::test04_put Setting Passed******************
+05/20/2022 04:56:18 PM: INFO: ******************testCases/test_api.py::test04_put Executing Passed******************
+05/20/2022 04:56:19 PM: INFO: ******************testCases/test_api.py::test05_put[Jones-SW Tester] Setting Passed******************
+05/20/2022 04:56:19 PM: INFO: ******************testCases/test_api.py::test05_put[Jones-SW Tester] Executing Passed******************
+05/20/2022 04:56:19 PM: INFO: ******************testCases/test_api.py::test05_put[Michael-Scrum Master] Setting Passed******************
+05/20/2022 04:56:19 PM: INFO: ******************testCases/test_api.py::test05_put[Michael-Scrum Master] Executing Passed******************
+05/20/2022 04:56:19 PM: INFO: ******************testCases/test_api.py::test05_put[Emma-SW Developer] Setting Passed******************
+05/20/2022 04:56:19 PM: INFO: ******************testCases/test_api.py::test05_put[Emma-SW Developer] Executing Passed******************
+05/20/2022 04:56:25 PM: INFO: ******************testCases/test_api.py::test01_getRequest Setting Passed******************
+05/20/2022 04:56:25 PM: INFO: ******************testCases/test_api.py::test01_getRequest Executing Passed******************
+05/20/2022 04:56:26 PM: INFO: ******************testCases/test_api.py::test02_postRequest Setting Passed******************
+05/20/2022 04:56:26 PM: INFO: ******************testCases/test_api.py::test02_postRequest Executing Passed******************
+05/20/2022 04:56:26 PM: INFO: ******************testCases/test_api.py::test03_delete Setting Passed******************
+05/20/2022 04:56:26 PM: INFO: ******************testCases/test_api.py::test03_delete Executing Passed******************
+05/20/2022 04:56:26 PM: INFO: ******************testCases/test_api.py::test04_put Setting Passed******************
+05/20/2022 04:56:26 PM: INFO: ******************testCases/test_api.py::test04_put Executing Passed******************
+05/20/2022 04:56:26 PM: INFO: ******************testCases/test_api.py::test05_put[Jones-SW Tester] Setting Passed******************
+05/20/2022 04:56:26 PM: INFO: ******************testCases/test_api.py::test05_put[Jones-SW Tester] Executing Passed******************
+05/20/2022 04:56:27 PM: INFO: ******************testCases/test_api.py::test05_put[Michael-Scrum Master] Setting Passed******************
+05/20/2022 04:56:27 PM: INFO: ******************testCases/test_api.py::test05_put[Michael-Scrum Master] Executing Passed******************
+05/20/2022 04:56:27 PM: INFO: ******************testCases/test_api.py::test05_put[Emma-SW Developer] Setting Passed******************
+05/20/2022 04:56:27 PM: INFO: ******************testCases/test_api.py::test05_put[Emma-SW Developer] Executing Passed******************
+05/20/2022 04:56:55 PM: INFO: ******************testCases/test_api.py::test01_getRequest Setting Passed******************
+05/20/2022 04:56:55 PM: INFO: ******************testCases/test_api.py::test01_getRequest Executing Passed******************
+05/20/2022 04:56:55 PM: INFO: ******************testCases/test_api.py::test02_postRequest Setting Passed******************
+05/20/2022 04:56:55 PM: INFO: ******************testCases/test_api.py::test02_postRequest Executing Passed******************
+05/20/2022 04:56:55 PM: INFO: ******************testCases/test_api.py::test03_delete Setting Passed******************
+05/20/2022 04:56:55 PM: INFO: ******************testCases/test_api.py::test03_delete Executing Passed******************
+05/20/2022 04:56:56 PM: INFO: ******************testCases/test_api.py::test04_put Setting Passed******************
+05/20/2022 04:56:56 PM: INFO: ******************testCases/test_api.py::test04_put Executing Passed******************
+05/20/2022 04:56:56 PM: INFO: ******************testCases/test_api.py::test05_put[Jones-SW Tester] Setting Passed******************
+05/20/2022 04:56:56 PM: INFO: ******************testCases/test_api.py::test05_put[Jones-SW Tester] Executing Passed******************
+05/20/2022 04:56:56 PM: INFO: ******************testCases/test_api.py::test05_put[Michael-Scrum Master] Setting Passed******************
+05/20/2022 04:56:56 PM: INFO: ******************testCases/test_api.py::test05_put[Michael-Scrum Master] Executing Passed******************
+05/20/2022 04:56:56 PM: INFO: ******************testCases/test_api.py::test05_put[Emma-SW Developer] Setting Passed******************
+05/20/2022 04:56:56 PM: INFO: ******************testCases/test_api.py::test05_put[Emma-SW Developer] Executing Passed******************
+05/20/2022 04:56:58 PM: INFO: ******************testCases/test_api.py::test01_getRequest Setting Passed******************
+05/20/2022 04:56:58 PM: INFO: ******************testCases/test_api.py::test01_getRequest Executing Passed******************
+05/20/2022 04:56:59 PM: INFO: ******************testCases/test_api.py::test02_postRequest Setting Passed******************
+05/20/2022 04:56:59 PM: INFO: ******************testCases/test_api.py::test02_postRequest Executing Passed******************
+05/20/2022 04:56:59 PM: INFO: ******************testCases/test_api.py::test03_delete Setting Passed******************
+05/20/2022 04:56:59 PM: INFO: ******************testCases/test_api.py::test03_delete Executing Passed******************
+05/20/2022 04:56:59 PM: INFO: ******************testCases/test_api.py::test04_put Setting Passed******************
+05/20/2022 04:56:59 PM: INFO: ******************testCases/test_api.py::test04_put Executing Passed******************
+05/20/2022 04:56:59 PM: INFO: ******************testCases/test_api.py::test05_put[Jones-SW Tester] Setting Passed******************
+05/20/2022 04:56:59 PM: INFO: ******************testCases/test_api.py::test05_put[Jones-SW Tester] Executing Passed******************
+05/20/2022 04:57:00 PM: INFO: ******************testCases/test_api.py::test05_put[Michael-Scrum Master] Setting Passed******************
+05/20/2022 04:57:00 PM: INFO: ******************testCases/test_api.py::test05_put[Michael-Scrum Master] Executing Passed******************
+05/20/2022 04:57:00 PM: INFO: ******************testCases/test_api.py::test05_put[Emma-SW Developer] Setting Passed******************
+05/20/2022 04:57:00 PM: INFO: ******************testCases/test_api.py::test05_put[Emma-SW Developer] Executing Passed******************
+05/21/2022 02:25:58 PM: INFO: ******************testCases/test_api.py::test01_getRequest Setting Passed******************
+05/21/2022 02:25:58 PM: INFO: ******************testCases/test_api.py::test01_getRequest Executing Passed******************
+05/21/2022 02:25:58 PM: INFO: ******************testCases/test_api.py::test02_postRequest Setting Passed******************
+05/21/2022 02:25:58 PM: INFO: ******************testCases/test_api.py::test02_postRequest Executing Passed******************
+05/21/2022 02:25:59 PM: INFO: ******************testCases/test_api.py::test03_delete Setting Passed******************
+05/21/2022 02:25:59 PM: INFO: ******************testCases/test_api.py::test03_delete Executing Passed******************
+05/21/2022 02:25:59 PM: INFO: ******************testCases/test_api.py::test04_put Setting Passed******************
+05/21/2022 02:25:59 PM: INFO: ******************testCases/test_api.py::test04_put Executing Passed******************
+05/21/2022 02:25:59 PM: INFO: ******************testCases/test_api.py::test05_put[Jones-SW Tester] Setting Passed******************
+05/21/2022 02:25:59 PM: INFO: ******************testCases/test_api.py::test05_put[Jones-SW Tester] Executing Passed******************
+05/21/2022 02:25:59 PM: INFO: ******************testCases/test_api.py::test05_put[Michael-Scrum Master] Setting Passed******************
+05/21/2022 02:25:59 PM: INFO: ******************testCases/test_api.py::test05_put[Michael-Scrum Master] Executing Passed******************
+05/21/2022 02:26:00 PM: INFO: ******************testCases/test_api.py::test05_put[Emma-SW Developer] Setting Passed******************
+05/21/2022 02:26:00 PM: INFO: ******************testCases/test_api.py::test05_put[Emma-SW Developer] Executing Passed******************
+05/21/2022 02:26:02 PM: INFO: ******************testCases/test_api.py::test01_getRequest Setting Passed******************
+05/21/2022 02:26:02 PM: INFO: ******************testCases/test_api.py::test01_getRequest Executing Passed******************
+05/21/2022 02:26:02 PM: INFO: ******************testCases/test_api.py::test02_postRequest Setting Passed******************
+05/21/2022 02:26:02 PM: INFO: ******************testCases/test_api.py::test02_postRequest Executing Passed******************
+05/21/2022 02:26:02 PM: INFO: ******************testCases/test_api.py::test03_delete Setting Passed******************
+05/21/2022 02:26:02 PM: INFO: ******************testCases/test_api.py::test03_delete Executing Passed******************
+05/21/2022 02:26:02 PM: INFO: ******************testCases/test_api.py::test04_put Setting Passed******************
+05/21/2022 02:26:02 PM: INFO: ******************testCases/test_api.py::test04_put Executing Passed******************
+05/21/2022 02:26:03 PM: INFO: ******************testCases/test_api.py::test05_put[Jones-SW Tester] Setting Passed******************
+05/21/2022 02:26:03 PM: INFO: ******************testCases/test_api.py::test05_put[Jones-SW Tester] Executing Passed******************
+05/21/2022 02:26:03 PM: INFO: ******************testCases/test_api.py::test05_put[Michael-Scrum Master] Setting Passed******************
+05/21/2022 02:26:03 PM: INFO: ******************testCases/test_api.py::test05_put[Michael-Scrum Master] Executing Passed******************
+05/21/2022 02:26:03 PM: INFO: ******************testCases/test_api.py::test05_put[Emma-SW Developer] Setting Passed******************
+05/21/2022 02:26:03 PM: INFO: ******************testCases/test_api.py::test05_put[Emma-SW Developer] Executing Passed******************
+05/21/2022 02:30:04 PM: INFO: 
+
+05/21/2022 02:30:04 PM: INFO: ====== WebDriver manager ======
+05/21/2022 02:30:04 PM: INFO: Current google-chrome version is 101.0.4951
+05/21/2022 02:30:04 PM: INFO: Get LATEST chromedriver version for 101.0.4951 google-chrome
+05/21/2022 02:30:05 PM: INFO: Trying to download new driver from https://chromedriver.storage.googleapis.com/101.0.4951.41/chromedriver_win32.zip
+05/21/2022 02:30:06 PM: INFO: Driver has been saved in cache [C:\Users\liorc\.wdm\drivers\chromedriver\win32\101.0.4951.41]
+05/21/2022 02:30:10 PM: INFO: ******************testCases/test_nopcommerce.py::test01_homePageTitle Setting Passed******************
+05/21/2022 02:30:10 PM: INFO: ******************testCases/test_nopcommerce.py::test01_homePageTitle Executing Passed******************
+05/21/2022 02:30:13 PM: INFO: ******************testCases/test_nopcommerce.py::test02_login_ddt[admin@yourstore.com-admin] Setting Passed******************
+05/21/2022 02:30:13 PM: INFO: ******************testCases/test_nopcommerce.py::test02_login_ddt[admin@yourstore.com-admin] Executing Passed******************
+05/21/2022 02:30:14 PM: INFO: ******************testCases/test_nopcommerce.py::test02_login_ddt[admin@yourstore.com-admin11] Setting Passed******************
+05/21/2022 02:30:16 PM: INFO: ******************testCases/test_nopcommerce.py::test02_login_ddt[admin@yourstore.com-admin11] Executing Failed******************
+05/21/2022 02:30:17 PM: INFO: ******************testCases/test_nopcommerce.py::test02_login_ddt[admin12@yourstore.com-admin] Setting Passed******************
+05/21/2022 02:30:20 PM: INFO: ******************testCases/test_nopcommerce.py::test02_login_ddt[admin12@yourstore.com-admin] Executing Failed******************
+05/21/2022 02:30:27 PM: INFO: ******************testCases/test_nopcommerce.py::test03_search_customer_by_email Setting Passed******************
+05/21/2022 02:30:27 PM: INFO: ******************testCases/test_nopcommerce.py::test03_search_customer_by_email Executing Passed******************
+05/21/2022 02:30:32 PM: INFO: ******************testCases/test_nopcommerce.py::test04_search_customer_by_name Setting Passed******************
+05/21/2022 02:30:32 PM: INFO: ******************testCases/test_nopcommerce.py::test04_search_customer_by_name Executing Passed******************
+05/21/2022 02:30:40 PM: INFO: ******************testCases/test_nopcommerce.py::test05_add_new_customer Setting Passed******************
+05/21/2022 02:30:40 PM: INFO: ******************testCases/test_nopcommerce.py::test05_add_new_customer Executing Passed******************
+05/21/2022 02:33:08 PM: INFO: ******************testCases/test_api.py::test01_getRequest Setting Passed******************
+05/21/2022 02:33:08 PM: INFO: ******************testCases/test_api.py::test01_getRequest Executing Passed******************
+05/21/2022 02:33:08 PM: INFO: ******************testCases/test_api.py::test02_postRequest Setting Passed******************
+05/21/2022 02:33:08 PM: INFO: ******************testCases/test_api.py::test02_postRequest Executing Passed******************
+05/21/2022 02:33:08 PM: INFO: ******************testCases/test_api.py::test03_delete Setting Passed******************
+05/21/2022 02:33:08 PM: INFO: ******************testCases/test_api.py::test03_delete Executing Passed******************
+05/21/2022 02:33:08 PM: INFO: ******************testCases/test_api.py::test04_put Setting Passed******************
+05/21/2022 02:33:08 PM: INFO: ******************testCases/test_api.py::test04_put Executing Passed******************
+05/21/2022 02:33:09 PM: INFO: ******************testCases/test_api.py::test05_put[Jones-SW Tester] Setting Passed******************
+05/21/2022 02:33:09 PM: INFO: ******************testCases/test_api.py::test05_put[Jones-SW Tester] Executing Passed******************
+05/21/2022 02:33:09 PM: INFO: ******************testCases/test_api.py::test05_put[Michael-Scrum Master] Setting Passed******************
+05/21/2022 02:33:09 PM: INFO: ******************testCases/test_api.py::test05_put[Michael-Scrum Master] Executing Passed******************
+05/21/2022 02:33:09 PM: INFO: ******************testCases/test_api.py::test05_put[Emma-SW Developer] Setting Passed******************
+05/21/2022 02:33:09 PM: INFO: ******************testCases/test_api.py::test05_put[Emma-SW Developer] Executing Passed******************
