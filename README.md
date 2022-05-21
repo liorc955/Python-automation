@@ -45,7 +45,7 @@ Run the web tests
 Run the API tests
 
 ```bash
-  pytest .\testCases\test_nopcommerce.py
+  pytest .\testCases\test_api.py
 ```
 
 
