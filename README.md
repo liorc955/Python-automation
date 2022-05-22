@@ -1,5 +1,5 @@
 
-# Python Automation - nopCommerce Website & API testing
+# Python Automation - nopCommerce Website & API Testing
 
 In this project, I built UI automation test cases on NopCommerce Website and API automation test cases on reqres.in with Selenium & Pytest as framework.
 
