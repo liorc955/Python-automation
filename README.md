@@ -16,7 +16,7 @@ In this project, I built UI automation test cases on NopCommerce Website and API
 Install pipenv:
 
 ```bash
- install pipenv --upgrade
+ pip install pipenv
  ```
 
 Clone the project
