@@ -51,5 +51,5 @@ Run the API tests
 
 ## Allure Tests Report
 
-You can see the Allure Report [here](https://incandescent-donut-f14971.netlify.app/#suites/45c6c0641e9c1fa7e44cd0d2b7e3ecfc)
+You can see the Allure Report [here]()
 

@@ -21,11 +21,14 @@ def test01_homePageTitle(setup):
 
 
 @allure.description("This test verifies login by DDT parameters")
-@pytest.mark.parametrize("email_data,password_data", readData(path))
-def test02_login_ddt(wait, pages, setup, email_data, password_data):
+@pytest.mark.parametrize("email_data,password_data,expected_result", readData(path))
+def test02_login_ddt(wait, pages, setup, email_data, password_data, expected_result):
     driver = setup
     WebFlows.login(pages, wait, email_data, password_data)
-    assert driver.title == "Dashboard / nopCommerce administration"
+    if expected_result == 'pass':
+        assert driver.title == "Dashboard / nopCommerce administration"
+    elif expected_result == 'failed':
+        assert driver.title == "Your store. Login"
 
 
 @allure.description("This test verifies the search of customer by email flow")

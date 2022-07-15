@@ -1296,3 +1296,129 @@
 05/21/2022 02:33:09 PM: INFO: ******************testCases/test_api.py::test05_put[Michael-Scrum Master] Executing Passed******************
 05/21/2022 02:33:09 PM: INFO: ******************testCases/test_api.py::test05_put[Emma-SW Developer] Setting Passed******************
 05/21/2022 02:33:09 PM: INFO: ******************testCases/test_api.py::test05_put[Emma-SW Developer] Executing Passed******************
+07/15/2022 03:06:16 PM: INFO: 
+
+07/15/2022 03:06:16 PM: INFO: ====== WebDriver manager ======
+07/15/2022 03:06:17 PM: INFO: Current google-chrome version is 103.0.5060
+07/15/2022 03:06:17 PM: INFO: Get LATEST chromedriver version for 103.0.5060 google-chrome
+07/15/2022 03:06:17 PM: INFO: There is no [win32] chromedriver for browser 103.0.5060 in cache
+07/15/2022 03:06:17 PM: INFO: Trying to download new driver from https://chromedriver.storage.googleapis.com/103.0.5060.53/chromedriver_win32.zip
+07/15/2022 03:06:19 PM: INFO: Driver has been saved in cache [C:\Users\liorc\.wdm\drivers\chromedriver\win32\103.0.5060.53]
+07/15/2022 03:06:24 PM: INFO: ******************testCases/test_nopcommerce.py::test01_homePageTitle Setting Passed******************
+07/15/2022 03:06:24 PM: INFO: ******************testCases/test_nopcommerce.py::test01_homePageTitle Executing Passed******************
+07/15/2022 03:06:31 PM: INFO: ******************testCases/test_nopcommerce.py::test02_login_ddt[admin@yourstore.com-admin] Setting Passed******************
+07/15/2022 03:06:31 PM: INFO: ******************testCases/test_nopcommerce.py::test02_login_ddt[admin@yourstore.com-admin] Executing Passed******************
+07/15/2022 03:06:32 PM: INFO: ******************testCases/test_nopcommerce.py::test02_login_ddt[admin@yourstore.com-admin11] Setting Passed******************
+07/15/2022 03:06:34 PM: INFO: ******************testCases/test_nopcommerce.py::test02_login_ddt[admin@yourstore.com-admin11] Executing Failed******************
+07/15/2022 03:06:35 PM: INFO: ******************testCases/test_nopcommerce.py::test02_login_ddt[admin12@yourstore.com-admin] Setting Passed******************
+07/15/2022 03:06:38 PM: INFO: ******************testCases/test_nopcommerce.py::test02_login_ddt[admin12@yourstore.com-admin] Executing Failed******************
+07/15/2022 03:06:45 PM: INFO: ******************testCases/test_nopcommerce.py::test03_search_customer_by_email Setting Passed******************
+07/15/2022 03:06:45 PM: INFO: ******************testCases/test_nopcommerce.py::test03_search_customer_by_email Executing Passed******************
+07/15/2022 03:06:51 PM: INFO: ******************testCases/test_nopcommerce.py::test04_search_customer_by_name Setting Passed******************
+07/15/2022 03:06:51 PM: INFO: ******************testCases/test_nopcommerce.py::test04_search_customer_by_name Executing Passed******************
+07/15/2022 03:07:00 PM: INFO: ******************testCases/test_nopcommerce.py::test05_add_new_customer Setting Passed******************
+07/15/2022 03:07:00 PM: INFO: ******************testCases/test_nopcommerce.py::test05_add_new_customer Executing Passed******************
+07/15/2022 03:08:01 PM: INFO: 
+
+07/15/2022 03:08:01 PM: INFO: ====== WebDriver manager ======
+07/15/2022 03:08:02 PM: INFO: Current google-chrome version is 103.0.5060
+07/15/2022 03:08:02 PM: INFO: Get LATEST chromedriver version for 103.0.5060 google-chrome
+07/15/2022 03:08:02 PM: INFO: Driver [C:\Users\liorc\.wdm\drivers\chromedriver\win32\103.0.5060.53\chromedriver.exe] found in cache
+07/15/2022 03:08:04 PM: INFO: ******************testCases/test_nopcommerce.py::test01_homePageTitle Setting Passed******************
+07/15/2022 03:08:04 PM: INFO: ******************testCases/test_nopcommerce.py::test01_homePageTitle Executing Passed******************
+07/15/2022 03:08:07 PM: INFO: ******************testCases/test_nopcommerce.py::test02_login_ddt[admin@yourstore.com-admin] Setting Passed******************
+07/15/2022 03:08:07 PM: INFO: ******************testCases/test_nopcommerce.py::test02_login_ddt[admin@yourstore.com-admin] Executing Passed******************
+07/15/2022 03:08:13 PM: INFO: ******************testCases/test_nopcommerce.py::test03_search_customer_by_email Setting Passed******************
+07/15/2022 03:08:13 PM: INFO: ******************testCases/test_nopcommerce.py::test03_search_customer_by_email Executing Passed******************
+07/15/2022 03:08:19 PM: INFO: ******************testCases/test_nopcommerce.py::test04_search_customer_by_name Setting Passed******************
+07/15/2022 03:08:19 PM: INFO: ******************testCases/test_nopcommerce.py::test04_search_customer_by_name Executing Passed******************
+07/15/2022 03:08:27 PM: INFO: ******************testCases/test_nopcommerce.py::test05_add_new_customer Setting Passed******************
+07/15/2022 03:08:27 PM: INFO: ******************testCases/test_nopcommerce.py::test05_add_new_customer Executing Passed******************
+07/15/2022 03:13:39 PM: INFO: 
+
+07/15/2022 03:13:39 PM: INFO: ====== WebDriver manager ======
+07/15/2022 03:13:40 PM: INFO: Current google-chrome version is 103.0.5060
+07/15/2022 03:13:40 PM: INFO: Get LATEST chromedriver version for 103.0.5060 google-chrome
+07/15/2022 03:13:40 PM: INFO: Driver [C:\Users\liorc\.wdm\drivers\chromedriver\win32\103.0.5060.53\chromedriver.exe] found in cache
+07/15/2022 03:13:43 PM: INFO: ******************testCases/test_nopcommerce.py::test01_homePageTitle Setting Passed******************
+07/15/2022 03:13:43 PM: INFO: ******************testCases/test_nopcommerce.py::test01_homePageTitle Executing Passed******************
+07/15/2022 03:13:46 PM: INFO: ******************testCases/test_nopcommerce.py::test02_login_ddt[admin@yourstore.com-admin-pass] Setting Passed******************
+07/15/2022 03:13:46 PM: INFO: ******************testCases/test_nopcommerce.py::test02_login_ddt[admin@yourstore.com-admin-pass] Executing Passed******************
+07/15/2022 03:13:47 PM: INFO: ******************testCases/test_nopcommerce.py::test02_login_ddt[admin@yourstore.com-admin11-failed] Setting Passed******************
+07/15/2022 03:13:47 PM: INFO: ******************testCases/test_nopcommerce.py::test02_login_ddt[admin@yourstore.com-admin11-failed] Executing Passed******************
+07/15/2022 03:13:48 PM: INFO: ******************testCases/test_nopcommerce.py::test02_login_ddt[admin12@yourstore.com-admin-failed] Setting Passed******************
+07/15/2022 03:13:48 PM: INFO: ******************testCases/test_nopcommerce.py::test02_login_ddt[admin12@yourstore.com-admin-failed] Executing Passed******************
+07/15/2022 03:13:54 PM: INFO: ******************testCases/test_nopcommerce.py::test03_search_customer_by_email Setting Passed******************
+07/15/2022 03:13:54 PM: INFO: ******************testCases/test_nopcommerce.py::test03_search_customer_by_email Executing Passed******************
+07/15/2022 03:14:00 PM: INFO: ******************testCases/test_nopcommerce.py::test04_search_customer_by_name Setting Passed******************
+07/15/2022 03:14:00 PM: INFO: ******************testCases/test_nopcommerce.py::test04_search_customer_by_name Executing Passed******************
+07/15/2022 03:14:08 PM: INFO: ******************testCases/test_nopcommerce.py::test05_add_new_customer Setting Passed******************
+07/15/2022 03:14:08 PM: INFO: ******************testCases/test_nopcommerce.py::test05_add_new_customer Executing Passed******************
+07/15/2022 03:15:26 PM: INFO: 
+
+07/15/2022 03:15:26 PM: INFO: ====== WebDriver manager ======
+07/15/2022 03:15:26 PM: INFO: Current google-chrome version is 103.0.5060
+07/15/2022 03:15:26 PM: INFO: Get LATEST chromedriver version for 103.0.5060 google-chrome
+07/15/2022 03:15:27 PM: INFO: Driver [C:\Users\liorc\.wdm\drivers\chromedriver\win32\103.0.5060.53\chromedriver.exe] found in cache
+07/15/2022 03:15:29 PM: INFO: ******************testCases/test_nopcommerce.py::test01_homePageTitle Setting Passed******************
+07/15/2022 03:15:29 PM: INFO: ******************testCases/test_nopcommerce.py::test01_homePageTitle Executing Passed******************
+07/15/2022 03:15:33 PM: INFO: ******************testCases/test_nopcommerce.py::test02_login_ddt[admin@yourstore.com-admin-pass] Setting Passed******************
+07/15/2022 03:15:33 PM: INFO: ******************testCases/test_nopcommerce.py::test02_login_ddt[admin@yourstore.com-admin-pass] Executing Passed******************
+07/15/2022 03:15:34 PM: INFO: ******************testCases/test_nopcommerce.py::test02_login_ddt[admin@yourstore.com-admin11-failed] Setting Passed******************
+07/15/2022 03:15:34 PM: INFO: ******************testCases/test_nopcommerce.py::test02_login_ddt[admin@yourstore.com-admin11-failed] Executing Passed******************
+07/15/2022 03:15:35 PM: INFO: ******************testCases/test_nopcommerce.py::test02_login_ddt[admin12@yourstore.com-admin-failed] Setting Passed******************
+07/15/2022 03:15:35 PM: INFO: ******************testCases/test_nopcommerce.py::test02_login_ddt[admin12@yourstore.com-admin-failed] Executing Passed******************
+07/15/2022 03:15:41 PM: INFO: ******************testCases/test_nopcommerce.py::test03_search_customer_by_email Setting Passed******************
+07/15/2022 03:15:41 PM: INFO: ******************testCases/test_nopcommerce.py::test03_search_customer_by_email Executing Passed******************
+07/15/2022 03:15:46 PM: INFO: ******************testCases/test_nopcommerce.py::test04_search_customer_by_name Setting Passed******************
+07/15/2022 03:15:46 PM: INFO: ******************testCases/test_nopcommerce.py::test04_search_customer_by_name Executing Passed******************
+07/15/2022 03:15:54 PM: INFO: ******************testCases/test_nopcommerce.py::test05_add_new_customer Setting Passed******************
+07/15/2022 03:15:54 PM: INFO: ******************testCases/test_nopcommerce.py::test05_add_new_customer Executing Passed******************
+07/15/2022 03:33:10 PM: INFO: ******************testCases/test_api.py::test01_getRequest Setting Passed******************
+07/15/2022 03:33:10 PM: INFO: ******************testCases/test_api.py::test01_getRequest Executing Passed******************
+07/15/2022 03:33:10 PM: INFO: ******************testCases/test_api.py::test02_postRequest Setting Passed******************
+07/15/2022 03:33:10 PM: INFO: ******************testCases/test_api.py::test02_postRequest Executing Passed******************
+07/15/2022 03:33:10 PM: INFO: ******************testCases/test_api.py::test03_delete Setting Passed******************
+07/15/2022 03:33:10 PM: INFO: ******************testCases/test_api.py::test03_delete Executing Passed******************
+07/15/2022 03:33:10 PM: INFO: ******************testCases/test_api.py::test04_put Setting Passed******************
+07/15/2022 03:33:10 PM: INFO: ******************testCases/test_api.py::test04_put Executing Passed******************
+07/15/2022 03:33:11 PM: INFO: ******************testCases/test_api.py::test05_put[Jones-SW Tester] Setting Passed******************
+07/15/2022 03:33:11 PM: INFO: ******************testCases/test_api.py::test05_put[Jones-SW Tester] Executing Passed******************
+07/15/2022 03:33:11 PM: INFO: ******************testCases/test_api.py::test05_put[Michael-Scrum Master] Setting Passed******************
+07/15/2022 03:33:11 PM: INFO: ******************testCases/test_api.py::test05_put[Michael-Scrum Master] Executing Passed******************
+07/15/2022 03:33:11 PM: INFO: ******************testCases/test_api.py::test05_put[Emma-SW Developer] Setting Passed******************
+07/15/2022 03:33:11 PM: INFO: ******************testCases/test_api.py::test05_put[Emma-SW Developer] Executing Passed******************
+07/15/2022 03:34:40 PM: INFO: 
+
+07/15/2022 03:34:40 PM: INFO: ====== WebDriver manager ======
+07/15/2022 03:34:40 PM: INFO: Current google-chrome version is 103.0.5060
+07/15/2022 03:34:40 PM: INFO: Get LATEST chromedriver version for 103.0.5060 google-chrome
+07/15/2022 03:34:41 PM: INFO: Driver [C:\Users\liorc\.wdm\drivers\chromedriver\win32\103.0.5060.53\chromedriver.exe] found in cache
+07/15/2022 03:34:43 PM: INFO: ******************testCases/test_nopcommerce.py::test01_homePageTitle Setting Passed******************
+07/15/2022 03:34:43 PM: INFO: ******************testCases/test_nopcommerce.py::test01_homePageTitle Executing Passed******************
+07/15/2022 03:34:47 PM: INFO: ******************testCases/test_nopcommerce.py::test02_login_ddt[admin@yourstore.com-admin-pass] Setting Passed******************
+07/15/2022 03:34:47 PM: INFO: ******************testCases/test_nopcommerce.py::test02_login_ddt[admin@yourstore.com-admin-pass] Executing Passed******************
+07/15/2022 03:34:48 PM: INFO: ******************testCases/test_nopcommerce.py::test02_login_ddt[admin@yourstore.com-admin11-failed] Setting Passed******************
+07/15/2022 03:34:48 PM: INFO: ******************testCases/test_nopcommerce.py::test02_login_ddt[admin@yourstore.com-admin11-failed] Executing Passed******************
+07/15/2022 03:34:49 PM: INFO: ******************testCases/test_nopcommerce.py::test02_login_ddt[admin12@yourstore.com-admin-failed] Setting Passed******************
+07/15/2022 03:34:49 PM: INFO: ******************testCases/test_nopcommerce.py::test02_login_ddt[admin12@yourstore.com-admin-failed] Executing Passed******************
+07/15/2022 03:34:55 PM: INFO: ******************testCases/test_nopcommerce.py::test03_search_customer_by_email Setting Passed******************
+07/15/2022 03:34:55 PM: INFO: ******************testCases/test_nopcommerce.py::test03_search_customer_by_email Executing Passed******************
+07/15/2022 03:35:01 PM: INFO: ******************testCases/test_nopcommerce.py::test04_search_customer_by_name Setting Passed******************
+07/15/2022 03:35:01 PM: INFO: ******************testCases/test_nopcommerce.py::test04_search_customer_by_name Executing Passed******************
+07/15/2022 03:35:08 PM: INFO: ******************testCases/test_nopcommerce.py::test05_add_new_customer Setting Passed******************
+07/15/2022 03:35:08 PM: INFO: ******************testCases/test_nopcommerce.py::test05_add_new_customer Executing Passed******************
+07/15/2022 03:37:17 PM: INFO: ******************testCases/test_api.py::test01_getRequest Setting Passed******************
+07/15/2022 03:37:17 PM: INFO: ******************testCases/test_api.py::test01_getRequest Executing Passed******************
+07/15/2022 03:37:18 PM: INFO: ******************testCases/test_api.py::test02_postRequest Setting Passed******************
+07/15/2022 03:37:18 PM: INFO: ******************testCases/test_api.py::test02_postRequest Executing Passed******************
+07/15/2022 03:37:18 PM: INFO: ******************testCases/test_api.py::test03_delete Setting Passed******************
+07/15/2022 03:37:18 PM: INFO: ******************testCases/test_api.py::test03_delete Executing Passed******************
+07/15/2022 03:37:18 PM: INFO: ******************testCases/test_api.py::test04_put Setting Passed******************
+07/15/2022 03:37:18 PM: INFO: ******************testCases/test_api.py::test04_put Executing Passed******************
+07/15/2022 03:37:19 PM: INFO: ******************testCases/test_api.py::test05_put[Jones-SW Tester] Setting Passed******************
+07/15/2022 03:37:19 PM: INFO: ******************testCases/test_api.py::test05_put[Jones-SW Tester] Executing Passed******************
+07/15/2022 03:37:19 PM: INFO: ******************testCases/test_api.py::test05_put[Michael-Scrum Master] Setting Passed******************
+07/15/2022 03:37:19 PM: INFO: ******************testCases/test_api.py::test05_put[Michael-Scrum Master] Executing Passed******************
+07/15/2022 03:37:19 PM: INFO: ******************testCases/test_api.py::test05_put[Emma-SW Developer] Setting Passed******************
+07/15/2022 03:37:19 PM: INFO: ******************testCases/test_api.py::test05_put[Emma-SW Developer] Executing Passed******************
