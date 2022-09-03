@@ -1,12 +1,11 @@
 import pytest
-from extensions.ApiActions import ApiActions
+from extensions import ApiActions
 from utilities.CVUtil import readData
-from utilities.customLogger import LogGen
-from utilities.readProperties import ReadConfig
+from utilities import customLogger, readProperties
 
-url = ReadConfig.get_api_data("baseUrl")
+url = readProperties.get_api_data("baseUrl")
 path = "./TestData/users.csv"
-LogGen.loggen()
+customLogger.loggen()
 
 
 def test01_getRequest():

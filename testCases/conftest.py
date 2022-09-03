@@ -1,10 +1,10 @@
 import pytest
 
-from utilities.readProperties import ReadConfig
-from workflows.WebFlows import WebFlows
+from utilities import readProperties
+from workflows import WebFlows
 
-email = ReadConfig.get_web_data("email")
-password = ReadConfig.get_web_data("password")
+email = readProperties.get_web_data("email")
+password = readProperties.get_web_data("password")
 
 
 @pytest.fixture

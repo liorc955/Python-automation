@@ -3,9 +3,9 @@ import random
 import string
 import time
 import pytest
-from extensions.UIActions import UIActions
+from extensions import UIActions
 from utilities.CVUtil import readData
-from workflows.WebFlows import WebFlows
+from workflows import WebFlows
 
 path = "./TestData/credentials.csv"
 
@@ -25,9 +25,9 @@ def test01_homePageTitle(setup):
 def test02_login_ddt(wait, pages, setup, email_data, password_data, expected_result):
     driver = setup
     WebFlows.login(pages, wait, email_data, password_data)
-    if expected_result == 'pass':
+    if expected_result == "pass":
         assert driver.title == "Dashboard / nopCommerce administration"
-    elif expected_result == 'failed':
+    elif expected_result == "failed":
         assert driver.title == "Your store. Login"
 
 
