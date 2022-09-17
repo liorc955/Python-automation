@@ -40,16 +40,10 @@ Install dependencies
 Run the web tests
 
 ```bash
-  pytest .\testCases\test_nopcommerce.py --browser chrome --platform web
+  pytest .\test_cases\test_nopcommerce.py --browser chrome --platform web
 ```
 Run the API tests
 
 ```bash
-  pytest .\testCases\test_api.py
+  pytest .\test_cases\test_api.py
 ```
-
-
-## Allure Tests Report
-
-You can see the Allure Report [here]()
-
