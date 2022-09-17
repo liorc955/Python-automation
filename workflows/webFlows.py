@@ -1,30 +1,30 @@
 import allure
 from selenium.webdriver.common.by import By
 
-from extensions import UIActions
+from extensions import uiActions
 
 
 @allure.step("Business Flow: Login")
 def login(pages, wait, email, password):
     login = pages["login"]
-    UIActions.update_text(wait, login.textbox_user_email, email)
-    UIActions.update_text(wait, login.textbox_password, password)
-    UIActions.click(wait, login.button_login)
+    uiActions.update_text(wait, login.textbox_user_email, email)
+    uiActions.update_text(wait, login.textbox_password, password)
+    uiActions.click(wait, login.button_login)
 
 
 @allure.step("Business Flow: Search By Email")
 def search_for_email(pages, wait, email):
     customer = pages["customer"]
-    UIActions.update_text(wait, customer.textbox_search_email, email)
-    UIActions.click(wait, customer.btn_search)
+    uiActions.update_text(wait, customer.textbox_search_email, email)
+    uiActions.click(wait, customer.btn_search)
 
 
 @allure.step("Business Flow: Search By Name")
 def search_for_name(pages, wait, first_name, last_name):
     customer = pages["customer"]
-    UIActions.update_text(wait, customer.textbox_search_firstName, first_name)
-    UIActions.update_text(wait, customer.textbox_search_lastName, last_name)
-    UIActions.click(wait, customer.btn_search)
+    uiActions.update_text(wait, customer.textbox_search_firstName, first_name)
+    uiActions.update_text(wait, customer.textbox_search_lastName, last_name)
+    uiActions.click(wait, customer.btn_search)
 
 
 @allure.step("Business Flow: Get Row Number")
@@ -43,7 +43,7 @@ def search_name_on_table(pages, driver, full_name):
     flag = False
     for r in range(1, get_row_number(pages, driver) + 1):
         table = driver.find_element(By.XPATH, customer.table_xpath)
-        name = UIActions.get_element_text(
+        name = uiActions.get_element_text(
             table.find_element(
                 By.XPATH,
                 "//table[@id='customers-grid']/tbody/tr[" + str(r) + "]/td[3]",
@@ -58,8 +58,8 @@ def search_name_on_table(pages, driver, full_name):
 @allure.step("Business Flow: Navigate To The Customer Table Page")
 def goto_customer_table(pages, wait):
     mega_menu = pages["mega_menu"]
-    UIActions.click(wait, mega_menu.btn_customers_prm)
-    UIActions.click(wait, mega_menu.btn_customers_sub)
+    uiActions.click(wait, mega_menu.btn_customers_prm)
+    uiActions.click(wait, mega_menu.btn_customers_sub)
 
 
 @allure.step("Business Flow: Fill In Customer Form")
@@ -81,25 +81,25 @@ def fill_customer_form(
         comment,
 ):
     create_customer = pages["create_customer"]
-    UIActions.update_text(wait, create_customer.textbox_email, email)
-    UIActions.update_text(wait, create_customer.textbox_password, password)
-    UIActions.update_text(wait, create_customer.textbox_first_name, firstname)
-    UIActions.update_text(wait, create_customer.textbox_last_name, lastname)
+    uiActions.update_text(wait, create_customer.textbox_email, email)
+    uiActions.update_text(wait, create_customer.textbox_password, password)
+    uiActions.update_text(wait, create_customer.textbox_first_name, firstname)
+    uiActions.update_text(wait, create_customer.textbox_last_name, lastname)
     if gender == "male":
-        UIActions.click(wait, create_customer.textbox_gender_male)
+        uiActions.click(wait, create_customer.textbox_gender_male)
     elif gender == "female":
-        UIActions.click(wait, create_customer.textbox_gender_female)
-    UIActions.update_text(wait, create_customer.textbox_dateOfBirth, date_birth)
-    UIActions.update_text(wait, create_customer.textbox_company, company)
+        uiActions.click(wait, create_customer.textbox_gender_female)
+    uiActions.update_text(wait, create_customer.textbox_dateOfBirth, date_birth)
+    uiActions.update_text(wait, create_customer.textbox_company, company)
     if tax_exempt:
-        UIActions.click(wait, create_customer.checkbox_taxExempt)
-    UIActions.click(wait, create_customer.div_newsletter)
+        uiActions.click(wait, create_customer.checkbox_taxExempt)
+    uiActions.click(wait, create_customer.div_newsletter)
     if newsletter == "Test store 2":
-        UIActions.click(wait, create_customer.li_newsletter_test_store_2_opt)
-    UIActions.click(wait, create_customer.div_customer_role)
+        uiActions.click(wait, create_customer.li_newsletter_test_store_2_opt)
+    uiActions.click(wait, create_customer.div_customer_role)
     if role == "Administrators":
-        UIActions.click(wait, create_customer.li_Administrators_role_opt)
+        uiActions.click(wait, create_customer.li_Administrators_role_opt)
     create_customer.select_vendor_id.select_element_by_text(vendor_id)
     if not active:
-        UIActions.click(wait, create_customer.checkbox_active)
-    UIActions.update_text(wait, create_customer.textarea_admin_comment, comment)
+        uiActions.click(wait, create_customer.checkbox_active)
+    uiActions.update_text(wait, create_customer.textarea_admin_comment, comment)
