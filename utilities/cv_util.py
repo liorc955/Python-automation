@@ -1,7 +1,7 @@
 import csv
 
 
-def readData(path):
+def read_data(path):
     file = open(path)
     csvreader = csv.reader(file)
     next(csvreader)  # Skip the first row

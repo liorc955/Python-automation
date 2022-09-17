@@ -1,45 +1,45 @@
 import pytest
-from extensions import apiActions
-from utilities.cvUtil import readData
-from utilities import customLogger, readProperties
+from extensions import api_actions as api
+from utilities.cv_util import read_data
+from utilities import custom_logger, read_properties
 
-url = readProperties.get_api_data("baseUrl")
+url = read_properties.get_api_data("baseUrl")
 path = "./TestData/users.csv"
-customLogger.loggen()
+custom_logger.loggen()
 
 
-def test01_getRequest():
-    response = apiActions.get(url)
-    assert apiActions.get_status_code(response) == 200
+def test01_get_request():
+    response = api.get(url)
+    assert api.get_status_code(response) == 200
 
 
-def test02_postRequest():
-    request_json = apiActions.parseToJson("./TestData/post_payload.json")
-    response = apiActions.post(url, request_json)
-    id_res = apiActions.get_values_from_json("id", response)
+def test02_post_request():
+    request_json = api.parseToJson("./TestData/post_payload.json")
+    response = api.post(url, request_json)
+    id_res = api.get_values_from_json("id", response)
     print(id_res[0])
-    assert apiActions.get_value_from_json("name", response) == "morpheus"
-    assert apiActions.get_status_code(response) == 201
+    assert api.get_value_from_json("name", response) == "morpheus"
+    assert api.get_status_code(response) == 201
 
 
 def test03_delete():
-    response = apiActions.delete(url)
-    assert apiActions.get_status_code(response) == 204
+    response = api.delete(url)
+    assert api.get_status_code(response) == 204
 
 
 def test04_put():
-    request_json = apiActions.parseToJson("./TestData/update_payload.json")
-    response = apiActions.put(url, request_json)
-    assert apiActions.get_value_from_json("job", response) == "zion resident"
-    assert apiActions.get_status_code(response) == 200
+    request_json = api.parseToJson("./TestData/update_payload.json")
+    response = api.put(url, request_json)
+    assert api.get_value_from_json("job", response) == "zion resident"
+    assert api.get_status_code(response) == 200
 
 
-@pytest.mark.parametrize("name,job", readData(path))
+@pytest.mark.parametrize("name,job", read_data(path))
 def test05_put(name, job):
-    request_json = apiActions.parseToJson("./TestData/update_payload.json")
+    request_json = api.parseToJson("./TestData/update_payload.json")
     request_json["name"] = name
     request_json["job"] = job
-    response = apiActions.put(url, request_json)
-    assert apiActions.get_value_from_json("name", response) == name
-    assert apiActions.get_value_from_json("job", response) == job
-    assert apiActions.get_status_code(response) == 200
+    response = api.put(url, request_json)
+    assert api.get_value_from_json("name", response) == name
+    assert api.get_value_from_json("job", response) == job
+    assert api.get_status_code(response) == 200

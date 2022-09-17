@@ -11,14 +11,14 @@ from pageObjects.nopcommerce.CreateCustomerPage import CreateCustomer
 from pageObjects.nopcommerce.CustomersPage import Customers
 from pageObjects.nopcommerce.LoginPage import Login
 from pageObjects.nopcommerce.MegaMenuPage import MegaMenu
-from utilities import customLogger, readProperties
+from utilities import custom_logger, read_properties
 from selenium.webdriver.support.ui import WebDriverWait
 
 
 # Before Class
 @pytest.fixture(scope="module")
 def setup(get_param):
-    customLogger.loggen()
+    custom_logger.loggen()
     platform = get_param["platform"]
     browser = get_param["browser"]
     if platform == "web":
@@ -66,7 +66,7 @@ def initFireFoxDriver():
 def before(request, get_param):
     if get_param["platform"] == "web":
         driver = request.node.funcargs["setup"]
-        driver.get(readProperties.get_web_data("baseUrl"))
+        driver.get(read_properties.get_web_data("baseUrl"))
 
 
 # set up a hook to be able to check the status test
@@ -88,7 +88,7 @@ def test_status_check(request, get_param):
     yield
     # request.node is an "item" because we use the default
     # "function" scope
-    logger = customLogger.loggen()
+    logger = custom_logger.loggen()
     if request.node.rep_setup.failed:
         logger.info(
             f"******************{str(request.node.nodeid)} Setting Failed******************"

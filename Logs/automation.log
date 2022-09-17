@@ -1725,3 +1725,37 @@
 09/17/2022 06:57:04 PM: INFO: ******************testCases/test_api.py::test05_put[Michael-Scrum Master] Executing Passed******************
 09/17/2022 06:57:04 PM: INFO: ******************testCases/test_api.py::test05_put[Emma-SW Developer] Setting Passed******************
 09/17/2022 06:57:04 PM: INFO: ******************testCases/test_api.py::test05_put[Emma-SW Developer] Executing Passed******************
+09/17/2022 09:21:48 PM: INFO: ******************testCases/test_api.py::test01_get_request Setting Passed******************
+09/17/2022 09:21:48 PM: INFO: ******************testCases/test_api.py::test01_get_request Executing Passed******************
+09/17/2022 09:21:48 PM: INFO: ******************testCases/test_api.py::test02_post_request Setting Passed******************
+09/17/2022 09:21:48 PM: INFO: ******************testCases/test_api.py::test02_post_request Executing Passed******************
+09/17/2022 09:21:48 PM: INFO: ******************testCases/test_api.py::test03_delete Setting Passed******************
+09/17/2022 09:21:48 PM: INFO: ******************testCases/test_api.py::test03_delete Executing Passed******************
+09/17/2022 09:21:48 PM: INFO: ******************testCases/test_api.py::test04_put Setting Passed******************
+09/17/2022 09:21:48 PM: INFO: ******************testCases/test_api.py::test04_put Executing Passed******************
+09/17/2022 09:21:49 PM: INFO: ******************testCases/test_api.py::test05_put[Jones-SW Tester] Setting Passed******************
+09/17/2022 09:21:49 PM: INFO: ******************testCases/test_api.py::test05_put[Jones-SW Tester] Executing Passed******************
+09/17/2022 09:21:49 PM: INFO: ******************testCases/test_api.py::test05_put[Michael-Scrum Master] Setting Passed******************
+09/17/2022 09:21:49 PM: INFO: ******************testCases/test_api.py::test05_put[Michael-Scrum Master] Executing Passed******************
+09/17/2022 09:21:49 PM: INFO: ******************testCases/test_api.py::test05_put[Emma-SW Developer] Setting Passed******************
+09/17/2022 09:21:49 PM: INFO: ******************testCases/test_api.py::test05_put[Emma-SW Developer] Executing Passed******************
+09/17/2022 09:21:53 PM: INFO: 
+
+09/17/2022 09:21:53 PM: INFO: ====== WebDriver manager ======
+09/17/2022 09:21:53 PM: INFO: Current google-chrome version is 105.0.5195
+09/17/2022 09:21:53 PM: INFO: Get LATEST chromedriver version for 105.0.5195 google-chrome
+09/17/2022 09:21:53 PM: INFO: Driver [C:\Users\liorc\.wdm\drivers\chromedriver\win32\105.0.5195.52\chromedriver.exe] found in cache
+09/17/2022 09:21:57 PM: INFO: ******************testCases/test_nopcommerce.py::test01_homePageTitle Setting Passed******************
+09/17/2022 09:21:57 PM: INFO: ******************testCases/test_nopcommerce.py::test01_homePageTitle Executing Passed******************
+09/17/2022 09:22:01 PM: INFO: ******************testCases/test_nopcommerce.py::test02_login_ddt[admin@yourstore.com-admin-pass] Setting Passed******************
+09/17/2022 09:22:01 PM: INFO: ******************testCases/test_nopcommerce.py::test02_login_ddt[admin@yourstore.com-admin-pass] Executing Passed******************
+09/17/2022 09:22:02 PM: INFO: ******************testCases/test_nopcommerce.py::test02_login_ddt[admin@yourstore.com-admin11-failed] Setting Passed******************
+09/17/2022 09:22:02 PM: INFO: ******************testCases/test_nopcommerce.py::test02_login_ddt[admin@yourstore.com-admin11-failed] Executing Passed******************
+09/17/2022 09:22:04 PM: INFO: ******************testCases/test_nopcommerce.py::test02_login_ddt[admin12@yourstore.com-admin-failed] Setting Passed******************
+09/17/2022 09:22:04 PM: INFO: ******************testCases/test_nopcommerce.py::test02_login_ddt[admin12@yourstore.com-admin-failed] Executing Passed******************
+09/17/2022 09:22:11 PM: INFO: ******************testCases/test_nopcommerce.py::test03_search_customer_by_email Setting Passed******************
+09/17/2022 09:22:11 PM: INFO: ******************testCases/test_nopcommerce.py::test03_search_customer_by_email Executing Passed******************
+09/17/2022 09:22:18 PM: INFO: ******************testCases/test_nopcommerce.py::test04_search_customer_by_name Setting Passed******************
+09/17/2022 09:22:18 PM: INFO: ******************testCases/test_nopcommerce.py::test04_search_customer_by_name Executing Passed******************
+09/17/2022 09:22:29 PM: INFO: ******************testCases/test_nopcommerce.py::test05_add_new_customer Setting Passed******************
+09/17/2022 09:22:29 PM: INFO: ******************testCases/test_nopcommerce.py::test05_add_new_customer Executing Passed******************
