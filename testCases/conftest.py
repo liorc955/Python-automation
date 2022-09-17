@@ -1,7 +1,7 @@
 import pytest
 
 from utilities import readProperties
-from workflows import WebFlows
+from workflows import webFlows
 
 email = readProperties.get_web_data("email")
 password = readProperties.get_web_data("password")
@@ -9,4 +9,4 @@ password = readProperties.get_web_data("password")
 
 @pytest.fixture
 def login_before(pages, wait):
-    WebFlows.login(pages, wait, email, password)
+    webFlows.login(pages, wait, email, password)
