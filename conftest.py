@@ -7,10 +7,10 @@ from selenium.webdriver.chrome.service import Service
 import pytest
 import time
 
-from pageObjects.nopcommerce.CreateCustomerPage import CreateCustomer
-from pageObjects.nopcommerce.CustomersPage import Customers
-from pageObjects.nopcommerce.LoginPage import Login
-from pageObjects.nopcommerce.MegaMenuPage import MegaMenu
+from page_objects.nopcommerce.CreateCustomerPage import CreateCustomer
+from page_objects.nopcommerce.CustomersPage import Customers
+from page_objects.nopcommerce.LoginPage import Login
+from page_objects.nopcommerce.MegaMenuPage import MegaMenu
 from utilities import custom_logger, read_properties
 from selenium.webdriver.support.ui import WebDriverWait
 
