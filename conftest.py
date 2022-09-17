@@ -16,7 +16,7 @@ from selenium.webdriver.support.ui import WebDriverWait
 
 
 # Before Class
-@pytest.fixture(scope="session")
+@pytest.fixture(scope="module")
 def setup(get_param):
     customLogger.loggen()
     platform = get_param["platform"]
@@ -34,12 +34,12 @@ def setup(get_param):
     driver.quit()
 
 
-@pytest.fixture(scope="session")
+@pytest.fixture(scope="module")
 def wait(setup):
     return WebDriverWait(setup, 10)
 
 
-@pytest.fixture(scope="session")
+@pytest.fixture(scope="module")
 def pages(setup):
     login = Login(setup)
     mega_menu = MegaMenu(setup)
@@ -128,7 +128,7 @@ def pytest_addoption(parser):
     parser.addoption("--platform")
 
 
-@pytest.fixture(scope="session")
+@pytest.fixture(scope="module")
 def get_param(request):
     config_param = {
         "browser": request.config.getoption("--browser"),
