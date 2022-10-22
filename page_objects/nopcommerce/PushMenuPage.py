@@ -1,8 +1,11 @@
-from seleniumpagefactory.Pagefactory import PageFactory
+from selenium.webdriver.common.by import By
 
 
-class PushMenu(PageFactory):
+class PushMenu:
+    LINK_LOGOUT = 'logout'
+
     def __init__(self, driver):
         self.driver = driver
 
-    locators = {"link_logout": ("ID", "logout")}
+    def link_logout(self):
+        return self.driver.find_element(By.ID, self.LINK_LOGOUT)

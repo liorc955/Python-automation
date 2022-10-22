@@ -1,42 +1,101 @@
-from seleniumpagefactory.Pagefactory import PageFactory
+from selenium.webdriver.common.by import By
 
 
-class CreateCustomer(PageFactory):
+class CreateCustomer:
+    TEXTBOX_EMAIL = "Email"
+    TEXTBOX_PASSWORD = "Password"
+    TEXTBOX_FIRST_NAME = "FirstName"
+    TEXTBOX_LAST_NAME = "LastName"
+    TEXTBOX_GENDER_MALE = "Gender_Male"
+    TEXTBOX_GENDER_FEMALE = "Gender_Female"
+    TEXTBOX_DATEOFBIRTH = "DateOfBirth"
+    TEXTBOX_COMPANY = "Company"
+    CHECKBOX_TAXEXEMPT = "IsTaxExempt"
+    DIV_NEWSLETTER = "(//div[@class='k-multiselect-wrap k-floatwrap'])[1]"
+    LI_NEWSLETTER_TEST_STORE_2_OPT = "//*[@id='SelectedNewsletterSubscriptionStoreIds_listbox']/li[text()='Test store " \
+                                     "2'] "
+    DIV_CUSTOMER_ROLE = "(//div[@class='k-multiselect-wrap k-floatwrap'])[2]"
+    LI_ADMINISTRATORS_ROLE_OPT = "//*[@id='SelectedCustomerRoleIds_listbox']/li[text()='Administrators']"
+    SELECT_VENDOR_ID = "VendorId"
+    CHECKBOX_ACTIVE = "Active"
+    TEXTAREA_ADMIN_COMMENT = "AdminComment"
+    BTN_SAVE = "save"
+    BTN_SAVE_CONTINUE = "save-continue"
+
     def __init__(self, driver):
         self.driver = driver
 
-    locators = {
-        "textbox_email": ("ID", "Email"),
-        "textbox_password": ("ID", "Password"),
-        "textbox_first_name": ("ID", "FirstName"),
-        "textbox_last_name": ("ID", "LastName"),
-        "textbox_gender_male": ("ID", "Gender_Male"),
-        "textbox_gender_female": ("ID", "Gender_Female"),
-        "textbox_dateOfBirth": ("ID", "DateOfBirth"),
-        "textbox_company": ("ID", "Company"),
-        "checkbox_taxExempt": ("ID", "IsTaxExempt"),
-        "div_newsletter": (
-            "XPATH",
-            "(//div[@class='k-multiselect-wrap k-floatwrap'])[1]",
-        ),
-        "li_newsletter_test_store_2_opt": (
-            "XPATH",
-            "//*[@id='SelectedNewsletterSubscriptionStoreIds_listbox']/li[text()='Test store 2']",
-        ),
-        "div_customer_role": (
-            "XPATH",
-            "(//div[@class='k-multiselect-wrap k-floatwrap'])[2]",
-        ),
-        "li_Administrators_role_opt": (
-            "XPATH",
-            "//*[@id='SelectedCustomerRoleIds_listbox']/li[text()='Administrators']",
-        ),
-        "select_vendor_id": ("ID", "VendorId"),
-        "checkbox_active": ("ID", "Active"),
-        "textarea_admin_comment": ("ID", "AdminComment"),
-        "btn_save": ("NAME", "save"),
-        "btn_save_continue": ("NAME", "save-continue"),
-    }
+    @property
+    def textbox_email(self):
+        return self.driver.find_element(By.ID, self.TEXTBOX_EMAIL)
+
+    @property
+    def textbox_password(self):
+        return self.driver.find_element(By.ID, self.TEXTBOX_PASSWORD)
+
+    @property
+    def textbox_first_name(self):
+        return self.driver.find_element(By.ID, self.TEXTBOX_FIRST_NAME)
+
+    @property
+    def textbox_last_name(self):
+        return self.driver.find_element(By.ID, self.TEXTBOX_LAST_NAME)
+
+    @property
+    def textbox_gender_male(self):
+        return self.driver.find_element(By.ID, self.TEXTBOX_GENDER_MALE)
+
+    @property
+    def textbox_gender_female(self):
+        return self.driver.find_element(By.ID, self.TEXTBOX_GENDER_FEMALE)
+
+    @property
+    def textbox_dateOfBirth(self):
+        return self.driver.find_element(By.ID, self.TEXTBOX_DATEOFBIRTH)
+
+    @property
+    def textbox_company(self):
+        return self.driver.find_element(By.ID, self.TEXTBOX_COMPANY)
+
+    @property
+    def checkbox_taxExempt(self):
+        return self.driver.find_element(By.ID, self.CHECKBOX_TAXEXEMPT)
+
+    @property
+    def div_newsletter(self):
+        return self.driver.find_element(By.XPATH, self.DIV_NEWSLETTER)
+
+    @property
+    def li_newsletter_test_store_2_opt(self):
+        return self.driver.find_element(By.XPATH, self.LI_NEWSLETTER_TEST_STORE_2_OPT)
+
+    @property
+    def div_customer_role(self):
+        return self.driver.find_element(By.XPATH, self.DIV_CUSTOMER_ROLE)
+
+    @property
+    def li_Administrators_role_opt(self):
+        return self.driver.find_element(By.XPATH, self.LI_ADMINISTRATORS_ROLE_OPT)
+
+    @property
+    def select_vendor_id(self):
+        return self.driver.find_element(By.ID, self.SELECT_VENDOR_ID)
+
+    @property
+    def checkbox_active(self):
+        return self.driver.find_element(By.ID, self.CHECKBOX_ACTIVE)
+
+    @property
+    def textarea_admin_comment(self):
+        return self.driver.find_element(By.ID, self.TEXTAREA_ADMIN_COMMENT)
+
+    @property
+    def btn_save(self):
+        return self.driver.find_element(By.NAME, self.BTN_SAVE)
+
+    @property
+    def btn_save_continue(self):
+        return self.driver.find_element(By.NAME, self.BTN_SAVE_CONTINUE)
 
 
 """    def fill_customer_form_action(

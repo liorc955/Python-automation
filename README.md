@@ -45,5 +45,5 @@ Run the web tests
 Run the API tests
 
 ```bash
-  pytest .\test_cases\test_api.py
+  pytest .\test_cases\test_api.py --platform api 
 ```

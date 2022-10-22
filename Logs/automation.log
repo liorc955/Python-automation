@@ -1793,3 +1793,457 @@
 09/17/2022 09:30:01 PM: INFO: ******************test_cases/test_api.py::test05_put[Michael-Scrum Master] Executing Passed******************
 09/17/2022 09:30:02 PM: INFO: ******************test_cases/test_api.py::test05_put[Emma-SW Developer] Setting Passed******************
 09/17/2022 09:30:02 PM: INFO: ******************test_cases/test_api.py::test05_put[Emma-SW Developer] Executing Passed******************
+09/26/2022 03:08:10 PM: INFO: 
+
+09/26/2022 03:08:10 PM: INFO: ====== WebDriver manager ======
+09/26/2022 03:08:10 PM: INFO: Current google-chrome version is 105.0.5195
+09/26/2022 03:08:10 PM: INFO: Get LATEST chromedriver version for 105.0.5195 google-chrome
+09/26/2022 03:08:11 PM: INFO: Driver [C:\Users\liorc\.wdm\drivers\chromedriver\win32\105.0.5195.52\chromedriver.exe] found in cache
+09/26/2022 03:08:13 PM: INFO: ******************test_cases/test_nopcommerce.py::test01_homePageTitle Setting Passed******************
+09/26/2022 03:08:13 PM: INFO: ******************test_cases/test_nopcommerce.py::test01_homePageTitle Executing Passed******************
+09/26/2022 03:10:29 PM: INFO: 
+
+09/26/2022 03:10:29 PM: INFO: ====== WebDriver manager ======
+09/26/2022 03:10:29 PM: INFO: Current google-chrome version is 105.0.5195
+09/26/2022 03:10:29 PM: INFO: Get LATEST chromedriver version for 105.0.5195 google-chrome
+09/26/2022 03:10:30 PM: INFO: Driver [C:\Users\liorc\.wdm\drivers\chromedriver\win32\105.0.5195.52\chromedriver.exe] found in cache
+09/26/2022 03:10:32 PM: INFO: ******************test_cases/test_nopcommerce.py::test01_homePageTitle Setting Passed******************
+09/26/2022 03:10:32 PM: INFO: ******************test_cases/test_nopcommerce.py::test01_homePageTitle Executing Passed******************
+09/26/2022 03:10:48 PM: INFO: 
+
+09/26/2022 03:10:48 PM: INFO: ====== WebDriver manager ======
+09/26/2022 03:10:49 PM: INFO: Current google-chrome version is 105.0.5195
+09/26/2022 03:10:49 PM: INFO: Get LATEST chromedriver version for 105.0.5195 google-chrome
+09/26/2022 03:10:49 PM: INFO: Driver [C:\Users\liorc\.wdm\drivers\chromedriver\win32\105.0.5195.52\chromedriver.exe] found in cache
+09/26/2022 03:10:56 PM: INFO: ******************test_cases/test_nopcommerce.py::test01_homePageTitle Setting Passed******************
+09/26/2022 03:10:56 PM: INFO: ******************test_cases/test_nopcommerce.py::test01_homePageTitle Executing Passed******************
+09/26/2022 03:11:35 PM: INFO: 
+
+09/26/2022 03:11:35 PM: INFO: ====== WebDriver manager ======
+09/26/2022 03:11:36 PM: INFO: Current google-chrome version is 105.0.5195
+09/26/2022 03:11:36 PM: INFO: Get LATEST chromedriver version for 105.0.5195 google-chrome
+09/26/2022 03:11:36 PM: INFO: Driver [C:\Users\liorc\.wdm\drivers\chromedriver\win32\105.0.5195.52\chromedriver.exe] found in cache
+09/26/2022 03:11:39 PM: INFO: ******************test_cases/test_nopcommerce.py::test01_homePageTitle Setting Failed******************
+09/26/2022 03:11:58 PM: INFO: 
+
+09/26/2022 03:11:58 PM: INFO: ====== WebDriver manager ======
+09/26/2022 03:11:59 PM: INFO: Current google-chrome version is 105.0.5195
+09/26/2022 03:11:59 PM: INFO: Get LATEST chromedriver version for 105.0.5195 google-chrome
+09/26/2022 03:11:59 PM: INFO: Driver [C:\Users\liorc\.wdm\drivers\chromedriver\win32\105.0.5195.52\chromedriver.exe] found in cache
+09/26/2022 03:12:01 PM: INFO: ******************test_cases/test_nopcommerce.py::test01_homePageTitle Setting Failed******************
+09/26/2022 03:20:14 PM: INFO: 
+
+09/26/2022 03:20:14 PM: INFO: ====== WebDriver manager ======
+09/26/2022 03:20:14 PM: INFO: Current google-chrome version is 105.0.5195
+09/26/2022 03:20:14 PM: INFO: Get LATEST chromedriver version for 105.0.5195 google-chrome
+09/26/2022 03:20:14 PM: INFO: Driver [C:\Users\liorc\.wdm\drivers\chromedriver\win32\105.0.5195.52\chromedriver.exe] found in cache
+09/26/2022 03:20:17 PM: INFO: ******************test_cases/test_nopcommerce.py::test01_homePageTitle Setting Failed******************
+09/26/2022 03:22:37 PM: INFO: 
+
+09/26/2022 03:22:37 PM: INFO: ====== WebDriver manager ======
+09/26/2022 03:22:37 PM: INFO: Current google-chrome version is 105.0.5195
+09/26/2022 03:22:37 PM: INFO: Get LATEST chromedriver version for 105.0.5195 google-chrome
+09/26/2022 03:22:38 PM: INFO: Driver [C:\Users\liorc\.wdm\drivers\chromedriver\win32\105.0.5195.52\chromedriver.exe] found in cache
+09/26/2022 03:22:44 PM: INFO: ******************test_cases/test_nopcommerce.py::test01_homePageTitle Setting Passed******************
+09/26/2022 03:23:06 PM: INFO: 
+
+09/26/2022 03:23:06 PM: INFO: ====== WebDriver manager ======
+09/26/2022 03:23:06 PM: INFO: Current google-chrome version is 105.0.5195
+09/26/2022 03:23:06 PM: INFO: Get LATEST chromedriver version for 105.0.5195 google-chrome
+09/26/2022 03:23:07 PM: INFO: Driver [C:\Users\liorc\.wdm\drivers\chromedriver\win32\105.0.5195.52\chromedriver.exe] found in cache
+09/26/2022 03:23:08 PM: INFO: ******************test_cases/test_nopcommerce.py::test01_homePageTitle Setting Failed******************
+09/26/2022 03:23:15 PM: INFO: 
+
+09/26/2022 03:23:15 PM: INFO: ====== WebDriver manager ======
+09/26/2022 03:23:16 PM: INFO: Current google-chrome version is 105.0.5195
+09/26/2022 03:23:16 PM: INFO: Get LATEST chromedriver version for 105.0.5195 google-chrome
+09/26/2022 03:23:16 PM: INFO: Driver [C:\Users\liorc\.wdm\drivers\chromedriver\win32\105.0.5195.52\chromedriver.exe] found in cache
+09/26/2022 03:23:22 PM: INFO: ******************test_cases/test_nopcommerce.py::test01_homePageTitle Setting Passed******************
+09/26/2022 03:24:05 PM: INFO: 
+
+09/26/2022 03:24:05 PM: INFO: ====== WebDriver manager ======
+09/26/2022 03:24:05 PM: INFO: Current google-chrome version is 105.0.5195
+09/26/2022 03:24:05 PM: INFO: Get LATEST chromedriver version for 105.0.5195 google-chrome
+09/26/2022 03:24:05 PM: INFO: Driver [C:\Users\liorc\.wdm\drivers\chromedriver\win32\105.0.5195.52\chromedriver.exe] found in cache
+09/26/2022 03:24:10 PM: INFO: ******************test_cases/test_nopcommerce.py::test01_homePageTitle Setting Passed******************
+09/26/2022 03:24:23 PM: INFO: 
+
+09/26/2022 03:24:23 PM: INFO: ====== WebDriver manager ======
+09/26/2022 03:24:23 PM: INFO: Current google-chrome version is 105.0.5195
+09/26/2022 03:24:23 PM: INFO: Get LATEST chromedriver version for 105.0.5195 google-chrome
+09/26/2022 03:24:23 PM: INFO: Driver [C:\Users\liorc\.wdm\drivers\chromedriver\win32\105.0.5195.52\chromedriver.exe] found in cache
+09/26/2022 03:24:25 PM: INFO: ******************test_cases/test_nopcommerce.py::test01_homePageTitle Setting Failed******************
+09/26/2022 03:24:34 PM: INFO: 
+
+09/26/2022 03:24:34 PM: INFO: ====== WebDriver manager ======
+09/26/2022 03:24:35 PM: INFO: Current google-chrome version is 105.0.5195
+09/26/2022 03:24:35 PM: INFO: Get LATEST chromedriver version for 105.0.5195 google-chrome
+09/26/2022 03:24:35 PM: INFO: Driver [C:\Users\liorc\.wdm\drivers\chromedriver\win32\105.0.5195.52\chromedriver.exe] found in cache
+09/26/2022 03:24:40 PM: INFO: ******************test_cases/test_nopcommerce.py::test01_homePageTitle Setting Passed******************
+09/26/2022 03:24:55 PM: INFO: 
+
+09/26/2022 03:24:55 PM: INFO: ====== WebDriver manager ======
+09/26/2022 03:24:56 PM: INFO: Current google-chrome version is 105.0.5195
+09/26/2022 03:24:56 PM: INFO: Get LATEST chromedriver version for 105.0.5195 google-chrome
+09/26/2022 03:24:56 PM: INFO: Driver [C:\Users\liorc\.wdm\drivers\chromedriver\win32\105.0.5195.52\chromedriver.exe] found in cache
+09/26/2022 03:25:01 PM: INFO: ******************test_cases/test_nopcommerce.py::test01_homePageTitle Setting Passed******************
+09/26/2022 03:25:16 PM: INFO: 
+
+09/26/2022 03:25:16 PM: INFO: ====== WebDriver manager ======
+09/26/2022 03:25:16 PM: INFO: Current google-chrome version is 105.0.5195
+09/26/2022 03:25:16 PM: INFO: Get LATEST chromedriver version for 105.0.5195 google-chrome
+09/26/2022 03:25:17 PM: INFO: Driver [C:\Users\liorc\.wdm\drivers\chromedriver\win32\105.0.5195.52\chromedriver.exe] found in cache
+09/26/2022 03:25:19 PM: INFO: ******************test_cases/test_nopcommerce.py::test01_homePageTitle Setting Failed******************
+09/26/2022 03:25:36 PM: INFO: 
+
+09/26/2022 03:25:36 PM: INFO: ====== WebDriver manager ======
+09/26/2022 03:25:36 PM: INFO: Current google-chrome version is 105.0.5195
+09/26/2022 03:25:36 PM: INFO: Get LATEST chromedriver version for 105.0.5195 google-chrome
+09/26/2022 03:25:37 PM: INFO: Driver [C:\Users\liorc\.wdm\drivers\chromedriver\win32\105.0.5195.52\chromedriver.exe] found in cache
+09/26/2022 03:25:41 PM: INFO: ******************test_cases/test_nopcommerce.py::test01_homePageTitle Setting Passed******************
+09/26/2022 03:26:47 PM: INFO: 
+
+09/26/2022 03:26:47 PM: INFO: ====== WebDriver manager ======
+09/26/2022 03:26:47 PM: INFO: Current google-chrome version is 105.0.5195
+09/26/2022 03:26:47 PM: INFO: Get LATEST chromedriver version for 105.0.5195 google-chrome
+09/26/2022 03:26:48 PM: INFO: Driver [C:\Users\liorc\.wdm\drivers\chromedriver\win32\105.0.5195.52\chromedriver.exe] found in cache
+09/26/2022 03:26:50 PM: INFO: ******************test_cases/test_nopcommerce.py::test01_homePageTitle Setting Passed******************
+09/26/2022 03:26:50 PM: INFO: ******************test_cases/test_nopcommerce.py::test01_homePageTitle Executing Passed******************
+09/26/2022 03:26:56 PM: INFO: 
+
+09/26/2022 03:26:56 PM: INFO: ====== WebDriver manager ======
+09/26/2022 03:26:56 PM: INFO: Current google-chrome version is 105.0.5195
+09/26/2022 03:26:56 PM: INFO: Get LATEST chromedriver version for 105.0.5195 google-chrome
+09/26/2022 03:26:57 PM: INFO: Driver [C:\Users\liorc\.wdm\drivers\chromedriver\win32\105.0.5195.52\chromedriver.exe] found in cache
+09/26/2022 03:27:06 PM: INFO: ******************test_cases/test_nopcommerce.py::test01_homePageTitle Setting Passed******************
+09/26/2022 03:29:04 PM: INFO: 
+
+09/26/2022 03:29:04 PM: INFO: ====== WebDriver manager ======
+09/26/2022 03:29:04 PM: INFO: Current google-chrome version is 105.0.5195
+09/26/2022 03:29:04 PM: INFO: Get LATEST chromedriver version for 105.0.5195 google-chrome
+09/26/2022 03:29:05 PM: INFO: Driver [C:\Users\liorc\.wdm\drivers\chromedriver\win32\105.0.5195.52\chromedriver.exe] found in cache
+09/26/2022 03:29:11 PM: INFO: ******************test_cases/test_nopcommerce.py::test01_homePageTitle Setting Passed******************
+09/26/2022 03:43:02 PM: INFO: 
+
+09/26/2022 03:43:02 PM: INFO: ====== WebDriver manager ======
+09/26/2022 03:43:02 PM: INFO: Current google-chrome version is 105.0.5195
+09/26/2022 03:43:02 PM: INFO: Get LATEST chromedriver version for 105.0.5195 google-chrome
+09/26/2022 03:43:02 PM: INFO: Driver [C:\Users\liorc\.wdm\drivers\chromedriver\win32\105.0.5195.52\chromedriver.exe] found in cache
+09/26/2022 03:43:09 PM: INFO: ******************test_cases/test_nopcommerce.py::test01_homePageTitle Setting Passed******************
+09/26/2022 03:43:23 PM: INFO: 
+
+09/26/2022 03:43:23 PM: INFO: ====== WebDriver manager ======
+09/26/2022 03:43:23 PM: INFO: Current google-chrome version is 105.0.5195
+09/26/2022 03:43:23 PM: INFO: Get LATEST chromedriver version for 105.0.5195 google-chrome
+09/26/2022 03:43:24 PM: INFO: Driver [C:\Users\liorc\.wdm\drivers\chromedriver\win32\105.0.5195.52\chromedriver.exe] found in cache
+09/26/2022 03:43:25 PM: INFO: ******************test_cases/test_nopcommerce.py::test01_homePageTitle Setting Failed******************
+09/26/2022 03:44:05 PM: INFO: 
+
+09/26/2022 03:44:05 PM: INFO: ====== WebDriver manager ======
+09/26/2022 03:44:05 PM: INFO: Current google-chrome version is 105.0.5195
+09/26/2022 03:44:05 PM: INFO: Get LATEST chromedriver version for 105.0.5195 google-chrome
+09/26/2022 03:44:06 PM: INFO: Driver [C:\Users\liorc\.wdm\drivers\chromedriver\win32\105.0.5195.52\chromedriver.exe] found in cache
+09/26/2022 03:44:11 PM: INFO: ******************test_cases/test_nopcommerce.py::test01_homePageTitle Setting Passed******************
+09/26/2022 03:45:02 PM: INFO: 
+
+09/26/2022 03:45:02 PM: INFO: ====== WebDriver manager ======
+09/26/2022 03:45:03 PM: INFO: Current google-chrome version is 105.0.5195
+09/26/2022 03:45:03 PM: INFO: Get LATEST chromedriver version for 105.0.5195 google-chrome
+09/26/2022 03:45:03 PM: INFO: Driver [C:\Users\liorc\.wdm\drivers\chromedriver\win32\105.0.5195.52\chromedriver.exe] found in cache
+09/26/2022 03:45:06 PM: INFO: ******************test_cases/test_nopcommerce.py::test01_homePageTitle Setting Failed******************
+09/26/2022 03:45:12 PM: INFO: 
+
+09/26/2022 03:45:12 PM: INFO: ====== WebDriver manager ======
+09/26/2022 03:45:12 PM: INFO: Current google-chrome version is 105.0.5195
+09/26/2022 03:45:12 PM: INFO: Get LATEST chromedriver version for 105.0.5195 google-chrome
+09/26/2022 03:45:12 PM: INFO: Driver [C:\Users\liorc\.wdm\drivers\chromedriver\win32\105.0.5195.52\chromedriver.exe] found in cache
+09/26/2022 03:45:17 PM: INFO: ******************test_cases/test_nopcommerce.py::test01_homePageTitle Setting Passed******************
+09/26/2022 03:46:04 PM: INFO: 
+
+09/26/2022 03:46:04 PM: INFO: ====== WebDriver manager ======
+09/26/2022 03:46:04 PM: INFO: Current google-chrome version is 105.0.5195
+09/26/2022 03:46:04 PM: INFO: Get LATEST chromedriver version for 105.0.5195 google-chrome
+09/26/2022 03:46:04 PM: INFO: Driver [C:\Users\liorc\.wdm\drivers\chromedriver\win32\105.0.5195.52\chromedriver.exe] found in cache
+09/26/2022 03:46:08 PM: INFO: ******************test_cases/test_nopcommerce.py::test01_homePageTitle Setting Passed******************
+09/30/2022 12:10:38 PM: INFO: 
+
+09/30/2022 12:10:38 PM: INFO: ====== WebDriver manager ======
+09/30/2022 12:10:39 PM: INFO: Current google-chrome version is 105.0.5195
+09/30/2022 12:10:39 PM: INFO: Get LATEST chromedriver version for 105.0.5195 google-chrome
+09/30/2022 12:10:39 PM: INFO: Trying to download new driver from https://chromedriver.storage.googleapis.com/105.0.5195.52/chromedriver_win32.zip
+09/30/2022 12:10:41 PM: INFO: Driver has been saved in cache [C:\Users\liorc\.wdm\drivers\chromedriver\win32\105.0.5195.52]
+09/30/2022 12:10:52 PM: INFO: ******************test_cases/test_nopcommerce.py::test01_homePageTitle Setting Passed******************
+09/30/2022 12:11:01 PM: INFO: 
+
+09/30/2022 12:11:01 PM: INFO: ====== WebDriver manager ======
+09/30/2022 12:11:02 PM: INFO: Current google-chrome version is 105.0.5195
+09/30/2022 12:11:02 PM: INFO: Get LATEST chromedriver version for 105.0.5195 google-chrome
+09/30/2022 12:11:02 PM: INFO: Driver [C:\Users\liorc\.wdm\drivers\chromedriver\win32\105.0.5195.52\chromedriver.exe] found in cache
+09/30/2022 12:11:05 PM: INFO: ******************test_cases/test_nopcommerce.py::test01_homePageTitle Setting Passed******************
+09/30/2022 12:11:05 PM: INFO: ******************test_cases/test_nopcommerce.py::test01_homePageTitle Executing Passed******************
+09/30/2022 12:11:24 PM: INFO: 
+
+09/30/2022 12:11:24 PM: INFO: ====== WebDriver manager ======
+09/30/2022 12:11:24 PM: INFO: Current google-chrome version is 105.0.5195
+09/30/2022 12:11:24 PM: INFO: Get LATEST chromedriver version for 105.0.5195 google-chrome
+09/30/2022 12:11:24 PM: INFO: Driver [C:\Users\liorc\.wdm\drivers\chromedriver\win32\105.0.5195.52\chromedriver.exe] found in cache
+09/30/2022 12:11:29 PM: INFO: ******************test_cases/test_nopcommerce.py::test02_login_ddt[admin@yourstore.com-admin-pass] Setting Passed******************
+09/30/2022 12:11:29 PM: INFO: ******************test_cases/test_nopcommerce.py::test02_login_ddt[admin@yourstore.com-admin-pass] Executing Passed******************
+09/30/2022 12:11:30 PM: INFO: ******************test_cases/test_nopcommerce.py::test02_login_ddt[admin@yourstore.com-admin11-failed] Setting Passed******************
+09/30/2022 12:11:30 PM: INFO: ******************test_cases/test_nopcommerce.py::test02_login_ddt[admin@yourstore.com-admin11-failed] Executing Passed******************
+09/30/2022 12:11:31 PM: INFO: ******************test_cases/test_nopcommerce.py::test02_login_ddt[admin12@yourstore.com-admin-failed] Setting Passed******************
+09/30/2022 12:11:31 PM: INFO: ******************test_cases/test_nopcommerce.py::test02_login_ddt[admin12@yourstore.com-admin-failed] Executing Passed******************
+09/30/2022 12:13:14 PM: INFO: 
+
+09/30/2022 12:13:14 PM: INFO: ====== WebDriver manager ======
+09/30/2022 12:13:14 PM: INFO: Current google-chrome version is 105.0.5195
+09/30/2022 12:13:14 PM: INFO: Get LATEST chromedriver version for 105.0.5195 google-chrome
+09/30/2022 12:13:15 PM: INFO: Driver [C:\Users\liorc\.wdm\drivers\chromedriver\win32\105.0.5195.52\chromedriver.exe] found in cache
+09/30/2022 12:13:25 PM: INFO: ******************test_cases/test_nopcommerce.py::test03_search_customer_by_email Setting Passed******************
+09/30/2022 12:13:25 PM: INFO: ******************test_cases/test_nopcommerce.py::test03_search_customer_by_email Executing Passed******************
+09/30/2022 12:13:53 PM: INFO: 
+
+09/30/2022 12:13:53 PM: INFO: ====== WebDriver manager ======
+09/30/2022 12:13:54 PM: INFO: Current google-chrome version is 105.0.5195
+09/30/2022 12:13:54 PM: INFO: Get LATEST chromedriver version for 105.0.5195 google-chrome
+09/30/2022 12:13:54 PM: INFO: Driver [C:\Users\liorc\.wdm\drivers\chromedriver\win32\105.0.5195.52\chromedriver.exe] found in cache
+09/30/2022 12:14:04 PM: INFO: ******************test_cases/test_nopcommerce.py::test04_search_customer_by_name Setting Passed******************
+09/30/2022 12:14:04 PM: INFO: ******************test_cases/test_nopcommerce.py::test04_search_customer_by_name Executing Passed******************
+09/30/2022 12:17:24 PM: INFO: 
+
+09/30/2022 12:17:24 PM: INFO: ====== WebDriver manager ======
+09/30/2022 12:17:25 PM: INFO: Current google-chrome version is 105.0.5195
+09/30/2022 12:17:25 PM: INFO: Get LATEST chromedriver version for 105.0.5195 google-chrome
+09/30/2022 12:17:25 PM: INFO: Driver [C:\Users\liorc\.wdm\drivers\chromedriver\win32\105.0.5195.52\chromedriver.exe] found in cache
+09/30/2022 12:17:33 PM: INFO: ******************test_cases/test_nopcommerce.py::test05_add_new_customer Setting Passed******************
+09/30/2022 12:18:12 PM: INFO: 
+
+09/30/2022 12:18:12 PM: INFO: ====== WebDriver manager ======
+09/30/2022 12:18:13 PM: INFO: Current google-chrome version is 105.0.5195
+09/30/2022 12:18:13 PM: INFO: Get LATEST chromedriver version for 105.0.5195 google-chrome
+09/30/2022 12:18:13 PM: INFO: Driver [C:\Users\liorc\.wdm\drivers\chromedriver\win32\105.0.5195.52\chromedriver.exe] found in cache
+09/30/2022 12:18:26 PM: INFO: ******************test_cases/test_nopcommerce.py::test05_add_new_customer Setting Passed******************
+09/30/2022 12:23:55 PM: INFO: 
+
+09/30/2022 12:23:55 PM: INFO: ====== WebDriver manager ======
+09/30/2022 12:23:55 PM: INFO: Current google-chrome version is 105.0.5195
+09/30/2022 12:23:55 PM: INFO: Get LATEST chromedriver version for 105.0.5195 google-chrome
+09/30/2022 12:23:55 PM: INFO: Driver [C:\Users\liorc\.wdm\drivers\chromedriver\win32\105.0.5195.52\chromedriver.exe] found in cache
+09/30/2022 12:24:08 PM: INFO: ******************test_cases/test_nopcommerce.py::test05_add_new_customer Setting Passed******************
+09/30/2022 12:24:45 PM: INFO: 
+
+09/30/2022 12:24:45 PM: INFO: ====== WebDriver manager ======
+09/30/2022 12:24:45 PM: INFO: Current google-chrome version is 105.0.5195
+09/30/2022 12:24:45 PM: INFO: Get LATEST chromedriver version for 105.0.5195 google-chrome
+09/30/2022 12:24:45 PM: INFO: Driver [C:\Users\liorc\.wdm\drivers\chromedriver\win32\105.0.5195.52\chromedriver.exe] found in cache
+09/30/2022 12:24:57 PM: INFO: ******************test_cases/test_nopcommerce.py::test05_add_new_customer Setting Passed******************
+09/30/2022 12:24:57 PM: INFO: ******************test_cases/test_nopcommerce.py::test05_add_new_customer Executing Passed******************
+09/30/2022 12:53:52 PM: INFO: 
+
+09/30/2022 12:53:52 PM: INFO: ====== WebDriver manager ======
+09/30/2022 12:53:52 PM: INFO: Current google-chrome version is 105.0.5195
+09/30/2022 12:53:52 PM: INFO: Get LATEST chromedriver version for 105.0.5195 google-chrome
+09/30/2022 12:53:52 PM: INFO: Driver [C:\Users\liorc\.wdm\drivers\chromedriver\win32\105.0.5195.52\chromedriver.exe] found in cache
+09/30/2022 12:54:03 PM: INFO: ******************test_cases/test_nopcommerce.py::test05_add_new_customer Setting Passed******************
+09/30/2022 12:56:07 PM: INFO: 
+
+09/30/2022 12:56:07 PM: INFO: ====== WebDriver manager ======
+09/30/2022 12:56:08 PM: INFO: Current google-chrome version is 105.0.5195
+09/30/2022 12:56:08 PM: INFO: Get LATEST chromedriver version for 105.0.5195 google-chrome
+09/30/2022 12:56:08 PM: INFO: Driver [C:\Users\liorc\.wdm\drivers\chromedriver\win32\105.0.5195.52\chromedriver.exe] found in cache
+09/30/2022 12:56:20 PM: INFO: ******************test_cases/test_nopcommerce.py::test05_add_new_customer Setting Passed******************
+09/30/2022 12:56:20 PM: INFO: ******************test_cases/test_nopcommerce.py::test05_add_new_customer Executing Passed******************
+09/30/2022 12:56:53 PM: INFO: 
+
+09/30/2022 12:56:53 PM: INFO: ====== WebDriver manager ======
+09/30/2022 12:56:54 PM: INFO: Current google-chrome version is 105.0.5195
+09/30/2022 12:56:54 PM: INFO: Get LATEST chromedriver version for 105.0.5195 google-chrome
+09/30/2022 12:56:54 PM: INFO: Driver [C:\Users\liorc\.wdm\drivers\chromedriver\win32\105.0.5195.52\chromedriver.exe] found in cache
+09/30/2022 12:57:06 PM: INFO: ******************test_cases/test_nopcommerce.py::test05_add_new_customer Setting Passed******************
+09/30/2022 12:57:06 PM: INFO: ******************test_cases/test_nopcommerce.py::test05_add_new_customer Executing Passed******************
+09/30/2022 12:57:54 PM: INFO: 
+
+09/30/2022 12:57:54 PM: INFO: ====== WebDriver manager ======
+09/30/2022 12:57:54 PM: INFO: Current google-chrome version is 105.0.5195
+09/30/2022 12:57:54 PM: INFO: Get LATEST chromedriver version for 105.0.5195 google-chrome
+09/30/2022 12:57:54 PM: INFO: Driver [C:\Users\liorc\.wdm\drivers\chromedriver\win32\105.0.5195.52\chromedriver.exe] found in cache
+09/30/2022 12:58:05 PM: INFO: ******************test_cases/test_nopcommerce.py::test05_add_new_customer Setting Passed******************
+09/30/2022 12:58:05 PM: INFO: ******************test_cases/test_nopcommerce.py::test05_add_new_customer Executing Passed******************
+09/30/2022 12:58:14 PM: INFO: 
+
+09/30/2022 12:58:14 PM: INFO: ====== WebDriver manager ======
+09/30/2022 12:58:14 PM: INFO: Current google-chrome version is 105.0.5195
+09/30/2022 12:58:14 PM: INFO: Get LATEST chromedriver version for 105.0.5195 google-chrome
+09/30/2022 12:58:15 PM: INFO: Driver [C:\Users\liorc\.wdm\drivers\chromedriver\win32\105.0.5195.52\chromedriver.exe] found in cache
+09/30/2022 12:58:25 PM: INFO: ******************test_cases/test_nopcommerce.py::test05_add_new_customer Setting Passed******************
+09/30/2022 12:58:25 PM: INFO: ******************test_cases/test_nopcommerce.py::test05_add_new_customer Executing Passed******************
+09/30/2022 12:58:39 PM: INFO: 
+
+09/30/2022 12:58:39 PM: INFO: ====== WebDriver manager ======
+09/30/2022 12:58:39 PM: INFO: Current google-chrome version is 105.0.5195
+09/30/2022 12:58:39 PM: INFO: Get LATEST chromedriver version for 105.0.5195 google-chrome
+09/30/2022 12:58:40 PM: INFO: Driver [C:\Users\liorc\.wdm\drivers\chromedriver\win32\105.0.5195.52\chromedriver.exe] found in cache
+09/30/2022 12:58:51 PM: INFO: ******************test_cases/test_nopcommerce.py::test05_add_new_customer Setting Passed******************
+09/30/2022 12:58:51 PM: INFO: ******************test_cases/test_nopcommerce.py::test05_add_new_customer Executing Passed******************
+09/30/2022 12:59:03 PM: INFO: 
+
+09/30/2022 12:59:03 PM: INFO: ====== WebDriver manager ======
+09/30/2022 12:59:03 PM: INFO: Current google-chrome version is 105.0.5195
+09/30/2022 12:59:03 PM: INFO: Get LATEST chromedriver version for 105.0.5195 google-chrome
+09/30/2022 12:59:04 PM: INFO: Driver [C:\Users\liorc\.wdm\drivers\chromedriver\win32\105.0.5195.52\chromedriver.exe] found in cache
+09/30/2022 12:59:14 PM: INFO: ******************test_cases/test_nopcommerce.py::test05_add_new_customer Setting Passed******************
+09/30/2022 12:59:14 PM: INFO: ******************test_cases/test_nopcommerce.py::test05_add_new_customer Executing Passed******************
+09/30/2022 12:59:37 PM: INFO: 
+
+09/30/2022 12:59:37 PM: INFO: ====== WebDriver manager ======
+09/30/2022 12:59:37 PM: INFO: Current google-chrome version is 105.0.5195
+09/30/2022 12:59:37 PM: INFO: Get LATEST chromedriver version for 105.0.5195 google-chrome
+09/30/2022 12:59:38 PM: INFO: Driver [C:\Users\liorc\.wdm\drivers\chromedriver\win32\105.0.5195.52\chromedriver.exe] found in cache
+09/30/2022 12:59:48 PM: INFO: ******************test_cases/test_nopcommerce.py::test05_add_new_customer Setting Passed******************
+09/30/2022 12:59:48 PM: INFO: ******************test_cases/test_nopcommerce.py::test05_add_new_customer Executing Passed******************
+09/30/2022 01:00:44 PM: INFO: 
+
+09/30/2022 01:00:44 PM: INFO: ====== WebDriver manager ======
+09/30/2022 01:00:44 PM: INFO: Current google-chrome version is 105.0.5195
+09/30/2022 01:00:44 PM: INFO: Get LATEST chromedriver version for 105.0.5195 google-chrome
+09/30/2022 01:00:44 PM: INFO: Driver [C:\Users\liorc\.wdm\drivers\chromedriver\win32\105.0.5195.52\chromedriver.exe] found in cache
+09/30/2022 01:01:04 PM: INFO: ******************test_cases/test_nopcommerce.py::test05_add_new_customer Setting Passed******************
+09/30/2022 01:01:04 PM: INFO: ******************test_cases/test_nopcommerce.py::test05_add_new_customer Executing Passed******************
+09/30/2022 01:01:25 PM: INFO: 
+
+09/30/2022 01:01:25 PM: INFO: ====== WebDriver manager ======
+09/30/2022 01:01:25 PM: INFO: Current google-chrome version is 105.0.5195
+09/30/2022 01:01:25 PM: INFO: Get LATEST chromedriver version for 105.0.5195 google-chrome
+09/30/2022 01:01:26 PM: INFO: Driver [C:\Users\liorc\.wdm\drivers\chromedriver\win32\105.0.5195.52\chromedriver.exe] found in cache
+09/30/2022 01:01:46 PM: INFO: ******************test_cases/test_nopcommerce.py::test05_add_new_customer Setting Passed******************
+09/30/2022 01:01:46 PM: INFO: ******************test_cases/test_nopcommerce.py::test05_add_new_customer Executing Passed******************
+09/30/2022 01:02:38 PM: INFO: 
+
+09/30/2022 01:02:38 PM: INFO: ====== WebDriver manager ======
+09/30/2022 01:02:38 PM: INFO: Current google-chrome version is 105.0.5195
+09/30/2022 01:02:38 PM: INFO: Get LATEST chromedriver version for 105.0.5195 google-chrome
+09/30/2022 01:02:38 PM: INFO: Driver [C:\Users\liorc\.wdm\drivers\chromedriver\win32\105.0.5195.52\chromedriver.exe] found in cache
+09/30/2022 01:02:59 PM: INFO: ******************test_cases/test_nopcommerce.py::test05_add_new_customer Setting Passed******************
+09/30/2022 01:02:59 PM: INFO: ******************test_cases/test_nopcommerce.py::test05_add_new_customer Executing Passed******************
+09/30/2022 01:03:13 PM: INFO: 
+
+09/30/2022 01:03:13 PM: INFO: ====== WebDriver manager ======
+09/30/2022 01:03:13 PM: INFO: Current google-chrome version is 105.0.5195
+09/30/2022 01:03:13 PM: INFO: Get LATEST chromedriver version for 105.0.5195 google-chrome
+09/30/2022 01:03:13 PM: INFO: Driver [C:\Users\liorc\.wdm\drivers\chromedriver\win32\105.0.5195.52\chromedriver.exe] found in cache
+09/30/2022 01:03:21 PM: INFO: ******************test_cases/test_nopcommerce.py::test05_add_new_customer Setting Passed******************
+09/30/2022 01:07:34 PM: INFO: 
+
+09/30/2022 01:07:34 PM: INFO: ====== WebDriver manager ======
+09/30/2022 01:07:34 PM: INFO: Current google-chrome version is 105.0.5195
+09/30/2022 01:07:34 PM: INFO: Get LATEST chromedriver version for 105.0.5195 google-chrome
+09/30/2022 01:07:35 PM: INFO: Driver [C:\Users\liorc\.wdm\drivers\chromedriver\win32\105.0.5195.52\chromedriver.exe] found in cache
+09/30/2022 01:07:58 PM: INFO: ******************test_cases/test_nopcommerce.py::test05_add_new_customer Setting Passed******************
+09/30/2022 01:07:58 PM: INFO: ******************test_cases/test_nopcommerce.py::test05_add_new_customer Executing Passed******************
+09/30/2022 01:08:14 PM: INFO: 
+
+09/30/2022 01:08:14 PM: INFO: ====== WebDriver manager ======
+09/30/2022 01:08:15 PM: INFO: Current google-chrome version is 105.0.5195
+09/30/2022 01:08:15 PM: INFO: Get LATEST chromedriver version for 105.0.5195 google-chrome
+09/30/2022 01:08:15 PM: INFO: Driver [C:\Users\liorc\.wdm\drivers\chromedriver\win32\105.0.5195.52\chromedriver.exe] found in cache
+09/30/2022 01:08:37 PM: INFO: ******************test_cases/test_nopcommerce.py::test05_add_new_customer Setting Passed******************
+09/30/2022 01:08:37 PM: INFO: ******************test_cases/test_nopcommerce.py::test05_add_new_customer Executing Passed******************
+09/30/2022 01:09:12 PM: INFO: 
+
+09/30/2022 01:09:12 PM: INFO: ====== WebDriver manager ======
+09/30/2022 01:09:13 PM: INFO: Current google-chrome version is 105.0.5195
+09/30/2022 01:09:13 PM: INFO: Get LATEST chromedriver version for 105.0.5195 google-chrome
+09/30/2022 01:09:13 PM: INFO: Driver [C:\Users\liorc\.wdm\drivers\chromedriver\win32\105.0.5195.52\chromedriver.exe] found in cache
+09/30/2022 01:09:24 PM: INFO: ******************test_cases/test_nopcommerce.py::test05_add_new_customer Setting Passed******************
+09/30/2022 01:09:24 PM: INFO: ******************test_cases/test_nopcommerce.py::test05_add_new_customer Executing Passed******************
+09/30/2022 01:10:59 PM: INFO: 
+
+09/30/2022 01:10:59 PM: INFO: ====== WebDriver manager ======
+09/30/2022 01:10:59 PM: INFO: Current google-chrome version is 105.0.5195
+09/30/2022 01:10:59 PM: INFO: Get LATEST chromedriver version for 105.0.5195 google-chrome
+09/30/2022 01:11:00 PM: INFO: Driver [C:\Users\liorc\.wdm\drivers\chromedriver\win32\105.0.5195.52\chromedriver.exe] found in cache
+09/30/2022 01:11:02 PM: INFO: ******************test_cases/test_nopcommerce.py::test01_homePageTitle Setting Passed******************
+09/30/2022 01:11:02 PM: INFO: ******************test_cases/test_nopcommerce.py::test01_homePageTitle Executing Passed******************
+09/30/2022 01:11:05 PM: INFO: ******************test_cases/test_nopcommerce.py::test02_login_ddt[admin@yourstore.com-admin-pass] Setting Passed******************
+09/30/2022 01:11:05 PM: INFO: ******************test_cases/test_nopcommerce.py::test02_login_ddt[admin@yourstore.com-admin-pass] Executing Passed******************
+09/30/2022 01:11:06 PM: INFO: ******************test_cases/test_nopcommerce.py::test02_login_ddt[admin@yourstore.com-admin11-failed] Setting Passed******************
+09/30/2022 01:11:06 PM: INFO: ******************test_cases/test_nopcommerce.py::test02_login_ddt[admin@yourstore.com-admin11-failed] Executing Passed******************
+09/30/2022 01:11:07 PM: INFO: ******************test_cases/test_nopcommerce.py::test02_login_ddt[admin12@yourstore.com-admin-failed] Setting Passed******************
+09/30/2022 01:11:07 PM: INFO: ******************test_cases/test_nopcommerce.py::test02_login_ddt[admin12@yourstore.com-admin-failed] Executing Passed******************
+09/30/2022 01:11:13 PM: INFO: ******************test_cases/test_nopcommerce.py::test03_search_customer_by_email Setting Passed******************
+09/30/2022 01:11:13 PM: INFO: ******************test_cases/test_nopcommerce.py::test03_search_customer_by_email Executing Passed******************
+09/30/2022 01:11:19 PM: INFO: ******************test_cases/test_nopcommerce.py::test04_search_customer_by_name Setting Passed******************
+09/30/2022 01:11:19 PM: INFO: ******************test_cases/test_nopcommerce.py::test04_search_customer_by_name Executing Passed******************
+09/30/2022 01:11:26 PM: INFO: ******************test_cases/test_nopcommerce.py::test05_add_new_customer Setting Passed******************
+09/30/2022 01:11:26 PM: INFO: ******************test_cases/test_nopcommerce.py::test05_add_new_customer Executing Passed******************
+09/30/2022 06:25:19 PM: INFO: 
+
+09/30/2022 06:25:19 PM: INFO: ====== WebDriver manager ======
+09/30/2022 06:25:20 PM: INFO: Current google-chrome version is 105.0.5195
+09/30/2022 06:25:20 PM: INFO: Get LATEST chromedriver version for 105.0.5195 google-chrome
+09/30/2022 06:25:20 PM: INFO: Driver [C:\Users\liorc\.wdm\drivers\chromedriver\win32\105.0.5195.52\chromedriver.exe] found in cache
+09/30/2022 06:25:23 PM: INFO: ******************test_cases/test_nopcommerce.py::test01_homePageTitle Setting Passed******************
+09/30/2022 06:25:23 PM: INFO: ******************test_cases/test_nopcommerce.py::test01_homePageTitle Executing Passed******************
+09/30/2022 06:51:03 PM: INFO: ******************test_cases/test_nopcommerce.py::test01_homePageTitle Setting Passed******************
+09/30/2022 06:51:03 PM: INFO: ******************test_cases/test_nopcommerce.py::test02_login_ddt[admin@yourstore.com-admin-pass] Setting Passed******************
+09/30/2022 06:51:03 PM: INFO: ******************test_cases/test_nopcommerce.py::test02_login_ddt[admin@yourstore.com-admin11-failed] Setting Passed******************
+09/30/2022 06:51:03 PM: INFO: ******************test_cases/test_nopcommerce.py::test02_login_ddt[admin12@yourstore.com-admin-failed] Setting Passed******************
+09/30/2022 06:51:03 PM: INFO: ******************test_cases/test_nopcommerce.py::test03_search_customer_by_email Setting Failed******************
+09/30/2022 06:51:03 PM: INFO: ******************test_cases/test_nopcommerce.py::test04_search_customer_by_name Setting Failed******************
+09/30/2022 06:51:03 PM: INFO: ******************test_cases/test_nopcommerce.py::test05_add_new_customer Setting Failed******************
+09/30/2022 06:51:39 PM: INFO: 
+
+09/30/2022 06:51:39 PM: INFO: ====== WebDriver manager ======
+09/30/2022 06:51:39 PM: INFO: Current google-chrome version is 105.0.5195
+09/30/2022 06:51:39 PM: INFO: Get LATEST chromedriver version for 105.0.5195 google-chrome
+09/30/2022 06:51:40 PM: INFO: Driver [C:\Users\liorc\.wdm\drivers\chromedriver\win32\105.0.5195.52\chromedriver.exe] found in cache
+09/30/2022 06:51:42 PM: INFO: ******************test_cases/test_nopcommerce.py::test01_homePageTitle Setting Passed******************
+09/30/2022 06:51:42 PM: INFO: ******************test_cases/test_nopcommerce.py::test01_homePageTitle Executing Passed******************
+09/30/2022 06:51:47 PM: INFO: ******************test_cases/test_nopcommerce.py::test02_login_ddt[admin@yourstore.com-admin-pass] Setting Passed******************
+09/30/2022 06:51:47 PM: INFO: ******************test_cases/test_nopcommerce.py::test02_login_ddt[admin@yourstore.com-admin-pass] Executing Passed******************
+09/30/2022 06:51:48 PM: INFO: ******************test_cases/test_nopcommerce.py::test02_login_ddt[admin@yourstore.com-admin11-failed] Setting Passed******************
+09/30/2022 06:51:48 PM: INFO: ******************test_cases/test_nopcommerce.py::test02_login_ddt[admin@yourstore.com-admin11-failed] Executing Passed******************
+09/30/2022 06:51:49 PM: INFO: ******************test_cases/test_nopcommerce.py::test02_login_ddt[admin12@yourstore.com-admin-failed] Setting Passed******************
+09/30/2022 06:51:49 PM: INFO: ******************test_cases/test_nopcommerce.py::test02_login_ddt[admin12@yourstore.com-admin-failed] Executing Passed******************
+09/30/2022 06:51:55 PM: INFO: ******************test_cases/test_nopcommerce.py::test03_search_customer_by_email Setting Passed******************
+09/30/2022 06:51:55 PM: INFO: ******************test_cases/test_nopcommerce.py::test03_search_customer_by_email Executing Passed******************
+09/30/2022 06:52:00 PM: INFO: ******************test_cases/test_nopcommerce.py::test04_search_customer_by_name Setting Passed******************
+09/30/2022 06:52:00 PM: INFO: ******************test_cases/test_nopcommerce.py::test04_search_customer_by_name Executing Passed******************
+09/30/2022 06:52:08 PM: INFO: ******************test_cases/test_nopcommerce.py::test05_add_new_customer Setting Passed******************
+09/30/2022 06:52:08 PM: INFO: ******************test_cases/test_nopcommerce.py::test05_add_new_customer Executing Passed******************
+10/22/2022 10:49:40 AM: INFO: ******************test_cases/test_api.py::test01_get_request Setting Passed******************
+10/22/2022 10:49:40 AM: INFO: ******************test_cases/test_api.py::test01_get_request Executing Passed******************
+10/22/2022 10:49:40 AM: INFO: ******************test_cases/test_api.py::test02_post_request Setting Passed******************
+10/22/2022 10:49:40 AM: INFO: ******************test_cases/test_api.py::test02_post_request Executing Passed******************
+10/22/2022 10:49:40 AM: INFO: ******************test_cases/test_api.py::test03_delete Setting Passed******************
+10/22/2022 10:49:40 AM: INFO: ******************test_cases/test_api.py::test03_delete Executing Passed******************
+10/22/2022 10:49:40 AM: INFO: ******************test_cases/test_api.py::test04_put Setting Passed******************
+10/22/2022 10:49:40 AM: INFO: ******************test_cases/test_api.py::test04_put Executing Passed******************
+10/22/2022 10:49:41 AM: INFO: ******************test_cases/test_api.py::test05_put[Jones-SW Tester] Setting Passed******************
+10/22/2022 10:49:41 AM: INFO: ******************test_cases/test_api.py::test05_put[Jones-SW Tester] Executing Passed******************
+10/22/2022 10:49:41 AM: INFO: ******************test_cases/test_api.py::test05_put[Michael-Scrum Master] Setting Passed******************
+10/22/2022 10:49:41 AM: INFO: ******************test_cases/test_api.py::test05_put[Michael-Scrum Master] Executing Passed******************
+10/22/2022 10:49:41 AM: INFO: ******************test_cases/test_api.py::test05_put[Emma-SW Developer] Setting Passed******************
+10/22/2022 10:49:41 AM: INFO: ******************test_cases/test_api.py::test05_put[Emma-SW Developer] Executing Passed******************
+10/22/2022 10:49:51 AM: INFO: 
+
+10/22/2022 10:49:51 AM: INFO: ====== WebDriver manager ======
+10/22/2022 10:49:51 AM: INFO: Current google-chrome version is 106.0.5249
+10/22/2022 10:49:51 AM: INFO: Get LATEST chromedriver version for 106.0.5249 google-chrome
+10/22/2022 10:49:52 AM: INFO: There is no [win32] chromedriver for browser 106.0.5249 in cache
+10/22/2022 10:49:52 AM: INFO: Trying to download new driver from https://chromedriver.storage.googleapis.com/106.0.5249.61/chromedriver_win32.zip
+10/22/2022 10:49:53 AM: INFO: Driver has been saved in cache [C:\Users\liorc\.wdm\drivers\chromedriver\win32\106.0.5249.61]
+10/22/2022 10:49:58 AM: INFO: ******************test_cases/test_nopcommerce.py::test01_homePageTitle Setting Passed******************
+10/22/2022 10:49:58 AM: INFO: ******************test_cases/test_nopcommerce.py::test01_homePageTitle Executing Passed******************
+10/22/2022 10:50:08 AM: INFO: ******************test_cases/test_nopcommerce.py::test02_login_ddt[admin@yourstore.com-admin-pass] Setting Passed******************
+10/22/2022 10:50:08 AM: INFO: ******************test_cases/test_nopcommerce.py::test02_login_ddt[admin@yourstore.com-admin-pass] Executing Passed******************
+10/22/2022 10:50:09 AM: INFO: ******************test_cases/test_nopcommerce.py::test02_login_ddt[admin@yourstore.com-admin11-failed] Setting Passed******************
+10/22/2022 10:50:09 AM: INFO: ******************test_cases/test_nopcommerce.py::test02_login_ddt[admin@yourstore.com-admin11-failed] Executing Passed******************
+10/22/2022 10:50:10 AM: INFO: ******************test_cases/test_nopcommerce.py::test02_login_ddt[admin12@yourstore.com-admin-failed] Setting Passed******************
+10/22/2022 10:50:10 AM: INFO: ******************test_cases/test_nopcommerce.py::test02_login_ddt[admin12@yourstore.com-admin-failed] Executing Passed******************
+10/22/2022 10:50:19 AM: INFO: ******************test_cases/test_nopcommerce.py::test03_search_customer_by_email Setting Passed******************
+10/22/2022 10:50:19 AM: INFO: ******************test_cases/test_nopcommerce.py::test03_search_customer_by_email Executing Passed******************
+10/22/2022 10:50:24 AM: INFO: ******************test_cases/test_nopcommerce.py::test04_search_customer_by_name Setting Passed******************
+10/22/2022 10:50:24 AM: INFO: ******************test_cases/test_nopcommerce.py::test04_search_customer_by_name Executing Passed******************
+10/22/2022 10:50:34 AM: INFO: ******************test_cases/test_nopcommerce.py::test05_add_new_customer Setting Passed******************
+10/22/2022 10:50:34 AM: INFO: ******************test_cases/test_nopcommerce.py::test05_add_new_customer Executing Passed******************

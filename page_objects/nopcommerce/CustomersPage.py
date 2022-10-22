@@ -1,31 +1,50 @@
-from seleniumpagefactory.Pagefactory import PageFactory
+from selenium.webdriver.common.by import By
 
 
-class Customers(PageFactory):
+class Customers:
     tblSearchResults_xpath = "//table[@role='grid']"
     table_xpath = "//table[@id='customers-grid']"
     tableRows_xpath = "//table[@id='customers-grid']//tbody/tr"
     tableColumns_xpath = "//table[@id='customers-grid']//tbody/tr/td"
     table_xpath = "//table[@id='customers-grid']"
+    BTN_ADD_NEW = "//div/*[@href='/Admin/Customer/Create']"
+    DIV_CUSTOMER_ADDED_SUCCESS = "//*[@class='alert alert-success alert-dismissable']"
+    TEXTBOX_SEARCH_EMAIL = "SearchEmail"
+    TEXTBOX_SEARCH_FIRSTNAME = "SearchFirstName"
+    TEXTBOX_SEARCH_LASTNAME = "SearchLastName"
+    BTN_SEARCH = "search-customers"
+    EMAIL_COLUMN_VALUE = "//table[@id='customers-grid']//tbody/tr/td[2]"
 
     def __init__(self, driver):
         self.driver = driver
 
-    locators = {
-        "btn_add_new": ("XPATH", "//div/*[@href='/Admin/Customer/Create']"),
-        "div_customer_added_success": (
-            "XPATH",
-            "//*[@class='alert alert-success alert-dismissable']",
-        ),
-        "textbox_search_email": ("ID", "SearchEmail"),
-        "textbox_search_firstName": ("ID", "SearchFirstName"),
-        "textbox_search_lastName": ("ID", "SearchLastName"),
-        "btn_search": ("ID", "search-customers"),
-        "email_column_value": (
-            "XPATH",
-            "//table[@id='customers-grid']//tbody/tr/td[2]",
-        ),
-    }
+    @property
+    def btn_add_new(self):
+        return self.driver.find_element(By.XPATH, self.BTN_ADD_NEW)
+
+    @property
+    def div_customer_added_success(self):
+        return self.driver.find_element(By.XPATH, self.DIV_CUSTOMER_ADDED_SUCCESS)
+
+    @property
+    def textbox_search_email(self):
+        return self.driver.find_element(By.ID, self.TEXTBOX_SEARCH_EMAIL)
+
+    @property
+    def textbox_search_firstName(self):
+        return self.driver.find_element(By.ID, self.TEXTBOX_SEARCH_FIRSTNAME)
+
+    @property
+    def textbox_search_lastName(self):
+        return self.driver.find_element(By.ID, self.TEXTBOX_SEARCH_LASTNAME)
+
+    @property
+    def btn_search(self):
+        return self.driver.find_element(By.ID, self.BTN_SEARCH)
+
+    @property
+    def email_column_value(self):
+        return self.driver.find_element(By.XPATH, self.EMAIL_COLUMN_VALUE)
 
 
 """    def searchForName_action(self, first_name, last_name):
