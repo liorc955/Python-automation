@@ -93,7 +93,7 @@ def test_status_check(request, get_param):
         )
         if request.node.rep_call.failed:
             if get_param["platform"] == "web":
-                take_screenshot(Base.DRIVER, request.node.nodeid)
+                take_screenshot(request.node.nodeid)
             logger.info(
                 f"******************{str(request.node.nodeid)} Executing Failed******************"
             )
@@ -103,7 +103,7 @@ def test_status_check(request, get_param):
             )
 
 
-# make a screenshot with a name of the test
+# make a screenshot with the name of the test
 def take_screenshot(nodeid):
     time.sleep(2)
     file_name = (

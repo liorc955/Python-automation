@@ -1,7 +1,6 @@
 import allure
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.support.select import Select
-
 from utilities.Base import Base
 
 
@@ -33,3 +32,4 @@ def select_element_by_text(element, text):
     Base.WAIT.until(EC.visibility_of(element))
     selector = Select(element)
     selector.select_by_visible_text(text)
+

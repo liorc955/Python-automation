@@ -1,50 +1,63 @@
 from selenium.webdriver.common.by import By
 
+from page_objects.objects.ElementLocator import ElementLocator
+
 
 class Customers:
-    tblSearchResults_xpath = "//table[@role='grid']"
-    table_xpath = "//table[@id='customers-grid']"
-    tableRows_xpath = "//table[@id='customers-grid']//tbody/tr"
-    tableColumns_xpath = "//table[@id='customers-grid']//tbody/tr/td"
-    table_xpath = "//table[@id='customers-grid']"
-    BTN_ADD_NEW = "//div/*[@href='/Admin/Customer/Create']"
-    DIV_CUSTOMER_ADDED_SUCCESS = "//*[@class='alert alert-success alert-dismissable']"
-    TEXTBOX_SEARCH_EMAIL = "SearchEmail"
-    TEXTBOX_SEARCH_FIRSTNAME = "SearchFirstName"
-    TEXTBOX_SEARCH_LASTNAME = "SearchLastName"
-    BTN_SEARCH = "search-customers"
-    EMAIL_COLUMN_VALUE = "//table[@id='customers-grid']//tbody/tr/td[2]"
+    TABLE_SEARCH_RESULT = ElementLocator(By.XPATH, "//table[@role='grid']")
+    TABLE_ROWS = ElementLocator(By.XPATH, "//table[@id='customers-grid']//tbody/tr")
+    TABLE_COLUMNS = ElementLocator(By.XPATH, "//table[@id='customers-grid']//tbody/tr/td")
+    TABLE = ElementLocator(By.XPATH, "//table[@id='customers-grid']")
+    BTN_ADD_NEW = ElementLocator(By.XPATH, "//div/*[@href='/Admin/Customer/Create']")
+    DIV_CUSTOMER_ADDED_SUCCESS = ElementLocator(By.XPATH, "//*[@class='alert alert-success alert-dismissable']")
+    TEXTBOX_SEARCH_EMAIL = ElementLocator(By.ID, "SearchEmail")
+    TEXTBOX_SEARCH_FIRSTNAME = ElementLocator(By.ID, "SearchFirstName")
+    TEXTBOX_SEARCH_LASTNAME = ElementLocator(By.ID, "SearchLastName")
+    BTN_SEARCH = ElementLocator(By.ID, "search-customers")
+    EMAIL_COLUMN_VALUE = ElementLocator(By.XPATH, "//table[@id='customers-grid']//tbody/tr/td[2]")
 
     def __init__(self, driver):
         self.driver = driver
 
     @property
     def btn_add_new(self):
-        return self.driver.find_element(By.XPATH, self.BTN_ADD_NEW)
+        return self.driver.find_element(self.BTN_ADD_NEW.by, self.BTN_ADD_NEW.value)
 
     @property
     def div_customer_added_success(self):
-        return self.driver.find_element(By.XPATH, self.DIV_CUSTOMER_ADDED_SUCCESS)
+        return self.driver.find_element(self.DIV_CUSTOMER_ADDED_SUCCESS.by, self.DIV_CUSTOMER_ADDED_SUCCESS.value)
 
     @property
     def textbox_search_email(self):
-        return self.driver.find_element(By.ID, self.TEXTBOX_SEARCH_EMAIL)
+        return self.driver.find_element(self.TEXTBOX_SEARCH_EMAIL.by, self.TEXTBOX_SEARCH_EMAIL.value)
 
     @property
     def textbox_search_firstName(self):
-        return self.driver.find_element(By.ID, self.TEXTBOX_SEARCH_FIRSTNAME)
+        return self.driver.find_element(self.TEXTBOX_SEARCH_FIRSTNAME.by, self.TEXTBOX_SEARCH_FIRSTNAME.value)
 
     @property
     def textbox_search_lastName(self):
-        return self.driver.find_element(By.ID, self.TEXTBOX_SEARCH_LASTNAME)
+        return self.driver.find_element(self.TEXTBOX_SEARCH_LASTNAME.by, self.TEXTBOX_SEARCH_LASTNAME.value)
 
     @property
     def btn_search(self):
-        return self.driver.find_element(By.ID, self.BTN_SEARCH)
+        return self.driver.find_element(self.BTN_SEARCH.by, self.BTN_SEARCH.value)
 
     @property
     def email_column_value(self):
-        return self.driver.find_element(By.XPATH, self.EMAIL_COLUMN_VALUE)
+        return self.driver.find_element(self.EMAIL_COLUMN_VALUE.by,  self.EMAIL_COLUMN_VALUE.value)
+
+    @property
+    def table(self):
+        return self.driver.find_element(self.TABLE.by, self.TABLE.value)
+
+    @property
+    def get_row_number(self):
+        return len(self.driver.find_elements(self.TABLE_ROWS.by, self.TABLE_ROWS.value))
+
+    @property
+    def get_column_number(self):
+        return len(self.driver.find_elements(self.TABLE_COLUMNS.by, self.TABLE_COLUMNS.value))
 
 
 """    def searchForName_action(self, first_name, last_name):

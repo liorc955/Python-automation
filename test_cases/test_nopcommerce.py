@@ -39,7 +39,7 @@ def test03_search_customer_by_email(login_before):
     email = "steve_gates@nopCommerce.com"
     web_flows.search_for_email(email)
     time.sleep(2)
-    assert web_flows.get_column_number() > 1
+    assert Base.CUSTOMER.get_column_number > 1
     assert email == ui_actions.get_element_text(Base.CUSTOMER.email_column_value), "Incorrect email for this customer"
 
 
@@ -50,7 +50,7 @@ def test04_search_customer_by_name(login_before):
     lastname = "Gates"
     web_flows.search_for_name(firstname, lastname)
     time.sleep(2)
-    assert web_flows.get_column_number() > 1, "Can't find any customer with this name"
+    assert Base.CUSTOMER.get_column_number > 1, "Can't find any customer with this name"
     assert web_flows.search_name_on_table(firstname + " " + lastname), "The first and last name of this customer is " \
                                                                        "incorrect "
 

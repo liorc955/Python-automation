@@ -25,21 +25,11 @@ def search_for_name(first_name, last_name):
     ui_actions.click(Base.CUSTOMER.btn_search)
 
 
-@allure.step("Business Flow: Get Row Number")
-def get_row_number():
-    return len(Base.DRIVER.find_elements(By.XPATH, Base.CUSTOMER.tableRows_xpath))
-
-
-@allure.step("Business Flow: Get Column Number")
-def get_column_number():
-    return len(Base.DRIVER.find_elements(By.XPATH, Base.CUSTOMER.tableColumns_xpath))
-
-
 @allure.step("Business Flow: Search For Name")
 def search_name_on_table(full_name):
     flag = False
-    for r in range(1, get_row_number() + 1):
-        table = Base.DRIVER.find_element(By.XPATH, Base.CUSTOMER.table_xpath)
+    for r in range(1, Base.CUSTOMER.get_row_number + 1):
+        table = Base.CUSTOMER.table
         name = ui_actions.get_element_text(
             table.find_element(
                 By.XPATH,

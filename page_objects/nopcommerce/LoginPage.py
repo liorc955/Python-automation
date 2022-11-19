@@ -1,25 +1,27 @@
 from selenium.webdriver.common.by import By
 
+from page_objects.objects.ElementLocator import ElementLocator
+
 
 class Login:
-    TEXT_USER_EMAIL = "Email"
-    TEXTBOX_PASSWORD = "Password"
-    BUTTON_LOGIN = "//button[@class='button-1 login-button']"
+    TEXT_USER_EMAIL = ElementLocator(By.ID, "Email")
+    TEXTBOX_PASSWORD = ElementLocator(By.ID, "Password")
+    BUTTON_LOGIN = ElementLocator(By.XPATH, "//button[@class='button-1 login-button']")
 
     def __init__(self, driver):
         self.driver = driver
 
     @property
     def textbox_user_email(self):
-        return self.driver.find_element(By.ID, self.TEXT_USER_EMAIL)
+        return self.driver.find_element(self.TEXT_USER_EMAIL.by, self.TEXT_USER_EMAIL.value)
 
     @property
     def textbox_password(self):
-        return self.driver.find_element(By.ID, self.TEXTBOX_PASSWORD)
+        return self.driver.find_element(self.TEXTBOX_PASSWORD.by, self.TEXTBOX_PASSWORD.value)
 
     @property
     def button_login(self):
-        return self.driver.find_element(By.XPATH, self.BUTTON_LOGIN)
+        return self.driver.find_element(self.BUTTON_LOGIN.by, self.BUTTON_LOGIN.value)
 
 
 """    def login_action(self, email, password):
