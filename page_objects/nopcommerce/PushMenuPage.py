@@ -4,10 +4,10 @@ from page_objects.objects.ElementLocator import ElementLocator
 
 
 class PushMenu:
-    LINK_LOGOUT = ElementLocator(By.ID, "logout")
 
     def __init__(self, driver):
         self.driver = driver
+        self._link_logout = ElementLocator(By.ID, "logout")
 
     def link_logout(self):
-        return self.driver.find_element(self.LINK_LOGOUT.by, self.LINK_LOGOUT.value)
+        return self.driver.find_element(self._link_logout.by, self._link_logout.value)

@@ -4,24 +4,24 @@ from page_objects.objects.ElementLocator import ElementLocator
 
 
 class Login:
-    TEXT_USER_EMAIL = ElementLocator(By.ID, "Email")
-    TEXTBOX_PASSWORD = ElementLocator(By.ID, "Password")
-    BUTTON_LOGIN = ElementLocator(By.XPATH, "//button[@class='button-1 login-button']")
 
     def __init__(self, driver):
         self.driver = driver
+        self._text_user_email = ElementLocator(By.ID, "Email")
+        self._textbox_password = ElementLocator(By.ID, "Password")
+        self._button_login = ElementLocator(By.XPATH, "//button[@class='button-1 login-button']")
 
     @property
     def textbox_user_email(self):
-        return self.driver.find_element(self.TEXT_USER_EMAIL.by, self.TEXT_USER_EMAIL.value)
+        return self.driver.find_element(self._text_user_email.by, self._text_user_email.value)
 
     @property
     def textbox_password(self):
-        return self.driver.find_element(self.TEXTBOX_PASSWORD.by, self.TEXTBOX_PASSWORD.value)
+        return self.driver.find_element(self._textbox_password.by, self._textbox_password.value)
 
     @property
     def button_login(self):
-        return self.driver.find_element(self.BUTTON_LOGIN.by, self.BUTTON_LOGIN.value)
+        return self.driver.find_element(self._button_login.by, self._button_login.value)
 
 
 """    def login_action(self, email, password):

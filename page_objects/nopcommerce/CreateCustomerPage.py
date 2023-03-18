@@ -4,104 +4,104 @@ from page_objects.objects.ElementLocator import ElementLocator
 
 
 class CreateCustomer:
-    TEXTBOX_EMAIL = ElementLocator(By.ID, "Email")
-    TEXTBOX_PASSWORD = ElementLocator(By.ID, "Password")
-    TEXTBOX_FIRST_NAME = ElementLocator(By.ID, "FirstName")
-    TEXTBOX_LAST_NAME = ElementLocator(By.ID, "LastName")
-    TEXTBOX_GENDER_MALE = ElementLocator(By.ID, "Gender_Male")
-    TEXTBOX_GENDER_FEMALE = ElementLocator(By.ID, "Gender_Female")
-    TEXTBOX_DATEOFBIRTH = ElementLocator(By.ID, "DateOfBirth")
-    TEXTBOX_COMPANY = ElementLocator(By.ID, "Company")
-    CHECKBOX_TAXEXEMPT = ElementLocator(By.ID, "IsTaxExempt")
-    DIV_NEWSLETTER = ElementLocator(By.XPATH, "(//div[@class='k-multiselect-wrap k-floatwrap'])[1]")
-    LI_NEWSLETTER_TEST_STORE_2_OPT = ElementLocator(By.XPATH, "//*["
-                                                              "@id='SelectedNewsletterSubscriptionStoreIds_listbox"
-                                                              "']/li[text()='Test store "
-                                                              "2'] ")
-    DIV_CUSTOMER_ROLE = ElementLocator(By.XPATH, "(//div[@class='k-multiselect-wrap k-floatwrap'])[2]")
-    LI_ADMINISTRATORS_ROLE_OPT = ElementLocator(By.XPATH, "//*[@id='SelectedCustomerRoleIds_listbox']/li[text("
-                                                          ")='Administrators']")
-    SELECT_VENDOR_ID = ElementLocator(By.ID, "VendorId")
-    CHECKBOX_ACTIVE = ElementLocator(By.ID, "Active")
-    TEXTAREA_ADMIN_COMMENT = ElementLocator(By.ID, "AdminComment")
-    BTN_SAVE = ElementLocator(By.NAME, "save")
-    BTN_SAVE_CONTINUE = ElementLocator(By.NAME, "save-continue")
 
     def __init__(self, driver):
         self.driver = driver
+        self._textbox_email = ElementLocator(By.ID, "Email")
+        self._textbox_password = ElementLocator(By.ID, "Password")
+        self._textbox_first_name = ElementLocator(By.ID, "FirstName")
+        self._textbox_last_name = ElementLocator(By.ID, "LastName")
+        self._textbox_gender_male = ElementLocator(By.ID, "Gender_Male")
+        self._textbox_gender_female = ElementLocator(By.ID, "Gender_Female")
+        self._textbox_dateofbirth = ElementLocator(By.ID, "DateOfBirth")
+        self._textbox_company = ElementLocator(By.ID, "Company")
+        self._checkbox_taxexempt = ElementLocator(By.ID, "IsTaxExempt")
+        self._div_newsletter = ElementLocator(By.XPATH, "(//div[@class='k-multiselect-wrap k-floatwrap'])[1]")
+        self._li_newsletter_test_store_2_opt = ElementLocator(By.XPATH, "//*["
+                                                                  "@id='SelectedNewsletterSubscriptionStoreIds_listbox"
+                                                                  "']/li[text()='Test store "
+                                                                  "2'] ")
+        self._div_customer_role = ElementLocator(By.XPATH, "(//div[@class='k-multiselect-wrap k-floatwrap'])[2]")
+        self._li_administrators_role_opt = ElementLocator(By.XPATH, "//*[@id='SelectedCustomerRoleIds_listbox']/li[text("
+                                                              ")='Administrators']")
+        self._select_vendor_id = ElementLocator(By.ID, "VendorId")
+        self._checkbox_active = ElementLocator(By.ID, "Active")
+        self._textarea_admin_comment = ElementLocator(By.ID, "AdminComment")
+        self._btn_save = ElementLocator(By.NAME, "save")
+        self._btn_save_continue = ElementLocator(By.NAME, "save-continue")
 
     @property
     def textbox_email(self):
-        return self.driver.find_element(self.TEXTBOX_EMAIL.by, self.TEXTBOX_EMAIL.value)
+        return self.driver.find_element(self._textbox_email.by, self._textbox_email.value)
 
     @property
     def textbox_password(self):
-        return self.driver.find_element(self.TEXTBOX_PASSWORD.by, self.TEXTBOX_PASSWORD.value)
+        return self.driver.find_element(self._textbox_password.by, self._textbox_password.value)
 
     @property
     def textbox_first_name(self):
-        return self.driver.find_element(self.TEXTBOX_FIRST_NAME.by, self.TEXTBOX_FIRST_NAME.value)
+        return self.driver.find_element(self._textbox_first_name.by, self._textbox_first_name.value)
 
     @property
     def textbox_last_name(self):
-        return self.driver.find_element(self.TEXTBOX_LAST_NAME.by, self.TEXTBOX_LAST_NAME.value)
+        return self.driver.find_element(self._textbox_last_name.by, self._textbox_last_name.value)
 
     @property
     def textbox_gender_male(self):
-        return self.driver.find_element(self.TEXTBOX_GENDER_MALE.by, self.TEXTBOX_GENDER_MALE.value)
+        return self.driver.find_element(self._textbox_gender_male.by, self._textbox_gender_male.value)
 
     @property
     def textbox_gender_female(self):
-        return self.driver.find_element(self.TEXTBOX_GENDER_FEMALE.by, self.TEXTBOX_GENDER_FEMALE.value)
+        return self.driver.find_element(self._textbox_gender_female.by, self._textbox_gender_female.value)
 
     @property
     def textbox_dateOfBirth(self):
-        return self.driver.find_element(self.TEXTBOX_DATEOFBIRTH.by, self.TEXTBOX_DATEOFBIRTH.value)
+        return self.driver.find_element(self._textbox_dateofbirth.by, self._textbox_dateofbirth.value)
 
     @property
     def textbox_company(self):
-        return self.driver.find_element(self.TEXTBOX_COMPANY.by, self.TEXTBOX_COMPANY.value)
+        return self.driver.find_element(self._textbox_company.by, self._textbox_company.value)
 
     @property
     def checkbox_taxExempt(self):
-        return self.driver.find_element(self.CHECKBOX_TAXEXEMPT.by, self.CHECKBOX_TAXEXEMPT.value)
+        return self.driver.find_element(self._checkbox_taxexempt.by, self._checkbox_taxexempt.value)
 
     @property
     def div_newsletter(self):
-        return self.driver.find_element(self.DIV_NEWSLETTER.by, self.DIV_NEWSLETTER.value)
+        return self.driver.find_element(self._div_newsletter.by, self._div_newsletter.value)
 
     @property
     def li_newsletter_test_store_2_opt(self):
         return self.driver.find_element(
-            self.LI_NEWSLETTER_TEST_STORE_2_OPT.by, self.LI_NEWSLETTER_TEST_STORE_2_OPT.value)
+            self._li_newsletter_test_store_2_opt.by, self._li_newsletter_test_store_2_opt.value)
 
     @property
     def div_customer_role(self):
-        return self.driver.find_element(self.DIV_CUSTOMER_ROLE.by, self.DIV_CUSTOMER_ROLE.value)
+        return self.driver.find_element(self._div_customer_role.by, self._div_customer_role.value)
 
     @property
     def li_Administrators_role_opt(self):
-        return self.driver.find_element(self.LI_ADMINISTRATORS_ROLE_OPT.by, self.LI_ADMINISTRATORS_ROLE_OPT.value)
+        return self.driver.find_element(self._li_administrators_role_opt.by, self._li_administrators_role_opt.value)
 
     @property
     def select_vendor_id(self):
-        return self.driver.find_element(self.SELECT_VENDOR_ID.by, self.SELECT_VENDOR_ID.value)
+        return self.driver.find_element(self._select_vendor_id.by, self._select_vendor_id.value)
 
     @property
     def checkbox_active(self):
-        return self.driver.find_element(self.CHECKBOX_ACTIVE.by, self.CHECKBOX_ACTIVE.value)
+        return self.driver.find_element(self._checkbox_active.by, self._checkbox_active.value)
 
     @property
     def textarea_admin_comment(self):
-        return self.driver.find_element(self.TEXTAREA_ADMIN_COMMENT.by, self.TEXTAREA_ADMIN_COMMENT.value)
+        return self.driver.find_element(self._textarea_admin_comment.by, self._textarea_admin_comment.value)
 
     @property
     def btn_save(self):
-        return self.driver.find_element(self.BTN_SAVE.by, self.BTN_SAVE.value)
+        return self.driver.find_element(self._btn_save.by, self._btn_save.value)
 
     @property
     def btn_save_continue(self):
-        return self.driver.find_element(self.BTN_SAVE_CONTINUE.by, self.BTN_SAVE_CONTINUE.value)
+        return self.driver.find_element(self._btn_save_continue.by, self._btn_save_continue.value)
 
 
 """    def fill_customer_form_action(
