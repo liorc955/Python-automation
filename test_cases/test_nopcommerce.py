@@ -33,8 +33,9 @@ def test02_login_ddt(email_data, password_data, expected_result):
         assert Base.DRIVER.title == "Your store. Login", "Incorrect title for this username and password"
 
 
+@pytest.mark.usefixtures("login_before")
 @allure.description("This test verifies the search of customer by email flow")
-def test03_search_customer_by_email(login_before):
+def test03_search_customer_by_email():
     web_flows.goto_customer_table()
     email = "steve_gates@nopCommerce.com"
     web_flows.search_for_email(email)
@@ -43,8 +44,9 @@ def test03_search_customer_by_email(login_before):
     assert email == ui_actions.get_element_text(Base.CUSTOMER.email_column_value), "Incorrect email for this customer"
 
 
+@pytest.mark.usefixtures("login_before")
 @allure.description("This test verifies the search of customer by name flow")
-def test04_search_customer_by_name(login_before):
+def test04_search_customer_by_name():
     web_flows.goto_customer_table()
     firstname = "Steve"
     lastname = "Gates"
@@ -55,8 +57,9 @@ def test04_search_customer_by_name(login_before):
                                                                        "incorrect "
 
 
+@pytest.mark.usefixtures("login_before")
 @allure.description("This test verifies the add of a new customer flow")
-def test05_add_new_customer(login_before):
+def test05_add_new_customer():
     web_flows.goto_customer_table()
     ui_actions.click(Base.CUSTOMER.btn_add_new)
     customer = json.loads(open('./TestData/customer.json', "r").read())
@@ -66,8 +69,8 @@ def test05_add_new_customer(login_before):
     web_flows.fill_customer_form(customer)
     ui_actions.click(Base.CREATE_CUSTOMER.btn_save)
     assert (
-            Base.DRIVER.title == "Customers / nopCommerce administration"
-            and "The new customer has been added successfully."
-            in ui_actions.get_element_text(Base.CUSTOMER.div_customer_added_success), "There is a problem while "
-                                                                                      "trying to submit the form "
+        Base.DRIVER.title == "Customers / nopCommerce administration"
+        and "The new customer has been added successfully."
+        in ui_actions.get_element_text(Base.CUSTOMER.div_customer_added_success), "There is a problem while "
+                                                                                  "trying to submit the form "
     )

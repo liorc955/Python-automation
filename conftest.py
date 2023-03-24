@@ -58,14 +58,14 @@ def initFireFoxDriver():
 
 # Before Method
 @pytest.fixture(scope="function", autouse=True)
-def before(request, get_param):
+def before(get_param):
     if get_param["platform"] == "web":
         Base.DRIVER.get(read_properties.get_web_data("baseUrl"))
 
 
 # set up a hook to be able to check the status test
 @pytest.hookimpl(tryfirst=True, hookwrapper=True)
-def pytest_runtest_makereport(item, call):
+def pytest_runtest_makereport(item):
     # execute all other hooks to obtain the report object
     outcome = yield
     rep = outcome.get_result()
@@ -78,7 +78,7 @@ def pytest_runtest_makereport(item, call):
 
 # check if a test has failed or passed
 @pytest.fixture(scope="function", autouse=True)
-def test_status_check(request, get_param):
+def status_check(request, get_param):
     yield
     # request.node is an "item" because we use the default
     # "function" scope
