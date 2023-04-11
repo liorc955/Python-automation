@@ -8,4 +8,5 @@ def read_data(path):
     rows = []
     for row in csvreader:
         rows.append(row)
+    file.close()
     return rows
