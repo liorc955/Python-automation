@@ -7,57 +7,57 @@ class Customers:
 
     def __init__(self, driver):
         self.driver = driver
-        self._table_search_result = ElementLocator(By.XPATH, "//table[@role='grid']")
-        self._table_rows = ElementLocator(By.XPATH, "//table[@id='customers-grid']//tbody/tr")
-        self._table_columns = ElementLocator(By.XPATH, "//table[@id='customers-grid']//tbody/tr/td")
-        self._table = ElementLocator(By.XPATH, "//table[@id='customers-grid']")
-        self._btn_add_new = ElementLocator(By.XPATH, "//div/*[@href='/Admin/Customer/Create']")
-        self._div_customer_added_success = ElementLocator(By.XPATH, "//*[@class='alert alert-success alert-dismissable']")
-        self._textbox_search_email = ElementLocator(By.ID, "SearchEmail")
-        self._textbox_search_firstname = ElementLocator(By.ID, "SearchFirstName")
-        self._textbox_search_lastname = ElementLocator(By.ID, "SearchLastName")
-        self._btn_search = ElementLocator(By.ID, "search-customers")
-        self._email_column_value = ElementLocator(By.XPATH, "//table[@id='customers-grid']//tbody/tr/td[2]")
+        self.__table_search_result = ElementLocator(By.XPATH, "//table[@role='grid']")
+        self.__table_rows = ElementLocator(By.XPATH, "//table[@id='customers-grid']//tbody/tr")
+        self.__table_columns = ElementLocator(By.XPATH, "//table[@id='customers-grid']//tbody/tr/td")
+        self.__table = ElementLocator(By.XPATH, "//table[@id='customers-grid']")
+        self.__btn_add_new = ElementLocator(By.XPATH, "//div/*[@href='/Admin/Customer/Create']")
+        self.__div_customer_added_success = ElementLocator(By.XPATH, "//*[@class='alert alert-success alert-dismissable']")
+        self.__textbox_search_email = ElementLocator(By.ID, "SearchEmail")
+        self.__textbox_search_firstname = ElementLocator(By.ID, "SearchFirstName")
+        self.__textbox_search_lastname = ElementLocator(By.ID, "SearchLastName")
+        self.__btn_search = ElementLocator(By.ID, "search-customers")
+        self.__email_column_value = ElementLocator(By.XPATH, "//table[@id='customers-grid']//tbody/tr/td[2]")
 
     @property
     def btn_add_new(self):
-        return self.driver.find_element(self._btn_add_new.by, self._btn_add_new.value)
+        return self.driver.find_element(self.__btn_add_new.by, self.__btn_add_new.value)
 
     @property
     def div_customer_added_success(self):
-        return self.driver.find_element(self._div_customer_added_success.by, self._div_customer_added_success.value)
+        return self.driver.find_element(self.__div_customer_added_success.by, self.__div_customer_added_success.value)
 
     @property
     def textbox_search_email(self):
-        return self.driver.find_element(self._textbox_search_email.by, self._textbox_search_email.value)
+        return self.driver.find_element(self.__textbox_search_email.by, self.__textbox_search_email.value)
 
     @property
     def textbox_search_firstName(self):
-        return self.driver.find_element(self._textbox_search_firstname.by, self._textbox_search_firstname.value)
+        return self.driver.find_element(self.__textbox_search_firstname.by, self.__textbox_search_firstname.value)
 
     @property
     def textbox_search_lastName(self):
-        return self.driver.find_element(self._textbox_search_lastname.by, self._textbox_search_lastname.value)
+        return self.driver.find_element(self.__textbox_search_lastname.by, self.__textbox_search_lastname.value)
 
     @property
     def btn_search(self):
-        return self.driver.find_element(self._btn_search.by, self._btn_search.value)
+        return self.driver.find_element(self.__btn_search.by, self.__btn_search.value)
 
     @property
     def email_column_value(self):
-        return self.driver.find_element(self._email_column_value.by,  self._email_column_value.value)
+        return self.driver.find_element(self.__email_column_value.by,  self.__email_column_value.value)
 
     @property
     def table(self):
-        return self.driver.find_element(self._table.by, self._table.value)
+        return self.driver.find_element(self.__table.by, self.__table.value)
 
     @property
     def get_row_number(self):
-        return len(self.driver.find_elements(self._table_rows.by, self._table_rows.value))
+        return len(self.driver.find_elements(self.__table_rows.by, self.__table_rows.value))
 
     @property
     def get_column_number(self):
-        return len(self.driver.find_elements(self._table_columns.by, self._table_columns.value))
+        return len(self.driver.find_elements(self.__table_columns.by, self.__table_columns.value))
 
 
 """    def searchForName_action(self, first_name, last_name):

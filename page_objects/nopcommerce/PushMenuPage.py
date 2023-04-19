@@ -7,7 +7,7 @@ class PushMenu:
 
     def __init__(self, driver):
         self.driver = driver
-        self._link_logout = ElementLocator(By.ID, "logout")
+        self.__link_logout = ElementLocator(By.ID, "logout")
 
     def link_logout(self):
-        return self.driver.find_element(self._link_logout.by, self._link_logout.value)
+        return self.driver.find_element(self.__link_logout.by, self.__link_logout.value)
