@@ -11,8 +11,7 @@ url = read_properties.get_api_data("baseUrl")
 @allure.step("Parse Json File to Python Dictionary")
 def parseToJson(path):
     with open(path, mode="r") as file:
-        data_input = file.read()
-    return json.loads(data_input)
+        return json.load(file)
 
 
 @allure.step("Get Data")
