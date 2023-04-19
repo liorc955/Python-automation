@@ -3,32 +3,35 @@ import json
 import allure
 import requests
 import jsonpath
+from utilities import read_properties
+
+url = read_properties.get_api_data("baseUrl")
 
 
 @allure.step("Parse Json File to Python Dictionary")
 def parseToJson(path):
-    file = open(path, "r")
-    data_input = file.read()
+    with open(path, mode="r") as file:
+        data_input = file.read()
     return json.loads(data_input)
 
 
 @allure.step("Get Data")
-def get(url):
+def get():
     return requests.get(url)
 
 
 @allure.step("Post Data")
-def post(url, request_json):
+def post(request_json):
     return requests.post(url, request_json)
 
 
 @allure.step("Update Data")
-def put(url, request_json):
+def put(request_json):
     return requests.put(url, request_json)
 
 
 @allure.step("Delete Data")
-def delete(url):
+def delete():
     return requests.delete(url)
 
 
